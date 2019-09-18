@@ -1,17 +1,19 @@
-urea ammonium nitrate,http://purl.obolibrary.org/obo/CHEBI_88276,"A mixture consisting of urea (typically 40-45%), ammonium nitrate (30-35%) and water (30-20%). It is used as a nitrogen fertilizer in agriculture."
-calcium carbonate,http://purl.obolibrary.org/obo/CHEBI_3311,A carbonate salt that has formula CO3.Ca.
-ammonium sulfate urea,http://purl.obolibrary.org/obo/CHEBI_91240,A mixture obtained by combining ammonium sulfate and urea.
-calcium ammonium nitrate,http://purl.obolibrary.org/obo/CHEBI_91238,"A mixture obtained by combining ammonium nitrate, calcium nitrate and water. It is widely used as a nitrogen fertilizer in agriculture."
-potassium chloride,http://purl.obolibrary.org/obo/CHEBI_32588,A metal chloride salt with a K(+) counterion.
-ammonium sulfate nitrate,http://purl.obolibrary.org/obo/CHEBI_140457,has_part some ammonium sulfate and has_part some ammonium nitrate
-magnesium carbonate,http://purl.obolibrary.org/obo/CHEBI_31793,"A magnesium salt with formula CMgO3. Its hydrated forms, particularly the di-, tri-, and tetrahydrates occur as minerals."
-Phosphoric acid,http://purl.obolibrary.org/obo/CHEBI_26078,A member of the phosphoric acids that has formula H3O4P.
-calcium nitrate,http://purl.obolibrary.org/obo/CHEBI_64205,Inorganic nitrate salt of calcium.
-calcium cyanamide,http://purl.obolibrary.org/obo/CHEBI_64301,"The calcium salt of cyanamide, formed when calcium carbide reacts with nitrogen"
-ammonium sulfate,http://purl.obolibrary.org/obo/CHEBI_62946,"An inorganic sulfate salt obtained by reaction of sulfuric acid with two equivalents of ammonia. A high-melting (decomposes above 280degreeC) white solid which is very soluble in water (70.6 g/100 g water at 0degreeC; 103.8 g/100 g water at 100degreeC), it is widely used as a fertilizer for alkaline soils."
-sodium selenate,http://purl.obolibrary.org/obo/CHEBI_77775,An inorganic sodium salt having selenate as the counterion.
-sodium nitrate,http://purl.obolibrary.org/obo/CHEBI_63005,The inorganic nitrate salt of sodium.
-ammonium nitrate,http://purl.obolibrary.org/obo/CHEBI_63038,The ammonium salt of nitric acid.
-potassium nitrate,http://purl.obolibrary.org/obo/CHEBI_63043,The inorganic nitrate salt of potassium.
-calcium bis(dihydrogenphosphate),http://purl.obolibrary.org/obo/CHEBI_35433,none
-urea,http://purl.obolibrary.org/obo/CHEBI_16199,A carbonyl group with two C-bound amine groups.
+tree injection,http://purl.obolibrary.org/obo/AGRO_00000053,An application method in which a material entity is injected under the bark of trees.
+soil injection,http://purl.obolibrary.org/obo/AGRO_00000052,An application method in which a material entity is injected under pressure beneath the soil surface.
+seed dressing,http://purl.obolibrary.org/obo/AGRO_00000051,An application method in which a material entity is appplied directly on seeds before seeding.
+rope-wick application,http://purl.obolibrary.org/obo/AGRO_00000050,An application method in which a liquid material entity is conveyed from a reservoir to a rope or wick that is wiped into unwanted plants.
+plough sole placement,http://purl.obolibrary.org/obo/AGRO_00000049,An application method in which the material entity is placed in a continuous band on the bottom of the furrow during the process of ploughing. Each band is covered as the next furrow is turned. The aim is to place the material entity in moist soil where it can become more available to growing plants.
+foliar application,http://purl.obolibrary.org/obo/AGRO_00000048,An application method in which a liquid material entity is sprayed to the leafy portions of a plant.
+chemical basal application,http://purl.obolibrary.org/obo/AGRO_00000043,An application method in which a chemical entity is applied to the lower portions of plant stems or tree trunks just above the soil line.
+broadcast application method,http://purl.obolibrary.org/obo/AGRO_00000040,An application method which specifies how a material entity is to be uniformly applied to an area.
+top dressing,http://purl.obolibrary.org/obo/AGRO_00000042,A broadcast application in which a material entity is applied to an area after seedling emergence and establishment of plants.
+fertilizer basal application,http://purl.obolibrary.org/obo/AGRO_00000041,A broadcast application in which fertilizer is applied to an area before planting or before seedling emergence.
+fertigation,http://purl.obolibrary.org/obo/AGRO_00000047,An application method in which a water-soluble fertilizer is injected into water flowing through an irrigation system.
+deep placement,http://purl.obolibrary.org/obo/AGRO_00000046,An application method in which the material entity is placed in the reduced soil layer.
+contact placement,http://purl.obolibrary.org/obo/AGRO_00000045,"An application method in which a material entity is applied at the time of sowing, and placed in contact with seeds."
+chemigation,http://purl.obolibrary.org/obo/AGRO_00000044,An application method in which a water-soluble chemical is injected into water flowing through an irrigation system.
+band application,http://purl.obolibrary.org/obo/AGRO_00000038,"An application method in which a material entity is applied in bands below, above, on one side, or on both sides of seeds or seedlings at planting."
+side dressing,http://purl.obolibrary.org/obo/AGRO_00000039,A band application in which the material entity is applied after seeding or planting.
+aerial application,http://purl.obolibrary.org/obo/AGRO_00000037,An application method in which a liquid material entity is applied by aircraft to an area.
+drilling,http://purl.obolibrary.org/obo/AGRO_00000413,An application method in which seeds are uniformlyplaced into shallow furrows before closing the furrows.
+dibbling,http://purl.obolibrary.org/obo/AGRO_00000412,An application method in which a material entity is placed into the soil in holes made with a pointed implement.

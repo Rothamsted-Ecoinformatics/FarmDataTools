@@ -1,0 +1,49 @@
+{
+    "area": [
+        {
+            "resource": "taxonomy_term",
+            "uri": "https://rothamstedfarm.farmos.net/taxonomy_term/126"
+        }
+    ],
+    "asset": [],
+    "changed": "1472684400",
+    "created": "1472684400",
+    "data": "",
+    "done": "1",
+    "equipment": [
+        {
+            "resource": "farm_asset",
+            "uri": "https://rothamstedfarm.farmos.net/farm_asset/10"
+        },
+        {
+            "resource": "farm_asset",
+            "uri": "https://rothamstedfarm.farmos.net/farm_asset/20"
+        }
+    ],
+    "files": [],
+    "flags": [],
+    "name": "Cultivation: Ploughed Tillage 30 cm in R/WW/1911",
+    "notes": {
+        "format": "farm_format",
+        "value": "<p>Direction of work (driven): N</p>\n<p>Plough thrown: E</p>\n<p>some comment </p>\n<p>how do I appear?</p>\n"
+    },
+    "owner": [
+        {
+            "id": "16",
+            "resource": "user"
+        }
+    ],
+    "quantity": [
+        {
+            "label": "false",
+            "measure": "length",
+            "unit": {
+                "id": "238",
+                "resource": "taxonomy_term"
+            },
+            "value": "10"
+        }
+    ],
+    "timestamp": "1472684400",
+    "type": "farm_activity"
+}

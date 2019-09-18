@@ -63,6 +63,6 @@ if __name__ == "__main__":
     #data = getExperimentDiary(70)
     data = getTerms()
     for d in data:
-        print(d["name"] + ", " + d["vocabulary"]["id"])
+        print(d["name"] + " - " + d["vocabulary"]["id"])
     
     #print(json.dumps(data, indent=4, sort_keys=True))

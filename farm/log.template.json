@@ -1,0 +1,96 @@
+{
+    "area": [
+        {
+            "id": "126",
+            "resource": "taxonomy_term",
+            "uri": "https://rothamstedfarm.farmos.net/taxonomy_term/126"
+        },
+        {
+            "id": "127",
+            "resource": "taxonomy_term",
+            "uri": "https://rothamstedfarm.farmos.net/taxonomy_term/127"
+        },
+        {
+            "id": "128",
+            "resource": "taxonomy_term",
+            "uri": "https://rothamstedfarm.farmos.net/taxonomy_term/128"
+        }
+    ],
+    "asset": [],
+    "changed": "1568723448",
+    "created": "1568719074",
+    "data": null,
+    "done": "1",
+    "equipment": [
+        {
+            "id": "10",
+            "resource": "farm_asset",
+            "uri": "https://rothamstedfarm.farmos.net/farm_asset/10"
+        },
+        {
+            "id": "20",
+            "resource": "farm_asset",
+            "uri": "https://rothamstedfarm.farmos.net/farm_asset/20"
+        }
+    ],
+    "files": [],
+    "flags": [],
+    "geofield": [
+        {
+            "bottom": "51.804142578336",
+            "geo_type": "multipolygon",
+            "geom": "MULTIPOLYGON (((-0.399699925753994 51.8051945265705, -0.397740277507126 51.8055892981266, -0.398264274631363 51.8065895067803, -0.400224248840827 51.8061948207013, -0.399699925753994 51.8051945265705)), ((-0.398730287611986 51.8041425783359, -0.398293344693773 51.8042305943015, -0.398763381855902 51.8051284570152, -0.399200480777143 51.8050403514781, -0.398730287611986 51.8041425783359)), ((-0.395195735594765 51.8057641172363, -0.395663704660206 51.8066576480096, -0.394836218495609 51.8068242180604, -0.39436826421399 51.8059306841413, -0.395195735594765 51.8057641172363)))",
+            "lat": "51.805828748122",
+            "latlon": "51.805828748122,-0.398004009225",
+            "left": "-0.400224248841",
+            "lon": "-0.398004009225",
+            "right": "-0.394368264214",
+            "schemaorg_shape": "",
+            "srid": null,
+            "top": "51.806824218060"
+        }
+    ],
+    "id": "116",
+    "images": [],
+    "inventory": [],
+    "log_category": [],
+    "log_owner": [
+        {
+            "id": "16",
+            "resource": "user",
+            "uri": "https://rothamstedfarm.farmos.net/user/16"
+        }
+    ],
+    "membership": {
+        "group": []
+    },
+    "movement": {
+        "area": [],
+        "geometry": null
+    },
+    "name": "Cultivation: Ploughed Tillage 15 cm in BLACKHORSE",
+    "notes": {
+        "format": "farm_format",
+        "value": "<p>Direction of work (driven): N</p>\n<p>Plough thrown: E</p>\n<p>some comment </p>\n<p>how do I appear?</p>\n"
+    },
+    "quantity": [
+        {
+            "label": false,
+            "measure": "length",
+            "unit": {
+                "id": "238",
+                "resource": "taxonomy_term",
+                "uri": "https://rothamstedfarm.farmos.net/taxonomy_term/238"
+            },
+            "value": "15"
+        }
+    ],
+    "timestamp": "1474066800",
+    "type": "farm_activity",
+    "uid": {
+        "id": "17",
+        "resource": "user",
+        "uri": "https://rothamstedfarm.farmos.net/user/17"
+    },
+    "url": "https://rothamstedfarm.farmos.net/log/116"
+}
