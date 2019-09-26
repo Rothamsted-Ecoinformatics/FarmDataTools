@@ -31,9 +31,4 @@ class FarmService(object):
         #    print(item["id"] + ", " + item["name"])
     
     def myFarm(self):
-        return self     
-    
-    def equipmentItem(self,equipmentId):
-        return self.equipment[equipmentId]
-    
-    
+        return self 

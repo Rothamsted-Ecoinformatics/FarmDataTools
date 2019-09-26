@@ -13,3 +13,4 @@ for index, row in df.iterrows():
     #print(row[0])
     if row['Prop_No'] == 'Commercial' and "Drill" in row['Application'] and row['loaded'] == "N" and isinstance(row['field_id'],int):
         print(row['Application'])
+        # need to create the planting and then create a seeding attached to it

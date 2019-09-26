@@ -1,20 +1,5 @@
 {
     "area": [
-        {
-            "id": "126",
-            "resource": "taxonomy_term",
-            "uri": "https://rothamstedfarm.farmos.net/taxonomy_term/126"
-        },
-        {
-            "id": "127",
-            "resource": "taxonomy_term",
-            "uri": "https://rothamstedfarm.farmos.net/taxonomy_term/127"
-        },
-        {
-            "id": "128",
-            "resource": "taxonomy_term",
-            "uri": "https://rothamstedfarm.farmos.net/taxonomy_term/128"
-        }
     ],
     "asset": [],
     "changed": "1568723448",

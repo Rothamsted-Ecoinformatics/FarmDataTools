@@ -21,7 +21,7 @@ class Fertilizer():
         return ",".join([str(value) for attr, value in self.__dict__.items()])
 
 def getAreaByName(areaName):
-    areas = myFarm.area.get({'name':areaName})#.term.get(127)
+    areas = myFarm.farm.area.get({'name':areaName})#.term.get(127)
     print(json.dumps(areas, indent=4, sort_keys=True))
 
 def getFertilizerApplications(plantingId):
@@ -50,7 +50,7 @@ def getFertilizerApplications(plantingId):
     return logs
 
 def getExperimentDiary(plantingId):
-    logs = myFarm.asset.get(plantingId)
+    logs = myFarm.farm.asset.get(plantingId)
     return(logs)
 
 def getTerms():
