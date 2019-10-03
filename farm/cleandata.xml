@@ -1,0 +1,758 @@
+<TABLE ALIGN="center" border="0" width="100%" cellpadding="0" cellspacing="0">
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Anagallis arvensis L.">
+</TD>
+<TD type="text"  size="3" value="84"></TD>
+<TD type="text"  size="3" value="97"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,03"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,03"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,03"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Apera spica-venti">
+</TD>
+<TD type="text"  size="3" value="4"></TD>
+<TD type="text"  size="3" value="20"></TD>
+<TD type="text"  size="3" value="60"></TD>
+<TD type="text"  size="3" value="90"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT" class="disabledinputerror" size="3" value="0,28"></TD>
+<TD name="Rate3" type="TEXT" class="disabledinputerror" size="3" value="0,4"></TD>
+<TD name="Rate4" type="TEXT" class="disabledinputerror" size="3" value="0,4"></TD>
+<TD name="Rate5" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Apera spica-venti, ALS-res">
+</TD>
+<TD type="text"  size="3" value="4"></TD>
+<TD type="text"  size="3" value="20"></TD>
+<TD type="text"  size="3" value="60"></TD>
+<TD type="text"  size="3" value="90"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate2" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate3" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate4" type="TEXT" class="disabledinputerror" size="3" value="0,7"></TD>
+<TD name="Rate5" type="TEXT" class="disabledinputerror" size="3" value="0,78"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Apera spica-venti, fop/dim-res">
+</TD>
+<TD type="text"  size="3" value="4"></TD>
+<TD type="text"  size="3" value="20"></TD>
+<TD type="text"  size="3" value="60"></TD>
+<TD type="text"  size="3" value="90"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate2" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate3" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate4" type="TEXT" class="disabledinputerror" size="3" value="0,7"></TD>
+<TD name="Rate5" type="TEXT" class="disabledinputerror" size="3" value="0,78"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Apera spica-venti, metabolic">
+</TD>
+<TD type="text"  size="3" value="4"></TD>
+<TD type="text"  size="3" value="20"></TD>
+<TD type="text"  size="3" value="60"></TD>
+<TD type="text"  size="3" value="90"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate2" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate3" type="TEXT" class="disabledinputerror" size="3" value="0,64"></TD>
+<TD name="Rate4" type="TEXT" class="disabledinputerror" size="3" value="0,7"></TD>
+<TD name="Rate5" type="TEXT" class="disabledinputerror" size="3" value="0,78"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Arabidopsis thaliana">
+</TD>
+<TD type="text"  size="3" value="24"></TD>
+<TD type="text"  size="3" value="65"></TD>
+<TD type="text"  size="3" value="92"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,09"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Brassica campestris L">
+</TD>
+<TD type="text"  size="3" value="5"></TD>
+<TD type="text"  size="3" value="25"></TD>
+<TD type="text"  size="3" value="67"></TD>
+<TD type="text"  size="3" value="93"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,18"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Brassica napus L.">
+</TD>
+<TD type="text"  size="3" value="15"></TD>
+<TD type="text"  size="3" value="52"></TD>
+<TD type="text"  size="3" value="87"></TD>
+<TD type="text"  size="3" value="98"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="80" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value="0,16"></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,18"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,18"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,2"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,23"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Capsella bursa-pastoris">
+</TD>
+<TD type="text"  size="3" value="96"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="80" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,02"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,03"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,03"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Centaurea cyanus L.">
+</TD>
+<TD type="text"  size="3" value="64"></TD>
+<TD type="text"  size="3" value="92"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="90" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,07"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,09"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,11"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,15"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Chamomilla suaveolens">
+</TD>
+<TD type="text"  size="3" value="34"></TD>
+<TD type="text"  size="3" value="76"></TD>
+<TD type="text"  size="3" value="95"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="90" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,12"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,15"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,18"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,24"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Chenopodium album L.">
+</TD>
+<TD type="text"  size="3" value="0"></TD>
+<TD type="text"  size="3" value="0"></TD>
+<TD type="text"  size="3" value="1"></TD>
+<TD type="text"  size="3" value="6"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT" class="disabledinputerror" size="3" value="1,4"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Fumaria officinalis L.">
+</TD>
+<TD type="text"  size="3" value="10"></TD>
+<TD type="text"  size="3" value="40"></TD>
+<TD type="text"  size="3" value="80"></TD>
+<TD type="text"  size="3" value="96"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,14"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Galeopsis spp.">
+</TD>
+<TD type="text"  size="3" value="39"></TD>
+<TD type="text"  size="3" value="80"></TD>
+<TD type="text"  size="3" value="96"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,07"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Galium aparine L.">
+</TD>
+<TD type="text"  size="3" value="39"></TD>
+<TD type="text"  size="3" value="80"></TD>
+<TD type="text"  size="3" value="96"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="90" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value="0,1"></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,11"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,11"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,16"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,22"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Geranium spp.">
+</TD>
+<TD type="text"  size="3" value="47"></TD>
+<TD type="text"  size="3" value="84"></TD>
+<TD type="text"  size="3" value="97"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="60" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="80" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="90" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,07"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,09"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,11"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,15"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Lamium spp.">
+</TD>
+<TD type="text"  size="3" value="84"></TD>
+<TD type="text"  size="3" value="97"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,05"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,06"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Lapsana communis L.">
+</TD>
+<TD type="text"  size="3" value="73"></TD>
+<TD type="text"  size="3" value="94"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,04"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,06"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Myosotis arvensis">
+</TD>
+<TD type="text"  size="3" value="73"></TD>
+<TD type="text"  size="3" value="94"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="80" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,04"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,07"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Papaver rhoeas ALS-res">
+</TD>
+<TD type="text"  size="3" value="34"></TD>
+<TD type="text"  size="3" value="76"></TD>
+<TD type="text"  size="3" value="95"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value="0,24"></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,24"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,24"></TD>
+<TD name="Rate4" type="TEXT" class="disabledinputerror" size="3" value="0,26"></TD>
+<TD name="Rate5" type="TEXT" class="disabledinputerror" size="3" value="0,29"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Papaver rhoeas L.">
+</TD>
+<TD type="text"  size="3" value="34"></TD>
+<TD type="text"  size="3" value="76"></TD>
+<TD type="text"  size="3" value="95"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="90" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,11"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,11"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,15"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,18"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Papaver rhoeas SU-res">
+</TD>
+<TD type="text"  size="3" value="34"></TD>
+<TD type="text"  size="3" value="76"></TD>
+<TD type="text"  size="3" value="95"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value="0,24"></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,24"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,24"></TD>
+<TD name="Rate4" type="TEXT" class="disabledinputerror" size="3" value="0,26"></TD>
+<TD name="Rate5" type="TEXT" class="disabledinputerror" size="3" value="0,29"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Poa annua L.">
+</TD>
+<TD type="text"  size="3" value="10"></TD>
+<TD type="text"  size="3" value="40"></TD>
+<TD type="text"  size="3" value="80"></TD>
+<TD type="text"  size="3" value="96"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="90" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,21"></TD>
+<TD name="Rate3" type="TEXT" class="disabledinputerror" size="3" value="0,27"></TD>
+<TD name="Rate4" type="TEXT" class="disabledinputerror" size="3" value="0,33"></TD>
+<TD name="Rate5" type="TEXT" class="disabledinputerror" size="3" value="0,44"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Polygonum aviculare L.">
+</TD>
+<TD type="text"  size="3" value="18"></TD>
+<TD type="text"  size="3" value="57"></TD>
+<TD type="text"  size="3" value="89"></TD>
+<TD type="text"  size="3" value="98"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,11"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Polygonum convolvulus L.">
+</TD>
+<TD type="text"  size="3" value="34"></TD>
+<TD type="text"  size="3" value="76"></TD>
+<TD type="text"  size="3" value="95"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,08"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Polygonum lapathifolium L.">
+</TD>
+<TD type="text"  size="3" value="47"></TD>
+<TD type="text"  size="3" value="84"></TD>
+<TD type="text"  size="3" value="97"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,06"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Polygonum persicaria L.">
+</TD>
+<TD type="text"  size="3" value="47"></TD>
+<TD type="text"  size="3" value="84"></TD>
+<TD type="text"  size="3" value="97"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,06"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Senecio vulgaris L.">
+</TD>
+<TD type="text"  size="3" value="18"></TD>
+<TD type="text"  size="3" value="57"></TD>
+<TD type="text"  size="3" value="89"></TD>
+<TD type="text"  size="3" value="98"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,11"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,11"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Silene noctiflora">
+</TD>
+<TD type="text"  size="3" value="73"></TD>
+<TD type="text"  size="3" value="94"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,04"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Sinapis arvensis L.">
+</TD>
+<TD type="text"  size="3" value="15"></TD>
+<TD type="text"  size="3" value="52"></TD>
+<TD type="text"  size="3" value="87"></TD>
+<TD type="text"  size="3" value="98"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="80" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,2"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Stellaria media">
+</TD>
+<TD type="text"  size="3" value="87"></TD>
+<TD type="text"  size="3" value="98"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="90" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,04"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,04"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,06"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,07"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Stellaria media ALS-res">
+</TD>
+<TD type="text"  size="3" value="87"></TD>
+<TD type="text"  size="3" value="98"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value="0,09"></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,09"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,09"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,1"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,11"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Stellaria media SU-res">
+</TD>
+<TD type="text"  size="3" value="87"></TD>
+<TD type="text"  size="3" value="98"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value="0,09"></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,09"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,09"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,1"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,11"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Thlaspi arvense L.">
+</TD>
+<TD type="text"  size="3" value="47"></TD>
+<TD type="text"  size="3" value="84"></TD>
+<TD type="text"  size="3" value="97"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,06"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,1"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Tripleurospermum inodorum (L.)">
+</TD>
+<TD type="text"  size="3" value="73"></TD>
+<TD type="text"  size="3" value="94"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="90" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,06"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,08"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,1"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,13"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Tripleurospermum inodorum ALS-res">
+</TD>
+<TD type="text"  size="3" value="73"></TD>
+<TD type="text"  size="3" value="94"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value="0,13"></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,13"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,13"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,14"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,16"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Tripleurospermum inodorum SU-res">
+</TD>
+<TD type="text"  size="3" value="73"></TD>
+<TD type="text"  size="3" value="94"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="96" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="97" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value="0,13"></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,13"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,13"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,14"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,16"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Urtica urens L.">
+</TD>
+<TD type="text"  size="3" value="73"></TD>
+<TD type="text"  size="3" value="94"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="50" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate4" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,04"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Veronica arvensis L.">
+</TD>
+<TD type="text"  size="3" value="77"></TD>
+<TD type="text"  size="3" value="95"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="65" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,05"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,05"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,06"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Veronica hederifolia L.">
+</TD>
+<TD type="text"  size="3" value="73"></TD>
+<TD type="text"  size="3" value="94"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="65" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,05"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,06"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,06"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Veronica persica">
+</TD>
+<TD type="text"  size="3" value="77"></TD>
+<TD type="text"  size="3" value="95"></TD>
+<TD type="text"  size="3" value="99"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="65" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="70" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,05"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,05"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,06"></TD>
+</TR>
+<TR >
+<TD TYPE="text"  name="wname" class="textdisabledinput" value="Viola arvensis">
+</TD>
+<TD type="text"  size="3" value="90"></TD>
+<TD type="text"  size="3" value="98"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD type="text"  size="3" value="100"></TD>
+<TD name="Efficacy1" type="TEXT"  size="1" maxlength="2" value="0" ></TD>
+<TD name="Efficacy2" type="TEXT"  size="1" maxlength="2" value="75" ></TD>
+<TD name="Efficacy3" type="TEXT"  size="1" maxlength="2" value="80" ></TD>
+<TD name="Efficacy4" type="TEXT"  size="1" maxlength="2" value="85" ></TD>
+<TD name="Efficacy5" type="TEXT"  size="1" maxlength="2" value="95" ></TD>
+<TD name="Rate1" type="TEXT"  size="3" value=""></TD>
+<TD name="Rate2" type="TEXT"  size="3" value="0,04"></TD>
+<TD name="Rate3" type="TEXT"  size="3" value="0,04"></TD>
+<TD name="Rate4" type="TEXT"  size="3" value="0,05"></TD>
+<TD name="Rate5" type="TEXT"  size="3" value="0,08"></TD>
+</TR>
+</TABLE>
