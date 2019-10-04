@@ -6,7 +6,7 @@ myFarm = FarmService().myFarm()
 
 if __name__ == "__main__":    
     
-    log = myFarm.farm.log.get(195)
+    log = myFarm.farm.log.get(231)
     print(json.dumps(log, indent=4, sort_keys=True))
     #f = open("record2.json","w")
     

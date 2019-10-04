@@ -1,0 +1,84 @@
+Anagallis arvensis L.,84,97,99,100,0,0,50,50,50,,,0.03,0.03,0.03,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Apera spica-venti,4,20,60,90,0,70,85,85,95,,0.28,0.4,0.4,0.64,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Apera spica-venti. ALS-res,4,20,60,90,95,95,95,96,97,0.64,0.64,0.64,0.7,0.78,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Apera spica-venti. fop/dim-res,4,20,60,90,95,95,95,96,97,0.64,0.64,0.64,0.7,0.78,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Apera spica-venti. metabolic,4,20,60,90,95,95,95,96,97,0.64,0.64,0.64,0.7,0.78,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Arabidopsis thaliana,24,65,92,99,0,0,0,0,50,,,,,0.09,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Brassica campestris L,5,25,67,93,0,0,0,0,50,,,,,0.18,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Brassica napus L.,15,52,87,98,70,75,75,80,85,0.16,0.18,0.18,0.2,0.23,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Capsella bursa-pastoris,96,99,100,100,0,0,50,80,85,,,0.02,0.03,0.03,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Centaurea cyanus L.,64,92,99,100,0,75,85,90,95,,0.07,0.09,0.11,0.15,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Chamomilla suaveolens,34,76,95,99,0,75,85,90,95,,0.12,0.15,0.18,0.24,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Chenopodium album L.,0,0,1,6,0,0,0,0,50,,,,,1.4,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Fumaria officinalis L.,10,40,80,96,0,0,0,0,50,,,,,0.14,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Galeopsis spp.,39,80,96,99,0,0,0,0,50,,,,,0.07,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Galium aparine L.,39,80,96,99,70,75,75,90,95,0.1,0.11,0.11,0.16,0.22,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Geranium spp.,47,84,97,99,0,60,70,80,90,,0.07,0.09,0.11,0.15,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Lamium spp.,84,97,99,100,0,0,0,75,85,,,,0.05,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Lapsana communis L.,73,94,99,100,0,0,0,50,75,,,,0.04,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Myosotis arvensis,73,94,99,100,0,0,0,50,80,,,,0.04,0.07,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Papaver rhoeas ALS-res,34,76,95,99,95,95,95,96,97,0.24,0.24,0.24,0.26,0.29,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Papaver rhoeas L.,34,76,95,99,0,70,70,85,90,,0.11,0.11,0.15,0.18,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Papaver rhoeas SU-res,34,76,95,99,95,95,95,96,97,0.24,0.24,0.24,0.26,0.29,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Poa annua L.,10,40,80,96,0,75,85,90,95,,0.21,0.27,0.33,0.44,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Polygonum aviculare L.,18,57,89,98,0,0,0,0,50,,,,,0.11,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Polygonum convolvulus L.,34,76,95,99,0,0,0,0,50,,,,,0.08,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Polygonum lapathifolium L.,47,84,97,99,0,0,0,0,50,,,,,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Polygonum persicaria L.,47,84,97,99,0,0,0,0,50,,,,,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Senecio vulgaris L.,18,57,89,98,0,0,0,50,50,,,,0.11,0.11,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Silene noctiflora,73,94,99,100,0,0,0,0,50,,,,,0.04,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Sinapis arvensis L.,15,52,87,98,0,0,0,0,80,,,,,0.2,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Stellaria media,87,98,100,100,0,75,75,85,90,,0.04,0.04,0.06,0.07,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Stellaria media ALS-res,87,98,100,100,95,95,95,96,97,0.09,0.09,0.09,0.1,0.11,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Stellaria media SU-res,87,98,100,100,95,95,95,96,97,0.09,0.09,0.09,0.1,0.11,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Thlaspi arvense L.,47,84,97,99,0,0,0,50,75,,,,0.06,0.1,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Tripleurospermum inodorum (L.),73,94,99,100,0,75,85,90,95,,0.06,0.08,0.1,0.13,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Tripleurospermum inodorum ALS-res,73,94,99,100,95,95,95,96,97,0.13,0.13,0.13,0.14,0.16,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Tripleurospermum inodorum SU-res,73,94,99,100,95,95,95,96,97,0.13,0.13,0.13,0.14,0.16,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Urtica urens L.,73,94,99,100,0,0,0,0,50,,,,,0.04,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Veronica arvensis L.,77,95,99,100,0,0,65,70,75,,,0.05,0.05,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Veronica hederifolia L.,73,94,99,100,0,0,65,70,75,,,0.05,0.06,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Veronica persica,77,95,99,100,0,0,65,70,75,,,0.05,0.05,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Viola arvensis,90,98,100,100,0,75,80,85,95,,0.04,0.04,0.05,0.08,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Anagallis arvensis L.,84,97,99,100,0,0,50,50,50,,,0.03,0.03,0.03,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Apera spica-venti,4,20,60,90,0,70,85,85,95,,0.28,0.4,0.4,0.64,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Apera spica-venti. ALS-res,4,20,60,90,95,95,95,96,97,0.64,0.64,0.64,0.7,0.78,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Apera spica-venti. fop/dim-res,4,20,60,90,95,95,95,96,97,0.64,0.64,0.64,0.7,0.78,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Apera spica-venti. metabolic,4,20,60,90,95,95,95,96,97,0.64,0.64,0.64,0.7,0.78,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Arabidopsis thaliana,24,65,92,99,0,0,0,0,50,,,,,0.09,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Brassica campestris L,5,25,67,93,0,0,0,0,50,,,,,0.18,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Brassica napus L.,15,52,87,98,70,75,75,80,85,0.16,0.18,0.18,0.2,0.23,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Capsella bursa-pastoris,96,99,100,100,0,0,50,80,85,,,0.02,0.03,0.03,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Centaurea cyanus L.,64,92,99,100,0,75,85,90,95,,0.07,0.09,0.11,0.15,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Chamomilla suaveolens,34,76,95,99,0,75,85,90,95,,0.12,0.15,0.18,0.24,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Chenopodium album L.,0,0,1,6,0,0,0,0,50,,,,,1.4,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Fumaria officinalis L.,10,40,80,96,0,0,0,0,50,,,,,0.14,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Galeopsis spp.,39,80,96,99,0,0,0,0,50,,,,,0.07,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Galium aparine L.,39,80,96,99,70,75,75,90,95,0.1,0.11,0.11,0.16,0.22,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Geranium spp.,47,84,97,99,0,60,70,80,90,,0.07,0.09,0.11,0.15,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Lamium spp.,84,97,99,100,0,0,0,75,85,,,,0.05,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Lapsana communis L.,73,94,99,100,0,0,0,50,75,,,,0.04,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Myosotis arvensis,73,94,99,100,0,0,0,50,80,,,,0.04,0.07,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Papaver rhoeas ALS-res,34,76,95,99,95,95,95,96,97,0.24,0.24,0.24,0.26,0.29,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Papaver rhoeas L.,34,76,95,99,0,70,70,85,90,,0.11,0.11,0.15,0.18,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Papaver rhoeas SU-res,34,76,95,99,95,95,95,96,97,0.24,0.24,0.24,0.26,0.29,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Poa annua L.,10,40,80,96,0,75,85,90,95,,0.21,0.27,0.33,0.44,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Polygonum aviculare L.,18,57,89,98,0,0,0,0,50,,,,,0.11,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Polygonum convolvulus L.,34,76,95,99,0,0,0,0,50,,,,,0.08,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Polygonum lapathifolium L.,47,84,97,99,0,0,0,0,50,,,,,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Polygonum persicaria L.,47,84,97,99,0,0,0,0,50,,,,,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Senecio vulgaris L.,18,57,89,98,0,0,0,50,50,,,,0.11,0.11,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Silene noctiflora,73,94,99,100,0,0,0,0,50,,,,,0.04,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Sinapis arvensis L.,15,52,87,98,0,0,0,0,80,,,,,0.2,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Stellaria media,87,98,100,100,0,75,75,85,90,,0.04,0.04,0.06,0.07,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Stellaria media ALS-res,87,98,100,100,95,95,95,96,97,0.09,0.09,0.09,0.1,0.11,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Stellaria media SU-res,87,98,100,100,95,95,95,96,97,0.09,0.09,0.09,0.1,0.11,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Thlaspi arvense L.,47,84,97,99,0,0,0,50,75,,,,0.06,0.1,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Tripleurospermum inodorum (L.),73,94,99,100,0,75,85,90,95,,0.06,0.08,0.1,0.13,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Tripleurospermum inodorum ALS-res,73,94,99,100,95,95,95,96,97,0.13,0.13,0.13,0.14,0.16,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Tripleurospermum inodorum SU-res,73,94,99,100,95,95,95,96,97,0.13,0.13,0.13,0.14,0.16,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Urtica urens L.,73,94,99,100,0,0,0,0,50,,,,,0.04,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Veronica arvensis L.,77,95,99,100,0,0,65,70,75,,,0.05,0.05,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Veronica hederifolia L.,73,94,99,100,0,0,65,70,75,,,0.05,0.06,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Veronica persica,77,95,99,100,0,0,65,70,75,,,0.05,0.05,0.06,DFF,0.24,Not relevant,0-2 leaves,None,8,14
+Viola arvensis,90,98,100,100,0,75,80,85,95,,0.04,0.04,0.05,0.08,DFF,0.24,Not relevant,0-2 leaves,None,8,14
