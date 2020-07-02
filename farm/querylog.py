@@ -1,21 +1,45 @@
 import json
 import datetime
-from service import FarmService
+import farmService
 
-myFarm = FarmService().myFarm()
+farm = farmService.myFarm()
 
-if __name__ == "__main__":    
-    
-    log = myFarm.farm.log.get(231)
-    print(json.dumps(log, indent=4, sort_keys=True))
-    #f = open("record2.json","w")
-    
+taxonomyId = 387 # edit this
+newTaxonomyId = 388 # edit this
+taxonomyRecord = farm.term.get(taxonomyId)
+newTaxonomyRecord = farm.term.get(newTaxonomyId)
+print(json.dumps(newTaxonomyRecord, indent=4, sort_keys=True))
 
-    
+inputs = farm.log.get(filters={'type': 'farm_input'})['list']
 
-    #asset = myFarm.farm.asset.get(98)
-    #print(json.dumps(asset, indent=4, sort_keys=True)) # works
+for input in inputs:
+    materials = input['material']
+    newMaterials = []
+    #print(input)
+    for m in [y for y in materials if y['uri'] == 'https://rothamstedfarm.farmos.net/taxonomy_term/'+str(taxonomyId)]:
+        print(json.dumps(input, indent=4, sort_keys=True))
+        for material in materials:
+            if material['uri'] == 'https://rothamstedfarm.farmos.net/taxonomy_term/'+str(taxonomyId):
+                newMaterials.append({"id":newTaxonomyId,"name":newTaxonomyRecord["name"],"resource":"taxonomy_term","uri":'https://rothamstedfarm.farmos.net/taxonomy_term/'+str(newTaxonomyId)})
+            else:
+                newMaterials.append(material)    
 
-    #asset = myFarm.farm._get_record_data('user',{'id':'3'}) # works
-    #print(json.dumps(asset, indent=4, sort_keys=True))
-    #log = myFarm.farm.log.get()  
+        # create an updated version of the record (we're going to swap them out), removing empty keys
+        newInput = {}
+        for key, value in input.items():            
+            if value:
+                print(key + ": " + str(value))
+                newInput[key] = value
+
+        newInput["material"] = newMaterials
+        del newInput["movement"] # this is null and easiest to just remove
+        print(json.dumps(newInput, indent=4, sort_keys=True))
+
+        #delete the original version
+        farm.log.delete(input["id"])
+
+        #upload the replacement version - ##Simply copying this won't work - need to remove / replace nulls and remove the ID and URL values.
+        farm.log.send(newInput)
+
+# delete the taxonomy term
+farm.term.delete(taxonomyId)

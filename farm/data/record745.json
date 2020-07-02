@@ -1,0 +1,51 @@
+{
+    "area": [
+        {
+            "id": 61,
+            "resource": "taxonomy_term"
+        }
+    ],
+    "asset": [],
+    "created": "1585267200",
+    "data": "",
+    "done": "1",
+    "equipment": [
+        {
+            "id": 14,
+            "resource": "farm_asset"
+        },
+        {
+            "id": 94,
+            "resource": "farm_asset"
+        }
+    ],
+    "files": [],
+    "flags": [],
+    "log_category": [
+        {
+            "id": 58,
+            "resource": "taxonomy_term"
+        },
+        {
+            "id": 261,
+            "resource": "taxonomy_term"
+        },
+        {
+            "id": 570,
+            "resource": "taxonomy_term"
+        }
+    ],
+    "log_owner": [
+        {
+            "id": 36,
+            "resource": "user"
+        }
+    ],
+    "name": "Cultivation : BONES CLOSE Commercial",
+    "notes": {
+        "format": "farm_format",
+        "value": "<ul></ul>"
+    },
+    "timestamp": "1585267200",
+    "type": "farm_activity"
+}

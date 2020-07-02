@@ -1,12 +1,12 @@
 import farmOS
 import csv
 import json
-from service import FarmService
+from farm import service 
 
-myFarm = FarmService().myFarm()
+myFarm = service.myFarm()
 
 def printAreasCSV():
-    items = myFarm.farm.area.get()
+    items = myFarm.area.get()
     #print(json.dumps(areas, indent=4, sort_keys=True))
     csvwriter = None 
     with open("data/areas.csv","w",newline="") as csvfile:
@@ -27,11 +27,10 @@ def printCropsCSV():
 
 def printEquipmentCSV():
     items = myFarm.farm.asset.get({'type':'Equipment'})
-    #print(json.dumps(items, indent=4, sort_keys=True))
+    print(json.dumps(items, indent=4, sort_keys=True))
     csvwriter = None 
     with open("data/equipemnt.csv","w",newline="") as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=",",quotechar="\"", quoting=csv.QUOTE_MINIMAL)
-
         for i in items:
             csvwriter.writerow([i["id"],i["name"]])
 

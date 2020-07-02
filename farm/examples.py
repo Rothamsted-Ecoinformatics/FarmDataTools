@@ -8,29 +8,35 @@ import farmOS
 import json
 import requests
 from requests.auth import HTTPBasicAuth
+import pandas as pd
 
-config = configparser.ConfigParser()
-config.read('config.ini')
-hostname = config['AUTH']['host']
-username = config['AUTH']['username']
-password = config['AUTH']['password']
+
+people = {"a":1,"b":2,"c":3}
+px = ["a","c"]
+py = (pd.Series(px)).map(people)
+print(py)
+#config = configparser.ConfigParser()
+#config.read('config.ini')
+#hostname = config['AUTH']['host']
+#username = config['AUTH']['username']
+#password = config['AUTH']['password']
 
 # updating
-payload = {"crop_family":{"id":"208"},"tid":"175"}
-headers = {'content-type': 'application/json'}
+#payload = {"crop_family":{"id":"208"},"tid":"175"}
+#headers = {'content-type': 'application/json'}
 
-s = requests.session()   
-print(s)
-print(s.headers)
-print(s.cookies)
-r = requests.post("https://rothamstedfarm.farmos.net/user/login?name=restws"+username+"&pass="+password+"&form_id=user-login")
-print(r)
-token = json.loads(r.text)['session']
-print(token)
+#s = requests.session()   
+#print(s)
+##print(s.headers)
+#print(s.cookies)
+#r = requests.post("https://rothamstedfarm.farmos.net/user/login?name=restws"+username+"&pass="+password+"&form_id=user-login")
+#print(r)
+#token = json.loads(r.text)['session']
+#print(token)
 #r = requests.put("https://rothamstedfarm.farmos.net/taxonomy/term/175", auth=("restws"+username, password), params=payload, headers=headers)
 
 # 1. connect
-farm = farmOS.farmOS(hostname, username, password)
+farm = service.myFarm()
 #success = farm.authenticate()
 
 #print(success)
