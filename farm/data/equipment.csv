@@ -1,0 +1,85 @@
+equipment_id,equipment_name,manufacturer,model,serial_number,description
+7,ISTH4335,Iseki,TH4335,TH4335000736,Small Machinery Tractor
+8,JCB537,JCB,537-70,160/13333,Farm Loadall
+9,JD5070,John Deere,5070,*L05070M643290*,Wide Wheeled Tractor
+10,JD6145R,John Deere,6145R,*1L06145RVGU854384*,Cultivations Tractor
+11,JD6830,John Deere,6830,*1L0683006ABK678339*,Fertiliser Tractor
+12,JD5620,John Deere,5620,*1L05620E571229*,Drilling Tractor
+13,JD6230,John Deere,6230,*L06230G659013*,Yard Tractor
+14,JD6930,John Deere,6930,,Drilling Tractor
+15,Kawasaki  Mule 610,Kawasaki ,610,,4WD Mule
+16,MF3070,Massey Ferguson,3070,B131027,Hedge Cutting Tractor
+17,NH T6030,New Holland,T6030,ZBBD08463*,Mounted Sprayer Tractor
+18,NHT7210,New Holland,T7.210,ZCBN09965,Cultivations Tractor
+19,Tym T503,Tym,T503,50STF1000479,Small Light Tractor
+20,Kuhn Powerharrow 3m,Kuhn,PH1,abc123,powerharrow; Working depth: 8 - 10 cm
+21,6m Flexicoil Cambridge Roll,Cousins,Flexicoil 6m,TBC,Commercial Roll
+22,Haldrup SB25 Plot Drill,Haldrup,Haldrup 1.8m Drill,TBC,
+23,Plot Rolls,Homemade,2m Plot Rolls,TBC,
+24,Knight 24m Sprayer,Knights Ltd,24m Mounted Sprayer ,TBC,
+78,Simba Cultipress,Simba,Cultipress 3.3,,Used to consalidate ploughing. 3.3m wide
+88,Batwing Topper,McConnel,,,
+89,Topper 9,,,,
+90,Kilworth Topper,Kilworth,,,
+91,Simba Flat Lift,Simba,,,Subsoiler
+92,Philip Watkins Press,Philip Watkins,,,
+93,KV Five Furrow Plough,Kverneland,,,"5 Furrow reversible, 1.5m wide"
+94,Lemkin Karat 9KU,Lemkin,Karat 9KU,,Minimum Tillage - Stubble Cultivator. 3.5m wide
+95,Lehner slug pelleter,Lehner,,,
+96,Weaving Drill,,,,
+97,Accord Combination Drill,No 4,,,Max Drill Width: 3 Metres; Max Plot Length: 9 Metres; Culter Type: Suffolk Culters; Linkage: 3 Point Linkage; Main Job/s: Commercial/Plots
+99,WES Accord 4m Tyne Drill,,,,Max Drill Width: 4 Metres; Max Plot Length: 9 Metres; Culter Type: Suffolk Culters; Linkage: 3 Point Linkage; Main Job/s: Plots/Commercial
+100,Cascade Spreader,Horsine,,,
+119,Ransom 3 Furrow Plough,,,,
+120,Claas Tucano 430,Claas,,,Commercial combine used for harvesting discards after plot yields. 6m wide cut.
+121,Haldrup C-85 2m cut,Haldrup,,,Plot combine with 2m header width
+122,Haldrup C-65 1.5m cut,Haldrup,,,Plot combine with 1.5m header width
+123,Wintersteiger Drill,,,,
+131,Hand Spraying Boom ,,3m,,3m hand held plot spraying boom - uses compressed air from diving bottle
+132,WES 3m Front Topper,,,,3m front topper; Woburn
+133,Tedder,,,,
+134,Claas Baler,Claas,,,
+135,PZ Hay Rake,,,,
+136,Kuhn Mower Conditioner,Kuhn,FC 300 GT,,
+137,Haldrup SR30 Plot Drill,Haldrup,SR30,,
+138,Bomford Flexitine,Bomford,,,
+139,Hand Held Compressed Air Pesticide Sprayer,,,,
+140,Amzone Disc Spreader ,Amzone,,,
+145,Haldrup C-85 1.5m cut,Haldrup,,,Plot combine with 1.5m header width
+146,JD6620,John Deere,6620,,Woburn tractor
+147,Claas Jag,Claas,,,
+148,Kverneland Twin disc Fertiliser Spreader,Kverneland,Exacta-TL GEOspread,,Twin disc fertiliser spreader that can spread fertiliser at a range of application widths. Uses GPS controlled section control for accurate spreading and limiting overlaps.
+149,Nordsten 3m fertiliser box,Nordsten,,,
+150,Horsch CO4,Horsch,CO4,,4m wide min-till drill
+206,Micron shrouded plot end sprayer,Micron,Varidome S1,039,Shrouded sprayer used for spraying off plots ends. Has two shrouded nozzles that spray off a 70cm wide band. These can be set at varying widths but are generally used to spray off 3m wide tramlines in experiments
+207,Briggs Boom,Briggs,,,Irrigation
+208,Perrot Reel,,,,
+209,Tecnoma 12m Sprayer,Tecnoma,,,12 meter sprayer
+212,Wilder Grass Box,Wilder,,,Used for grass weights
+213,By Hand ,,,,
+214,New Holland Baler,New Holland,,,Straw weights baler
+215,Slurry Tanker,,,,
+231,McConnel SE 6 Topper,McConnel,SE 6,M1331719,
+232,WES Dowdeswell 100 Series Five Furrow Plough,Dowdeswell ,100 Series,,Five furrow plough set at 12 inch furrows; Woburn
+233,Exactomatic,Nordsten,,,
+238,MF6150 - WES Spraying Tractor,Massey Ferguson,6150,,Massey Ferguson 4 wheel drive tractor - mainly used for spraying at Woburn
+239,WES 12m Knight Sprayer,Knight,,,12m Knight Sprayer located at Woburn farm
+243,Knapsack sprayer,,,,Backpack knapsack sprayer with hand lance. Used for spot spraying and general spraying of weeds around farmyard
+275,Muck spreader - international,International,,,Muck spreader used to apply FYM or Compost to experiments. Working width 1.2m
+285,WES Massey Ferguson 4m Discs,Massey Ferguson,,,A set of discs used for min-till style cultivation. The discs are 4m wide.
+286,WES Cousins 3m Spring Tines,Cousins,,,A set of spring tines with a crumbler on the back. Also incorporates a row of dutch harrows. The implement is 3m wide.
+287,WES 3m Triple K Spring Tynes,Kongskilde,Triple K,,Set of 3m wide simple spring tines.
+288,WES Chisel Plough,,,,2.5m wide Chisel plough. Not clear who the manufacturer is.
+291,Kuhn FC 300 RG,Kuhn,FC 300 RG,,
+308,A1,,,,
+309,A2,,,,
+310,A3,,,,
+311,A4,,,,
+312,A5,,,,
+313,A6,,,,
+314,A7,,,,
+315,A8,,,,
+316,A9,,,,
+317,WES Topper 9,,,,Woburn topper 9
+447,Rotavator Dowdeswell,Dowdeswell ,POWAVATOR 90,,
+448,Rotavator Kilworth,Kilworth,K 14581,,

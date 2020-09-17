@@ -1,0 +1,1592 @@
+log_id,log_date,log_name,field,areas,equipment_list,categories,hours,count,depth,notes,raw_notes,raw_quantity
+https://rothamstedfarm.farmos.net/log/141,2019-09-09 00:00:00,Topped: Barnfield,BARNFIELD,BARNFIELD,MF3070;Topper 9,Commercial;Topping,,,,Cutting space for car park;,"<p>Cutting space for car park</p>
+",[]
+https://rothamstedfarm.farmos.net/log/142,2019-09-09 00:00:00,Topped: Claycroft,CLAYCROFT,CLAYCROFT,MF3070;Topper 9,Commercial;Topping,,,,Topped field edge and experiments;,"<p>Topped field edge and experiments</p>
+",[]
+https://rothamstedfarm.farmos.net/log/143,2019-08-07 00:00:00,Topped: Delafield,DELAFIELD,DELAFIELD,Batwing Topper;NHT7210,Topping;Commercial,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/144,2019-08-06 00:00:00,Topped: Fosters Corner,FOSTERS CORNER,FOSTERS CORNER,Batwing Topper;NHT7210,Topping;Commercial,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/145,2019-08-28 00:00:00,Topped: Garden Plots,GARDEN PLOTS,GARDEN PLOTS,Topper 9,Commercial;Topping,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/146,2019-08-07 00:00:00,Topped: Great Harpenden 2,GREAT HARPENDEN 2,GREAT HARPENDEN 2,Batwing Topper;NHT7210,Topping;Commercial,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/147,2019-08-05 00:00:00,"Topped: Long Hoos 1, 2+3",LONG HOOS 1/2 + 3,LONG HOOS 1/2 + 3,Batwing Topper;NHT7210,Topping;Commercial,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/148,2019-08-06 00:00:00,Topped: Long Hoos 4,LONG HOOS 4,LONG HOOS 4,Batwing Topper;NHT7210,Topping;Commercial,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/149,2019-09-04 00:00:00,Topped: Meadow,MEADOW,MEADOW,Batwing Topper;NHT7210,Topping;Commercial,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/150,2019-08-08 00:00:00,Topped: Webbs,WEBBS,WEBBS,Batwing Topper;NHT7210,Topping;Commercial,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/151,2019-08-08 00:00:00,Topped: Whitehorse 2,WHITEHORSE 2,WHITEHORSE 2,Batwing Topper;NHT7210,Topping;Commercial,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/152,2019-08-15 00:00:00,Topped: Whittlocks,WHITTLOCKS,WHITTLOCKS,ISTH4335;Kilworth Topper,Commercial;Topping,,,,Topped around all willow experiments;,"<p>Topped around all willow experiments</p>
+",[]
+https://rothamstedfarm.farmos.net/log/153,2019-09-09 00:00:00,Topped: AGDELL HARWOODS,AGDELL/HARWOODS,AGDELL/HARWOODS,MF3070;Topper 9,Commercial;Topping,,,,Topped field edge;,"<p>Topped field edge</p>
+",[]
+https://rothamstedfarm.farmos.net/log/154,2019-08-05 00:00:00,Topped: Highfield 5+6,HIGHFIELD 5/6,HIGHFIELD 5/6,Batwing Topper;NHT7210,Commercial;Topping,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/155,2019-09-04 00:00:00,Cultivation: Sub Tillage 40 cm in MEADOW,MEADOW,MEADOW,NHT7210;Simba Flat Lift,Subsoiling,0:00:00,,40 cm,Tramlines and headlands;,"<p>Tramlines and headlands</p>
+","[{'measure': 'length', 'value': '40', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '0', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/156,2019-09-12 15:04:49,Cultipressed: Meadow,MEADOW,MEADOW,JD6830;Philip Watkins Press,Commercial;Cultipressing,,,,,,[]
+https://rothamstedfarm.farmos.net/log/157,2019-09-12 00:00:00,Cultipressed: Parklands,PARKLANDS,PARKLANDS,JD6830;Philip Watkins Press,Commercial;Cultipressing,,,,,,[]
+https://rothamstedfarm.farmos.net/log/158,2019-08-13 00:00:00,Ploughed: Furzefield,FURZEFIELD,FURZEFIELD,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,,,,Ploughed commercial field. Thrown North;,"<p>Ploughed commercial field. Thrown North</p>
+",[]
+https://rothamstedfarm.farmos.net/log/159,2019-09-06 00:00:00,Ploughed: Meadow,MEADOW,MEADOW,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,,,,Ploughed commercial field. Thrown South;,"<p>Ploughed commercial field. Thrown South</p>
+",[]
+https://rothamstedfarm.farmos.net/log/160,2019-09-11 00:00:00,Ploughed: Meadow,MEADOW,MEADOW,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,,,,Ploughed commercial field. Thrown South;,"<p>Ploughed commercial field. Thrown South</p>
+",[]
+https://rothamstedfarm.farmos.net/log/161,2019-09-09 00:00:00,Ploughed: Meadow,MEADOW,MEADOW,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,,,,Ploughed commercial field. Thrown South;,"<p>Ploughed commercial field. Thrown South</p>
+",[]
+https://rothamstedfarm.farmos.net/log/162,2019-09-11 00:00:00,Ploughed: Parklands,PARKLANDS,PARKLANDS,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,,,,Ploughed commercial field. Thrown West;,"<p>Ploughed commercial field. Thrown West</p>
+",[]
+https://rothamstedfarm.farmos.net/log/163,2019-08-20 00:00:00,Rolled: Great field 1+2,GREAT FIELD 1/2,GREAT FIELD 1/2,6m Flexicoil Cambridge Roll,Commercial;Rolling,,,,Rolled commercial field.;,"<p>Rolled commercial field.</p>
+",[]
+https://rothamstedfarm.farmos.net/log/164,2019-08-19 00:00:00,Rolled: White horse 2,WHITEHORSE 2,WHITEHORSE 2,6m Flexicoil Cambridge Roll,Commercial;Rolling,,,,Rolled area of field that was drilled on 19/08/19;,"<p>Rolled area of field that was drilled on 19/08/19</p>
+",[]
+https://rothamstedfarm.farmos.net/log/165,2019-08-20 00:00:00,"Rolled: Long Hoos 5, 6+7",LONG HOOS 5,LONG HOOS 5;LONG HOOS 6/7,6m Flexicoil Cambridge Roll,Commercial;Rolling,,,,Rolled commercial field.;,"<p>Rolled commercial field.</p>
+",[]
+https://rothamstedfarm.farmos.net/log/166,2019-08-21 00:00:00,Min-till: Drapers,DRAPERS,DRAPERS,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,,,,"Min-till commercial field. Lemkin Karat JD 6930, 45 degrees to trams;","<p>Min-till commercial field. Lemkin Karat JD 6930, 45 degrees to trams</p>
+",[]
+https://rothamstedfarm.farmos.net/log/167,2019-08-19 00:00:00,Min-till: Great field 1+2,GREAT FIELD 1/2,GREAT FIELD 1/2,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,,,,Min-till commercial field. Lemkin Karat JD 6930;,"<p>Min-till commercial field. Lemkin Karat JD 6930</p>
+",[]
+https://rothamstedfarm.farmos.net/log/168,2019-08-19 00:00:00,Min-till: Great Harpenden 2,GREAT HARPENDEN 2,GREAT HARPENDEN 2,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,,,,Min-till commercial field. Lemkin Karat JD 6930;,"<p>Min-till commercial field. Lemkin Karat JD 6930</p>
+",[]
+https://rothamstedfarm.farmos.net/log/170,2019-08-21 00:00:00,"Min-till: Long Hoos 1, 2, 3",LONG HOOS 1/2 + 3,LONG HOOS 1/2 + 3,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,,,,"Min-till commercial field. Lemkin Karat JD 6930, 45 degrees to trams;","<p>Min-till commercial field. Lemkin Karat JD 6930, 45 degrees to trams</p>
+",[]
+https://rothamstedfarm.farmos.net/log/171,2019-08-20 00:00:00,"Min-till: Long Hoos 5, 6+7",LONG HOOS 5,LONG HOOS 5;LONG HOOS 6/7,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,,,,Min-till commercial field. Lemkin Karat JD 6930;,"<p>Min-till commercial field. Lemkin Karat JD 6930</p>
+",[]
+https://rothamstedfarm.farmos.net/log/172,2019-08-24 00:00:00,Min-till: Osier,OSIER,OSIER,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,,,,"Min-till commercial field. Lemkin Karat JD 6930, all field commercial;","<p>Min-till commercial field. Lemkin Karat JD 6930, all field commercial</p>
+",[]
+https://rothamstedfarm.farmos.net/log/173,2019-08-16 00:00:00,Min-till: White horse 1,WHITEHORSE 1,WHITEHORSE 1,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,,,,Min-till commercial field. Lemkin Karat JD 6930;,"<p>Min-till commercial field. Lemkin Karat JD 6930</p>
+",[]
+https://rothamstedfarm.farmos.net/log/179,2019-08-13 00:00:00,Ploughed: White horse 2,WHITEHORSE 2,WHITEHORSE 2,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,,,,"KV five furrow Plough, T 7.210. finished Thrown South;","<p>KV five furrow Plough, T 7.210. finished Thrown South</p>
+",[]
+https://rothamstedfarm.farmos.net/log/180,2019-08-19 00:00:00,Rolled WOSR: Furzefield,FURZEFIELD,FURZEFIELD,6m Flexicoil Cambridge Roll;JD5620,Commercial;Rolling,,,,Rolling WOSR on commercial field;,"<p>Rolling WOSR on commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/193,2019-08-13 00:00:00,Cultivation: Ploughed Tillage 30 cm in GREAT FIELD 1/2,GREAT FIELD 1/2,GREAT FIELD 1/2,KV Five Furrow Plough,Ploughing,0:00:00,,30 cm,Plough thrown: E;Commercial;,"<p>Plough thrown: E</p>
+<p>Commercial</p>
+","[{'measure': 'length', 'value': '30', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/194,2019-08-13 00:00:00,Cultivation: Minimum Tillage 0 cm in GREAT FIELD 1/2,GREAT FIELD 1/2,GREAT FIELD 1/2,Philip Watkins Press,Minimum-tillage,0:00:00,,False cm,,,"[{'measure': 'length', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/225,2019-08-19 00:00:00,Rolled 2020/R/RAW/2025,WHITEHORSE 2,2020/R/RAW/2025,6m Flexicoil Cambridge Roll,Rolling,0:00:00,,0 cm,,,"[{'measure': 'length', 'value': '0', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '0', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/234,2019-08-12 00:00:00,Topped: Whitehorse 2,WHITEHORSE 2,WHITEHORSE 2,Batwing Topper;NHT7210,Commercial;Topping,,,,Topped commercial field;,"<p>Topped commercial field</p>
+",[]
+https://rothamstedfarm.farmos.net/log/235,2019-08-13 00:00:00,Press Ploughed: White horse 2,WHITEHORSE 2,WHITEHORSE 2,Philip Watkins Press,Commercial;Ploughing,,,,,,[]
+https://rothamstedfarm.farmos.net/log/250,2019-08-12 00:00:00,Topping : FURZEFIELD ,FURZEFIELD,FURZEFIELD,Batwing Topper,Topping;Commercial,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/251,2019-08-12 00:00:00,Topping : OSIER ,OSIER,OSIER,Batwing Topper,Topping;Commercial,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/252,2019-08-13 00:00:00,Topping : GREAT KNOTT 1 ,GREAT KNOTT 1,GREAT KNOTT 1,Batwing Topper,Topping;Commercial,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/253,2019-08-13 00:00:00,Press ploughing : FURZEFIELD ,FURZEFIELD,FURZEFIELD,Philip Watkins Press,Commercial;Ploughing,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/254,2019-08-15 00:00:00,Path cutting: PARKGRASS ,PARKGRASS,PARKGRASS,ISTH4335;Kilworth Topper,Topping,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/255,2019-09-05 00:00:00,Drilling: GREAT FIELD 1/2 ,GREAT FIELD 1/2,2020/R/RAW/2037,,Commercial;Plantings,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/256,2019-09-05 00:00:00,Plot Rolling : GREAT FIELD 1/2 ,GREAT FIELD 1/2,2020/R/RAW/2037,JD5070;Plot Rolls,Commercial;Rolling,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/257,2019-09-05 00:00:00,Ploughing : SAWYERS 1 CS715 CS/715,SAWYERS 1 CS715,SAWYERS 1 CS715,,Ploughing;Experiment,,,,;Direction thrown: Thrown North ; Ploughed wheat stubble only rape stubble to hand ;;,"<ul>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Ploughed wheat stubble only rape stubble to hand </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/258,2019-09-05 00:00:00,Powerharrow : GREAT FIELD 1/2 ,GREAT FIELD 1/2,2020/R/RAW/2037,,Commercial;Power Harrow,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/261,2019-09-07 00:00:00,Rolling : SAWYERS 1 CS715 CS/715,SAWYERS 1 CS715,SAWYERS 1 CS715,6m Flexicoil Cambridge Roll,Rolling;Experiment,,,,; North end only (OSR);;,"<ul>
+<li>Notes: North end only (OSR)</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/265,2019-09-10 00:00:00,Topping: STACKYARD ,STACKYARD,STACKYARD,Batwing Topper,Topping;Commercial,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/267,2019-09-11 00:00:00,Cultivation: GEESCROFT ,GEESCROFT,GEESCROFT,Lemkin Karat 9KU,Tillage;Commercial,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/268,2019-09-16 00:00:00,Ploughing: NEW ZEALAND CS/760,NEW ZEALAND,2020/R/CS/760,NHT7210;KV Five Furrow Plough,Experiment;Ploughing,,,,;Direction thrown: Thrown East ;;,"<ul>
+<li>Direction thrown: Thrown East </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/269,2019-09-17 00:00:00,Subsoiling : LONG HOOS 4 ,LONG HOOS 4,LONG HOOS 4,Simba Flat Lift,Subsoiling;Commercial,,,,; Tramlines + headlands only;;,"<ul>
+<li>Notes: Tramlines + headlands only</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/270,2019-09-17 00:00:00,Subsoiling : NEW ZEALAND ,NEW ZEALAND,NEW ZEALAND,Simba Flat Lift,Subsoiling;Commercial,,,,; Tramlines + headlands only;;,"<ul>
+<li>Notes: Tramlines + headlands only</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/271,2019-09-18 00:00:00,Subsoiling : HIGHFIELD 5/6 ,HIGHFIELD 5/6,HIGHFIELD 5/6,Simba Flat Lift,Subsoiling;Commercial,,,,; Whole field ;;,"<ul>
+<li>Notes: Whole field </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/272,2019-09-18 00:00:00,Subsoiling : HIGHFIELD 4 ,HIGHFIELD 4,HIGHFIELD 4,Simba Flat Lift,Subsoiling;Commercial,,,,; Tramlines + headlands only;;,"<ul>
+<li>Notes: Tramlines + headlands only</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/273,2019-09-19 00:00:00,Ploughing: LONG HOOS 6/7 CS/789,LONG HOOS 6/7,LONG HOOS 6/7;2020/R/CS/789,NHT7210;KV Five Furrow Plough,Experiment;Ploughing,,,,;Direction thrown: Thrown East;;,"<ul>
+<li>Direction thrown: Thrown East</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/274,2019-09-19 00:00:00,Ploughing: LONG HOOS 4 CS/778,LONG HOOS 4,LONG HOOS 4,NHT7210;KV Five Furrow Plough,Ploughing;Experiment,,,,;Direction thrown: Thrown East;;,"<ul>
+<li>Direction thrown: Thrown East</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/275,2019-09-26 00:00:00,Ploughing : LITTLE HOOS CS/790,LITTLE HOOS,LITTLE HOOS,MF3070,Ploughing;Experiment,,,,;Direction thrown: Thrown East; Ploughed plots as plan - wheat plots ;;,"<ul>
+<li>Direction thrown: Thrown East</li>
+<li>Notes: Ploughed plots as plan - wheat plots </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/277,2019-09-26 00:00:00,Press ploughing : SAWYERS 1 CS715 CS/715,SAWYERS 1 CS715,SAWYERS 1 CS715,Philip Watkins Press,Ploughing;Experiment,,,,; Press South end only ;;,"<ul>
+<li>Notes: Press South end only </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/278,2019-09-26 00:00:00,Ploughing: SAWYERS 1 CS715 CS/715,SAWYERS 1,CS-715 Oat plots;CS-715 Oat surrounds;CS-715 Wheat Plots;CS-715 Wheat Surrounds,KV Five Furrow Plough,Experiment;Ploughing,,,,;Direction thrown: Thrown North ; Rape stubble only ;;,"<ul>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Rape stubble only </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/279,2019-09-30 00:00:00,Ploughing: FOSTERS CS/738,FOSTERS,2020/R/CS/738,NHT7210;KV Five Furrow Plough,Experiment;Ploughing,,,,;Direction thrown: Thrown West;;,"<ul>
+<li>Direction thrown: Thrown West</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/280,2019-10-01 00:00:00,Ploughing : HIGHFIELD 4 ,HIGHFIELD 4,HIGHFIELD 4,NHT7210;KV Five Furrow Plough,Ploughing;Commercial,,,,;Direction thrown: Thrown East ;;,"<ul>
+<li>Direction thrown: Thrown East </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/284,2019-10-29 00:00:00,Cultivation: Sub Tillage 45 cm in WHITEHORSE 2,WHITEHORSE 2,WHITEHORSE 2;2020/R/RAW/2025,JD5620;Simba Flat Lift,Ploughing,2:00:00,,45 cm,Direction of work (driven): N;Plough thrown: E;,"<p>Direction of work (driven): N</p>
+<p>Plough thrown: E</p>
+","[{'measure': 'length', 'value': '45', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '2', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/449,2020-06-05 00:00:00,Irigation,FURZEFIELD,FURZEFIELD,JD6230;Briggs Boom;Perrot Reel,Irrigation,,,H2O applied: 25 mm,,,"[{'measure': 'length', 'value': '25', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H2O applied'}]"
+https://rothamstedfarm.farmos.net/log/450,2020-06-04 00:00:00,Irigation,PASTURES,2020/R/CM/2053,Briggs Boom;Perrot Reel,Irrigation,,,H20 Applied: 12 mm,,,"[{'measure': 'length', 'value': '12', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H20 Applied'}]"
+https://rothamstedfarm.farmos.net/log/451,2020-06-01 00:00:00,Irigation,PASTURES,2020/R/CM/2053,Briggs Boom;Perrot Reel,Irrigation,,,H20 Applied: 12 mm,,,"[{'measure': 'length', 'value': '12', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H20 Applied'}]"
+https://rothamstedfarm.farmos.net/log/452,2020-05-27 00:00:00,Irigation,PASTURES,2020/R/CM/2053,Briggs Boom;Perrot Reel,Irrigation,,,H20 Applied: 12 mm,,,"[{'measure': 'length', 'value': '12', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H20 Applied'}]"
+https://rothamstedfarm.farmos.net/log/493,2020-06-12 00:00:00,Cultivation: Sub Tillage 9 cm in GEESCROFT,GEESCROFT,GEESCROFT,JD6230;Kuhn Powerharrow 3m,Tillage,0:00:00,,9 cm,Harrowed fallow areas;,"<p>Harrowed fallow areas</p>
+","[{'measure': 'length', 'value': '9', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/494,2020-06-12 00:00:00,Cultivation: Sub Tillage 9 cm in HIGHFIELD 1/2/3,HIGHFIELD LEY ARABLES,HIGHFIELD LEY ARABLES,JD6230;Kuhn Powerharrow 3m,Tillage,0:00:00,,9 cm,Harrowed fallow areas;,"<p>Harrowed fallow areas</p>
+","[{'measure': 'length', 'value': '9', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/495,2020-06-12 00:00:00,Cultivation: Sub Tillage 9 cm in FOSTERS,FOSTERS,FOSTERS,JD6230;Kuhn Powerharrow 3m,Tillage,0:00:00,,9 cm,Harrowed fallow areas;,"<p>Harrowed fallow areas</p>
+","[{'measure': 'length', 'value': '9', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/520,2020-03-18 00:00:00,Topped Amended Side of Inversion Cover Crops ,RRES LSRE Site,RRES LSRE Site,JD5620;Topper 9,Topping,,,,"Topped amended side of plots 4, 9, 15, 20, 28, 31, 42, 48, 53, 54;","<p>Topped amended side of plots 4, 9, 15, 20, 28, 31, 42, 48, 53, 54</p>
+",[]
+https://rothamstedfarm.farmos.net/log/521,2020-03-23 00:00:00,Cultivation: Ploughed Tillage 15 cm in RRES LSRE Site,RRES LSRE Site,RRES LSRE Site,JD6230;Ransom 3 Furrow Plough,Ploughing,0:00:00,,15 cm,"Plough thrown: E;plots 4, 9, 15, 20, 28;","<p>Plough thrown: E</p>
+<p>plots 4, 9, 15, 20, 28</p>
+","[{'measure': 'length', 'value': '15', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/522,2020-03-24 00:00:00,Cultivation: Ploughed Tillage 15 cm in RRES LSRE Site,RRES LSRE Site,RRES LSRE Site,JD6230;Ransom 3 Furrow Plough,Ploughing,0:00:00,,15 cm,"Plough thrown: E;plots 31, 42, 48, 53, 54;","<p>Plough thrown: E</p>
+<p>plots 31, 42, 48, 53, 54</p>
+","[{'measure': 'length', 'value': '15', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/525,2020-06-16 15:58:52,Cut out central paths to make plots approx 3.45m long,MEADOW,2020/R/WW/2029,JD5620;McConnel SE 6 Topper,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/526,2020-06-16 16:07:06,Cut out central paths to make plots approx 3.45m long,MEADOW,2020/R/WW/2032,JD5620;McConnel SE 6 Topper,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/527,2020-06-16 16:08:13,Cut out central paths to make plots approx 3.45m long,MEADOW,2020/R/WW/2018,JD5620;McConnel SE 6 Topper,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/528,2020-06-17 07:10:27,Cut out central paths to make plots approx 3.45m long,OSIER,2020/R/WW/2017,JD5620;McConnel SE 6 Topper,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/529,2020-06-17 07:12:02,Cut out central paths to make plots approx 3.45m long,OSIER,2020/R/WW/2045,JD5620;McConnel SE 6 Topper,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/534,2020-06-04 00:00:00,Rolled: 2020/R/RAS/2056,FOSTERS O+Es 4,2020/R/RAS/2056,JD5070;Plot Rolls,Rolling,,,,,,[]
+https://rothamstedfarm.farmos.net/log/535,2020-06-01 09:06:52,Spot spraying black grass,OSIER,2020/R/WW/2031+2034,Knapsack sprayer,Pesticide Application,,,,Started June 1st and finished on June 2nd;Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre;,"<p>Started June 1st and finished on June 2nd<br />
+Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>
+",[]
+https://rothamstedfarm.farmos.net/log/536,2020-06-02 10:41:50,Spot Spraying Black Grass,OSIER,2020/R/WW/2017,Knapsack sprayer,Pesticide Application,,,,Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre water;,"<p>Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre water</p>
+",[]
+https://rothamstedfarm.farmos.net/log/540,2020-06-09 04:00:00,Spot Spraying Black Grass,MEADOW,2020/R/WW/2018,Knapsack sprayer,Pesticide Application,,,,Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre;,"<p>Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>
+",[]
+https://rothamstedfarm.farmos.net/log/541,2020-06-15 03:00:00,Spot Spraying Black Grass,OSIER,2020/R/WW/2042,Knapsack sprayer,Pesticide Application,,,,Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre;,"<p>Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>
+",[]
+https://rothamstedfarm.farmos.net/log/542,2020-06-09 00:00:00,Spot spraying black grass,MEADOW,2020/R/WW/2018,Knapsack sprayer,Pesticide Application,,,,"Started on the 9th June, but could not complete till on the 15th June;Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre;","<p>Started on the 9th June, but could not complete till on the 15th June<br />
+Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>
+",[]
+https://rothamstedfarm.farmos.net/log/544,2020-06-15 00:00:00,Spot spraying black grass,MEADOW,2020/R/WW/2016,Knapsack sprayer,Pesticide Application,,,,Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre;,"<p>Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>
+",[]
+https://rothamstedfarm.farmos.net/log/554,2020-06-05 00:00:00,Irigation,FOSTERS O+Es 4,2020/R/RAS/2056,JD6230;Slurry Tanker,Irrigation,,,H20 Applied: 10 mm,,,"[{'measure': 'length', 'value': '10', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H20 Applied'}]"
+https://rothamstedfarm.farmos.net/log/582,2020-06-04 00:00:00,Path cutting: PARKGRASS ,PARKGRASS,PARKGRASS,ISTH4335;Kilworth Topper,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/583,2020-06-15 00:00:00,Rolled,RRES LSRE Site,RRES LSRE Site,6m Flexicoil Cambridge Roll;JD6230,Rolling,,,,"Plots 20, 46, 53;","<p>Plots 20, 46, 53</p>
+",[]
+https://rothamstedfarm.farmos.net/log/587,2020-06-16 00:00:00,Irigation,FOSTERS O+Es 4,2020/R/RAS/2056,JD6230;Slurry Tanker,Irrigation,,,H20 Applied: 10 mm,,,"[{'measure': 'length', 'value': '10', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H20 Applied'}]"
+https://rothamstedfarm.farmos.net/log/588,2020-06-16 00:00:00,Irigation,PASTURES,2020/R/CM/2053,JD6230;Briggs Boom;Perrot Reel,Irrigation,,,H20 Applied: 12 mm,,,"[{'measure': 'length', 'value': '12', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H20 Applied'}]"
+https://rothamstedfarm.farmos.net/log/609,2020-05-28 00:00:00,Cultivation: Minimum Tillage 5 cm in OSIER,OSIER,2020/R/WS/2052,JD6145R;Kuhn Powerharrow 3m,Minimum-tillage;Power Harrow,0:30:00,,5 cm,Direction of work (driven): N;Power harrowed area for WS/2052 only. Area sprayed off ahead of power harrowing. Experiment was hand planted the next day by experiment sponsor.;,"<p>Direction of work (driven): N</p>
+<p>Power harrowed area for WS/2052 only. Area sprayed off ahead of power harrowing. Experiment was hand planted the next day by experiment sponsor.</p>
+","[{'measure': 'length', 'value': '5', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '0.5', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/655,2020-06-24 00:00:00,Cultivation: Minimum Tillage 5 cm in PASTURES,PASTURES,PASTURES,JD6145R;Kuhn Powerharrow 3m,Power Harrow,1:00:00,,5 cm,Power harrowed the fallow area surrounding the GM experiment CM/2053. Did not go onto GM area. Cleaned down power harrow on the fallow area before leaving the field.;,"<p>Power harrowed the fallow area surrounding the GM experiment CM/2053. Did not go onto GM area. Cleaned down power harrow on the fallow area before leaving the field.</p>
+","[{'measure': 'length', 'value': '5', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '1', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/726,2020-06-23 00:00:00,Mowed,PARKGRASS,PARKGRASS;2020/R/PG/5,JD6830;Kuhn FC 300 RG,Mowing,,,,,,[]
+https://rothamstedfarm.farmos.net/log/727,2020-06-24 00:00:00,Irigation,FURZEFIELD,FURZEFIELD,Briggs Boom;Perrot Reel,Irrigation,,,H20 Applied: 18 mm,,,"[{'measure': 'length', 'value': '18', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H20 Applied'}]"
+https://rothamstedfarm.farmos.net/log/728,2020-06-24 00:00:00,Irigation,PASTURES,2020/R/CM/2053,Briggs Boom;Perrot Reel,Irrigation,,,H20 Applied: 12 mm,,,"[{'measure': 'length', 'value': '12', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/373', 'id': '373', 'resource': 'taxonomy_term', 'name': 'mm'}, 'label': 'H20 Applied'}]"
+https://rothamstedfarm.farmos.net/log/744,2020-06-25 00:00:00,Row up,PARKGRASS,PARKGRASS;2020/R/PG/5,MF3070;PZ Hay Rake,Rowing up,,,,,,[]
+https://rothamstedfarm.farmos.net/log/770,2020-06-23 00:00:00,Turning Over Cut Grass,PARKGRASS,PARKGRASS;2020/R/PG/5,JD5070;Tedder,Turning,,,,,,[]
+https://rothamstedfarm.farmos.net/log/780,2020-06-30 00:00:00,Row up grass,GEESCROFT,2020/R/CS/767;2020/R/RN/1 Clover Ley;2020/R/RN/1 Grass,MF3070;PZ Hay Rake,Rowing up,,,,Grass plots rowed up;,"<p>Grass plots rowed up</p>
+",[]
+https://rothamstedfarm.farmos.net/log/781,2020-06-30 00:00:00,Row up grass,FOSTERS LEY ARABLES,2020/R/RN/2 Clover Ley;2020/R/RN/2 Grass,MF3070;PZ Hay Rake,Rowing up,,,,Grass plots rowed up;,"<p>Grass plots rowed up</p>
+",[]
+https://rothamstedfarm.farmos.net/log/782,2020-06-26 00:00:00,Baling ,PARKGRASS,PARKGRASS;2020/R/PG/5,,Baling,,,,Baled by contractor;,"<p>Baled by contractor</p>
+",[]
+https://rothamstedfarm.farmos.net/log/783,2020-06-30 00:00:00,Baling Grass,GEESCROFT,2020/R/CS/767;2020/R/RN/1 Clover Ley;2020/R/RN/1 Grass,JD6230;Claas Baler,Baling,,,,,,[]
+https://rothamstedfarm.farmos.net/log/784,2020-06-30 00:00:00,Baling Grass,FOSTERS LEY ARABLES,2020/R/RN/2 Clover Ley;2020/R/RN/2 Grass,JD6230;Claas Baler,Baling,,,,,,[]
+https://rothamstedfarm.farmos.net/log/785,2020-06-24 00:00:00,Turning Over Cut Grass,PARKGRASS,PARKGRASS;2020/R/PG/5,JD5070;Tedder,Turning,,,,,,[]
+https://rothamstedfarm.farmos.net/log/786,2020-06-25 00:00:00,Turning Over Cut Grass,PARKGRASS,PARKGRASS;2020/R/PG/5,JD5070;Tedder,Turning,,,,,,[]
+https://rothamstedfarm.farmos.net/log/787,2020-06-24 00:00:00,Turning Over Cut Grass,PARKGRASS,PARKGRASS;2020/R/PG/5,JD5070;Tedder,Turning,,,,,,[]
+https://rothamstedfarm.farmos.net/log/788,2020-06-17 00:00:00,Topping,Broadbalk Wilderness Mown Area,Broadbalk Wilderness Mown Area,ISTH4335;Kilworth Topper,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/789,2020-05-05 00:00:00,Topping,Broadbalk Wilderness Mown Area,Broadbalk Wilderness Mown Area,MF3070;Topper 9,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/799,2020-04-03 00:00:00,Rolled,BONES CLOSE,BONES CLOSE,JD6230;6m Flexicoil Cambridge Roll,Rolling,,,,,,[]
+https://rothamstedfarm.farmos.net/log/801,2020-03-26 00:00:00,Cultivation : BONES CLOSE Commercial,BONES CLOSE,BONES CLOSE,JD6930;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/802,2020-03-27 00:00:00,Cultivation : BONES CLOSE Commercial,BONES CLOSE,BONES CLOSE,JD6930;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;,"<ul></ul>
+",[]
+https://rothamstedfarm.farmos.net/log/803,2019-10-23 00:00:00,Cultivation : BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,,,,;Cultivation ; Whole Field;;,"<ul>
+<li>Cultivation </li>
+<li>Notes: Whole Field</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/804,2020-01-29 00:00:00,Flexitines: LONG HOOS 1/2 + 3 Commercial,LONG HOOS 1/2 + 3,LONG HOOS 1/2 + 3,JD6930;Bomford Flexitine,Tillage;Commercial;Excel upload,,,,";Flexitines; Odds and Ends, Condition: wet - carried out to pull up the soil and aerate it so it dries before drilling;;","<ul>
+<li>Flexitines</li>
+<li>Notes: Odds &amp; Ends, Condition: wet - carried out to pull up the soil and aerate it so it dries before drilling</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/805,2020-02-03 00:00:00,Flexitines: MEADOW Commercial,MEADOW,MEADOW,JD6930;Bomford Flexitine,Tillage;Commercial;Excel upload,,,,;Flexitines; Odds and Ends;;,"<ul>
+<li>Flexitines</li>
+<li>Notes: Odds &amp; Ends</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/806,2020-02-04 00:00:00,Flexitines: MEADOW Commercial,MEADOW,MEADOW,JD6930;Bomford Flexitine,Tillage;Commercial;Excel upload,,,,;Flexitines; Odds and Ends;;,"<ul>
+<li>Flexitines</li>
+<li>Notes: Odds &amp; Ends</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/807,2020-02-11 00:00:00,Power harrow: STACKYARD Commercial,STACKYARD,STACKYARD,JD6230;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,,,,;Power harrow; Done to level surface following ploughing in of beans;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: Done to level surface following ploughing in of beans</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/808,2020-03-21 00:00:00,Cultivation : Stackyard Woburn Commercial,Stackyard Woburn,Stackyard Woburn,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,,,,;Cultivation ; Whole Field;;,"<ul>
+<li>Cultivation </li>
+<li>Notes: Whole Field</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/809,2020-03-21 00:00:00,Power harrowed : GREAT HILL Commercial,Great Hill,Great Hill,JD6620;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,,,,;Power harrowed ; Power harrowed furrows and clay area ;;,"<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed furrows &amp; clay area </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/810,2020-03-21 00:00:00,Power harrowed : Stackyard Woburn Commercial,Stackyard Woburn,Stackyard Woburn,JD6620;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,,,,;Power harrowed ; Power harrowed furrows;;,"<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed furrows</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/811,2020-03-21 00:00:00,Power harrowed : BUTT CLONG Commercial,Butt Clong,Butt Clong,JD6620;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,,,,;Power harrowed ; Power harrowed furrows;;,"<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed furrows</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/812,2020-03-22 00:00:00,Cultivation : GREAT HILL Commercial,Great Hill,Great Hill,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,,,,;Cultivation ; Whole Field;;,"<ul>
+<li>Cultivation </li>
+<li>Notes: Whole Field</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/813,2020-03-22 00:00:00,Cultivation : BUTT CLONG Commercial,Butt Clong,Butt Clong,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,,,,;Cultivation ; Whole Field;;,"<ul>
+<li>Cultivation </li>
+<li>Notes: Whole Field</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/814,2020-03-25 00:00:00,Discing: WARREN Commercial,Warren,Warren,JD6620;WES Massey Ferguson 4m Discs,Tillage;Commercial;Excel upload,,,,;Discing; Whole field;;,"<ul>
+<li>Discing</li>
+<li>Notes: Whole field</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/815,2020-03-25 00:00:00,Cultivation : SUMMERDELLS 2 Commercial,SUMMERDELLS 2,SUMMERDELLS 2,JD6930;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation ;;,"<ul>
+<li>Cultivation </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/816,2020-03-26 00:00:00,Power harrowed : WARREN Commercial,Warren,Warren,JD6620;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,,,,;Power harrowed ;;,"<ul>
+<li>Power harrowed </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/817,2020-03-26 00:00:00,Cultivation : SUMMERDELLS 1 Commercial,SUMMERDELLS 1,SUMMERDELLS 1,JD6930;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation ;;,"<ul>
+<li>Cultivation </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/818,2020-04-01 00:00:00,Cultivation: SAWYERS 1 Commercial,SAWYERS 1,SAWYERS 1,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/819,2020-04-01 00:00:00,Cultivation: SAWYERS 4 Commercial,SAWYERS 4,SAWYERS 4,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/820,2020-04-01 00:00:00,Cultivation: SAWYERS 2 Commercial,SAWYERS 2,SAWYERS 2,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/821,2020-04-22 00:00:00,Cultivation : BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,,,,;Cultivation ; Whole Field;;,"<ul>
+<li>Cultivation </li>
+<li>Notes: Whole Field</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/822,2020-04-24 00:00:00,Cultivation: FOSTERS CORNER Commercial,FOSTERS CORNER,FOSTERS CORNER,NHT7210;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation; Worked twice;;,"<ul>
+<li>Cultivation</li>
+<li>Notes: Worked twice</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/823,2020-05-05 00:00:00,Cultivation: GREAT FIELD 4 Commercial,GREAT FIELD 4,GREAT FIELD 4,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/824,2020-05-05 00:00:00,Cultivation: GARDEN PLOTS Commercial,GARDEN PLOTS,GARDEN PLOTS,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/825,2019-08-21 00:00:00,Min-till cultivation: GREAT KNOTT 1 Commercial,GREAT KNOTT 1,GREAT KNOTT 1,JD6930;Lemkin Karat 9KU,Commercial;Excel upload;Minimum-tillage,,,,;Min-till cultivation;Direction thrown: 45 degees to trams;;,"<ul>
+<li>Min-till cultivation</li>
+<li>Direction thrown: 45 degees to trams</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/826,2019-09-06 00:00:00,Cultivation: GREAT KNOTT 2 Commercial,GREAT KNOTT 2,GREAT KNOTT 2,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/827,2019-09-06 00:00:00,Cultivation: GREAT KNOTT 3 Commercial,GREAT KNOTT 3,GREAT KNOTT 3,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/828,2019-09-07 00:00:00,Cultivation: SAWYERS 3 Commercial,SAWYERS 3,SAWYERS 3,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/829,2019-09-07 00:00:00,Cultivation : WEBBS Commercial,WEBBS,WEBBS,JD6145R;Lemkin Karat 9KU,Commercial;Excel upload;Minimum-tillage,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/830,2019-09-09 00:00:00,Cultivation: AGDELL/HARWOODS Commercial,AGDELL/HARWOODS,AGDELL/HARWOODS,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/831,2019-09-09 00:00:00,Cultivation: CLAYCROFT Commercial,CLAYCROFT,CLAYCROFT,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/832,2019-09-11 00:00:00,Cultivation: STACKYARD Commercial,STACKYARD,STACKYARD,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/833,2019-09-11 00:00:00,Cultivation: SUMMERDELLS 1 Commercial,SUMMERDELLS 1,SUMMERDELLS 1,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/834,2019-09-18 00:00:00,Discing: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;WES Massey Ferguson 4m Discs,Minimum-tillage;Commercial;Excel upload,,,,;Discing; Whole field;;,"<ul>
+<li>Discing</li>
+<li>Notes: Whole field</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/835,2019-10-23 00:00:00,Cultivation : WARREN Commercial,Warren,Warren,JD6620;WES Massey Ferguson 4m Discs,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation ; Whole field;;,"<ul>
+<li>Cultivation </li>
+<li>Notes: Whole field</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/836,2020-05-05 00:00:00,Cultivation: Fosters O+Es 4 Commercial,FOSTERS O+Es 4,FOSTERS O+Es 4,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/837,2019-08-13 00:00:00,Ploughing : WHITEHORSE 2 Commercial,WHITEHORSE 2,WHITEHORSE 2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;Direction thrown: Thrown South;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown South</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/838,2019-09-08 00:00:00,Ploughing: SAWYERS 4 Commercial,SAWYERS 4,SAWYERS 4,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown North;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/839,2019-09-16 00:00:00,Ploughing : Stackyard Woburn Commercial,Stackyard Woburn,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;;,"<ul>
+<li>Ploughing </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/840,2019-09-17 00:00:00,Ploughing: Stackyard Woburn Commercial,Stackyard Woburn,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;;,"<ul>
+<li>Ploughing</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/841,2019-09-18 00:00:00,Ploughing: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing; Broadmead - North corner where 2020 trial will be placed;;,"<ul>
+<li>Ploughing</li>
+<li>Notes: Broadmead - North corner where 2020 trial will be placed</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/842,2019-09-22 00:00:00,Ploughing: HIGHFIELD 4 Commercial,HIGHFIELD 4,HIGHFIELD 4,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown East; Started ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East</li>
+<li>Notes: Started </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/843,2019-09-23 00:00:00,Ploughing: BROADBALK Commercial,BROADBALK,BROADBALK,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,";Ploughing;Direction thrown: Thrown North ; BK1, Ploughed North to finish ;;","<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: BK1, Ploughed North to finish </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/844,2019-09-23 00:00:00,Ploughing: WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,WEST BARNFIELD 1/2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown East; Ploughed east to finish ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East</li>
+<li>Notes: Ploughed east to finish </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/845,2019-09-24 00:00:00,Ploughing: BROADBALK Commercial,BROADBALK,BROADBALK,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,";Ploughing; BK1, Finished;;","<ul>
+<li>Ploughing</li>
+<li>Notes: BK1, Finished</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/846,2019-09-25 00:00:00,Ploughing: WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,WEST BARNFIELD 1/2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown East; Finished;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East</li>
+<li>Notes: Finished</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/847,2019-09-26 00:00:00,Press ploughing : WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,WEST BARNFIELD 1/2,JD6145R;Philip Watkins Press,Ploughing;Commercial;Excel upload,,,,;Press ploughing ;;,"<ul>
+<li>Press ploughing </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/848,2019-10-02 00:00:00,Ploughing : NEW ZEALAND Commercial,NEW ZEALAND,NEW ZEALAND,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;Direction thrown: Thrown East ; Started;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown East </li>
+<li>Notes: Started</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/849,2019-10-03 00:00:00,Ploughing : NEW ZEALAND Commercial,NEW ZEALAND,NEW ZEALAND,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;Direction thrown: Thrown East ; Finished ;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown East </li>
+<li>Notes: Finished </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/850,2019-10-03 00:00:00,Ploughing : SCOUT Commercial,SCOUT,SCOUT,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;Direction thrown: Thrown North ; Started;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Started</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/851,2019-11-19 00:00:00,Ploughing : GREAT KNOTT 2 Commercial,GREAT KNOTT 2,GREAT KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;Direction thrown: Thrown North ; Started ;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Started </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/852,2019-11-19 00:00:00,Ploughing : GREAT KNOTT 3 Commercial,GREAT KNOTT 3,GREAT KNOTT 3,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;Direction thrown: Thrown North ; Started ;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Started </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/853,2019-11-20 00:00:00,Ploughing: GREAT KNOTT 2 Commercial,GREAT KNOTT 2,GREAT KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown North ; Finished ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Finished </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/854,2019-11-20 00:00:00,Ploughing: GREAT KNOTT 3 Commercial,GREAT KNOTT 3,GREAT KNOTT 3,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown North ; Finished ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Finished </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/855,2019-12-02 00:00:00,Ploughing : CLAYCROFT Commercial,CLAYCROFT,CLAYCROFT,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;Direction thrown: Thrown West; Started ;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown West</li>
+<li>Notes: Started </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/856,2020-01-20 00:00:00,Ploughing: BLACKHORSE Commercial,BLACKHORSE,BLACKHORSE,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown North; Started;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North</li>
+<li>Notes: Started</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/857,2020-01-22 00:00:00,Ploughing: BLACKHORSE Commercial,BLACKHORSE,BLACKHORSE,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown North; Finished;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North</li>
+<li>Notes: Finished</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/858,2020-01-29 00:00:00,Ploughing: OSIER Commercial,OSIER,OSIER,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown South; Started;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown South</li>
+<li>Notes: Started</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/859,2020-02-03 00:00:00,Ploughing: OSIER Commercial,OSIER,OSIER,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown South; Finished;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown South</li>
+<li>Notes: Finished</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/860,2020-02-04 00:00:00,Ploughing: DELAFIELD Commercial,DELAFIELD,DELAFIELD,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown East ; Finished ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East </li>
+<li>Notes: Finished </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/861,2020-02-06 00:00:00,Ploughing: STACKYARD Commercial,STACKYARD,STACKYARD,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown North; Started;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North</li>
+<li>Notes: Started</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/862,2020-02-07 00:00:00,Ploughing: STACKYARD Commercial,STACKYARD,STACKYARD,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown North ; Finished ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Finished </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/863,2020-02-20 00:00:00,Ploughed : BUTT CLONG Commercial,Butt Clong,Butt Clong,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughed ;Direction thrown: Thrown East;;,"<ul>
+<li>Ploughed </li>
+<li>Direction thrown: Thrown East</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/864,2020-02-21 00:00:00,Ploughed : BUTT CLONG Commercial,Butt Clong,Butt Clong,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughed ;Direction thrown: Thrown East;;,"<ul>
+<li>Ploughed </li>
+<li>Direction thrown: Thrown East</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/865,2020-03-12 00:00:00,Ploughing: GREAT HILL Commercial,Great Hill,Great Hill,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown South;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown South</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/866,2020-03-13 00:00:00,Ploughing: GREAT HILL Commercial,Great Hill,Great Hill,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown South;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown South</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/867,2020-03-18 00:00:00,Ploughing: SAWYERS 3 Commercial,SAWYERS 3,SAWYERS 3,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown North ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/868,2020-03-30 00:00:00,Ploughing: PASTURES Commercial,PASTURES,PASTURES,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown south;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown south</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/869,2020-03-31 00:00:00,Ploughing: LITTLE KNOTT 1 Commercial,LITTLE KNOTT 1,LITTLE KNOTT 1,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown South;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown South</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/870,2020-03-31 00:00:00,Ploughing: LITTLE KNOTT 2 Commercial,LITTLE KNOTT 2,LITTLE KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;Direction thrown: Thrown South;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown South</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/871,2020-04-01 00:00:00,Ploughed: DELHARDING Commercial,DELHARDING,DELHARDING,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughed;Direction thrown: Thrown West; Ploughed west side to just past western copse. ;;,"<ul>
+<li>Ploughed</li>
+<li>Direction thrown: Thrown West</li>
+<li>Notes: Ploughed west side to just past western copse. </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/872,2020-04-02 00:00:00,Ploughing: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing; Ploughed the surrounds of WW/2033;;,"<ul>
+<li>Ploughing</li>
+<li>Notes: Ploughed the surrounds of WW/2033</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/873,2020-04-06 00:00:00,Ploughing: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;;,"<ul>
+<li>Ploughing</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/874,2020-04-09 00:00:00,Ploughing: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;;,"<ul>
+<li>Ploughing</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/875,2020-04-11 00:00:00,Ploughing: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing;;,"<ul>
+<li>Ploughing</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/876,2019-12-02 00:00:00,Ploughing : WEBBS Commercial,WEBBS,WEBBS,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,,,,;Ploughing ;Direction thrown: Thrown East; Started;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown East</li>
+<li>Notes: Started</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/877,2019-08-13 00:00:00,Press ploughing : FURZEFIELD Commercial,FURZEFIELD,FURZEFIELD,JD6145R;Philip Watkins Press,Commercial;Cultipressing;Excel upload,,,,;Press ploughing ;;,"<ul>
+<li>Press ploughing </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/878,2019-08-13 00:00:00,Press ploughing : WHITEHORSE 2 Commercial,WHITEHORSE 2,WHITEHORSE 2,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,,,,;Press ploughing ;;,"<ul>
+<li>Press ploughing </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/879,2019-09-11 00:00:00,Cultivation: GEESCROFT Commercial,GEESCROFT,GEESCROFT,JD6145R;Lemkin Karat 9KU,Cultipressing;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/880,2020-04-02 00:00:00,Press: SAWYERS 3 Commercial,SAWYERS 3,SAWYERS 3,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,,,,;Press;;,"<ul>
+<li>Press</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/881,2020-04-02 00:00:00,Press: PASTURES Commercial,PASTURES,PASTURES,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,,,,;Press;;,"<ul>
+<li>Press</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/882,2020-04-02 00:00:00,Press: LITTLE KNOTT 1 Commercial,LITTLE KNOTT 1,LITTLE KNOTT 1,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,,,,;Press;;,"<ul>
+<li>Press</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/883,2020-04-02 00:00:00,Press: LITTLE KNOTT 2 Commercial,LITTLE KNOTT 2,LITTLE KNOTT 2,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,,,,;Press;;,"<ul>
+<li>Press</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/884,2019-09-12 00:00:00,Rolled: BROADBALK Commercial,BROADBALK,BROADBALK,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; Done to damage equisetum prior to sparaying with Glyphosate;;,"<ul>
+<li>Rolled</li>
+<li>Notes: Done to damage equisetum prior to sparaying with Glyphosate</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/885,2020-03-24 00:00:00,Rolled: Stackyard Woburn Commercial,Stackyard Woburn,Stackyard Woburn,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/886,2020-03-24 00:00:00,Rolled: BUTT CLONG Commercial,Butt Clong,Butt Clong,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/887,2020-03-24 00:00:00,Rolled: GREAT HILL Commercial,Great Hill,Great Hill,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/888,2020-04-21 00:00:00,Rolled : AGDELL/HARWOODS Commercial,AGDELL/HARWOODS,AGDELL/HARWOODS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/889,2020-03-25 00:00:00,Rolled: GREAT KNOTT 1 Commercial,GREAT KNOTT 1,GREAT KNOTT 1,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; not sure did any good as was too hard and dry ;;,"<ul>
+<li>Rolled</li>
+<li>Notes: not sure did any good as was too hard and dry </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/890,2020-04-07 00:00:00,Rolled : CLAYCROFT Commercial,CLAYCROFT,CLAYCROFT,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/891,2020-04-24 00:00:00,Rolled : DELHARDING Commercial,DELHARDING,DELHARDING,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/892,2020-03-26 00:00:00,Rolled: DRAPERS Commercial,DRAPERS,DRAPERS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; Rolled established crop to try and flatten rough seed bed;;,"<ul>
+<li>Rolled</li>
+<li>Notes: Rolled established crop to try and flatten rough seed bed</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/893,2020-03-25 00:00:00,Rolled: GREAT KNOTT 2 Commercial,GREAT KNOTT 2,GREAT KNOTT 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; Rolled established crop to try and flatten rough seed bed;;,"<ul>
+<li>Rolled</li>
+<li>Notes: Rolled established crop to try and flatten rough seed bed</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/894,2020-03-30 00:00:00,Rolled: WARREN Commercial,Warren,Warren,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/895,2020-03-25 00:00:00,Rolled: GREAT KNOTT 3 Commercial,GREAT KNOTT 3,GREAT KNOTT 3,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; Rolled established crop to try and flatten rough seed bed;;,"<ul>
+<li>Rolled</li>
+<li>Notes: Rolled established crop to try and flatten rough seed bed</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/896,2020-04-03 00:00:00,Rolled: HIGHFIELD 4 Commercial,HIGHFIELD 4,HIGHFIELD 4,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/897,2020-04-07 00:00:00,Rolled : HIGHFIELD 5/6 Commercial,HIGHFIELD 5/6,HIGHFIELD 5/6,JD6230;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/898,2020-04-06 00:00:00,Rolled: LITTLE KNOTT 1 Commercial,LITTLE KNOTT 1,LITTLE KNOTT 1,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/899,2020-04-06 00:00:00,Rolled: LITTLE KNOTT 2 Commercial,LITTLE KNOTT 2,LITTLE KNOTT 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/900,2020-03-25 00:00:00,Rolled: LONG HOOS 4 Commercial,LONG HOOS 4,LONG HOOS 4,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/901,2020-04-06 00:00:00,Rolled: NEW ZEALAND Commercial,NEW ZEALAND,NEW ZEALAND,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/902,2020-03-26 00:00:00,Rolled: PARKLANDS Commercial,PARKLANDS,PARKLANDS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/903,2020-04-05 00:00:00,Rolled: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; Rolled surrounds of WW/2033;;,"<ul>
+<li>Rolled</li>
+<li>Notes: Rolled surrounds of WW/2033</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/904,2020-04-03 00:00:00,Rolled: SAWYERS 1 Commercial,SAWYERS 1,SAWYERS 1,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/905,2020-04-03 00:00:00,Rolled: SAWYERS 2 Commercial,SAWYERS 2,SAWYERS 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/906,2020-04-03 00:00:00,Rolled: SAWYERS 3 Commercial,SAWYERS 3,SAWYERS 3,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; This was done by mistake before field was drilled;;,"<ul>
+<li>Rolled</li>
+<li>Notes: This was done by mistake before field was drilled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/907,2020-04-06 00:00:00,Rolled : DELHARDING Commercial,DELHARDING,DELHARDING,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ; Rolled Ploughing from 01/04/20;;,"<ul>
+<li>Rolled </li>
+<li>Notes: Rolled Ploughing from 01/04/20</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/908,2020-04-03 00:00:00,Rolled: SAWYERS 4 Commercial,SAWYERS 4,SAWYERS 4,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/909,2020-04-01 00:00:00,Rolled: SUMMERDELLS 1 Commercial,SUMMERDELLS 1,SUMMERDELLS 1,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/910,2020-04-01 00:00:00,Rolled: SUMMERDELLS 2 Commercial,SUMMERDELLS 2,SUMMERDELLS 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/911,2020-03-27 00:00:00,Rolled: WEBBS Commercial,WEBBS,WEBBS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; Rolled established crop to try and flatten rough seed bed;;,"<ul>
+<li>Rolled</li>
+<li>Notes: Rolled established crop to try and flatten rough seed bed</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/912,2020-04-22 00:00:00,Rolled : WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,WEST BARNFIELD 1/2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/913,2020-04-06 00:00:00,Rolled: WHITEHORSE 2 Commercial,WHITEHORSE 2,WHITEHORSE 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/914,2020-04-27 00:00:00,Rolled: STACKYARD Commercial,STACKYARD,STACKYARD,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/915,2020-05-07 00:00:00,Rolled: GREAT FIELD 1/2 Commercial,GREAT FIELD 1/2,GREAT FIELD 1/2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled; Phenotyping area - Rolled cover crops only not plots ;;,"<ul>
+<li>Rolled</li>
+<li>Notes: Phenotyping area - Rolled cover crops only not plots </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/916,2020-05-07 00:00:00,Rolled: FURZEFIELD Commercial,FURZEFIELD,FURZEFIELD,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/917,2020-05-07 00:00:00,Rolled: GREAT FIELD 4 Commercial,GREAT FIELD 4,GREAT FIELD 4,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/918,2020-05-07 00:00:00,Rolled: GARDEN PLOTS Commercial,GARDEN PLOTS,GARDEN PLOTS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/919,2020-04-24 00:00:00,Rolled : Broad Mead Commercial,Broad Mead,Broad Mead,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/920,2020-04-09 00:00:00,Rolled : SAWYERS 3 Commercial,SAWYERS 3,SAWYERS 3,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/921,2020-04-09 00:00:00,Rolled : PASTURES Commercial,PASTURES,PASTURES,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/924,2020-05-19 00:00:00,Irrigation: PASTURES CM/2053,PASTURES,2020/R/CM/2053,Briggs Boom,Irrigation;Excel upload,,,,;Irrigation; Perrot Reel;;,"<ul>
+<li>Irrigation</li>
+<li>Notes: Perrot Reel</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/925,2020-05-22 00:00:00,Irrigation: PASTURES CM/2053,PASTURES,2020/R/CM/2053,Briggs Boom,Irrigation;Excel upload,,,,;Irrigation; Perrot Reel;;,"<ul>
+<li>Irrigation</li>
+<li>Notes: Perrot Reel</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/926,2019-08-13 00:00:00,Press ploughing : GREAT FIELD 1/2 RAW/2037,GREAT FIELD 1/2,2020/R/RAW/2037,JD6145R;Philip Watkins Press,Cultipressing;Excel upload,,,,;Press ploughing ;;,"<ul>
+<li>Press ploughing </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/927,2019-09-26 00:00:00,Press ploughing : RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD6830;Philip Watkins Press,Cultipressing;Excel upload,,,,";Press ploughing ; Press ploughed plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55;;","<ul>
+<li>Press ploughing </li>
+<li>Notes: Press ploughed plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/928,2019-08-04 00:00:00,Ploughing : Broad Mead CS/427,Broad Mead,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing ;;,"<ul>
+<li>Ploughing </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/929,2019-08-13 00:00:00,Ploughing: GREAT FIELD 1/2 RAW/2037,GREAT FIELD 1/2,GREAT FIELD 1/2,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrown East;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/930,2019-08-28 00:00:00,Ploughed: RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,,,,";Ploughed; Plots 2, 34, 36, 50 ploughed  ;;","<ul>
+<li>Ploughed</li>
+<li>Notes: Plots 2, 34, 36, 50 ploughed  </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/931,2019-08-28 00:00:00,Press ploughing : RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD6930;Philip Watkins Press,Ploughing;Excel upload,,,,";Press ploughing ; Plots 2, 34, 36, 50 pressed ;;","<ul>
+<li>Press ploughing </li>
+<li>Notes: Plots 2, 34, 36, 50 pressed </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/932,2019-09-04 00:00:00,Ploughing: BUTT CLONG CS/427,Butt Clong,Butt Clong,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing; Heavy metal plots ;;,"<ul>
+<li>Ploughing</li>
+<li>Notes: Heavy metal plots </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/934,2019-09-16 00:00:00,Ploughing: NEW ZEALAND CS/760,NEW ZEALAND,NEW ZEALAND,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrown East ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/935,2019-09-26 00:00:00,Press ploughing : SAWYERS 1 CS/715,SAWYERS 1,SAWYERS 1,JD6145R;Philip Watkins Press,Ploughing;Excel upload,,,,;Press ploughing ; Press South end only ;;,"<ul>
+<li>Press ploughing </li>
+<li>Notes: Press South end only </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/936,2019-09-26 00:00:00,Ploughing: SAWYERS 1 CS/715,SAWYERS 1,SAWYERS 1,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrown North ; Rape stubble only ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown North </li>
+<li>Notes: Rape stubble only </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/937,2019-09-26 00:00:00,Ploughing : RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,MF3070;Ransom 3 Furrow Plough,Ploughing;Excel upload,,,,";Ploughing ;Direction thrown: Thrown East; Ploughed plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55 - wheat plots ;;","<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown East</li>
+<li>Notes: Ploughed plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55 - wheat plots </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/939,2019-10-03 00:00:00,Ploughing: Stackyard Woburn RN/12,Stackyard Woburn,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrown East;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/940,2019-10-09 00:00:00,Ploughing: Stackyard Woburn RN/3,Stackyard Woburn,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrown East ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/941,2019-10-10 00:00:00,Ploughing: SAWYERS 1 CS/10,SAWYERS 1,SAWYERS 1,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrrown North West;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrrown North West</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/942,2020-03-17 00:00:00,Ploughing: FOSTERS RN/2,FOSTERS,FOSTERS,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrown West; Ploughed all arable and fallow plots;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown West</li>
+<li>Notes: Ploughed all arable and fallow plots</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/943,2020-03-27 00:00:00,Ploughing: GREAT FIELD 1/2 WS/2054,GREAT FIELD 1/2,GREAT FIELD 1/2,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrown South; Phenotyping area ;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown South</li>
+<li>Notes: Phenotyping area </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/944,2020-04-24 00:00:00,Ploughing: Stackyard Woburn SOIL MINE,Stackyard Woburn,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;;,"<ul>
+<li>Ploughing</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/945,2019-09-26 00:00:00,Ploughing : HOOS FIELD EX/4,HOOS FIELD,2020/R/EX/4,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing ;Direction thrown: Thrown South;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown South</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/946,2019-09-26 00:00:00,Ploughing : HOOS FIELD RS/9,HOOS FIELD,2020/R/RS/9,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing ;Direction thrown: Thrown South; acid strip;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown South</li>
+<li>Notes: acid strip</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/947,2019-09-26 00:00:00,Ploughing : HOOS FIELD WF/3,HOOS FIELD,2020/R/WF/3,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing ;Direction thrown: Thrown South;;,"<ul>
+<li>Ploughing </li>
+<li>Direction thrown: Thrown South</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/948,2019-09-27 00:00:00,Press ploughing : HOOS FIELD EX/4,HOOS FIELD,2020/R/EX/4,JD6145R;Philip Watkins Press,Ploughing;Excel upload,,,,;Press ploughing ;;,"<ul>
+<li>Press ploughing </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/949,2019-09-27 00:00:00,Press ploughing : HOOS FIELD RS/9,HOOS FIELD,2020/R/RS/9,JD6145R;Philip Watkins Press,Ploughing;Excel upload,,,,;Press ploughing ; acid strip;;,"<ul>
+<li>Press ploughing </li>
+<li>Notes: acid strip</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/950,2019-09-27 00:00:00,Press ploughing : HOOS FIELD WF/3,HOOS FIELD,2020/R/WF/3,JD6145R;Philip Watkins Press,Ploughing;Excel upload,,,,;Press ploughing ;;,"<ul>
+<li>Press ploughing </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/951,2019-09-30 00:00:00,Ploughing: FOSTERS CS/738,FOSTERS,2020/R/CS/738,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,;Ploughing;Direction thrown: Thrown West;;,"<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown West</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/952,2019-11-21 00:00:00,Ploughing: HOOS FIELD HB/2,HOOS FIELD,HOOS BARLEY,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,,,,";Ploughing;Direction thrown: Thrown South; Headlands, Finished ;;","<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown South</li>
+<li>Notes: Headlands, Finished </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/953,2020-03-17 00:00:00,Ploughing: HIGHFIELD 1/2/3 CS/767,GEESCROFT,2020/R/CS/767,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,,,,";Ploughing; Ploughed all arable and fallow plots except plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 22 and 25 as they were too wet;;","<ul>
+<li>Ploughing</li>
+<li>Notes: Ploughed all arable and fallow plots except plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 22 and 25 as they were too wet</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/954,2020-03-17 00:00:00,Ploughing: HIGHFIELD LEY ARABLES nan,HIGHFIELD LEY ARABLES,HIGHFIELD LEY ARABLES,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,,,,";Ploughing;Direction thrown: Thrown East; All Arable and fallow plots ploughed apart from Plots 29, 30, 43 and 44 as they were too wet ;;","<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown East</li>
+<li>Notes: All Arable and fallow plots ploughed apart from Plots 29, 30, 43 and 44 as they were too wet </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/955,2020-03-25 00:00:00,Ploughing: HIGHFIELD 1/2/3 CS/767,GEESCROFT,2020/R/CS/767,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,,,,";Ploughing;Direction thrown: Thrown east; Ploughed plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 22 and 25;;","<ul>
+<li>Ploughing</li>
+<li>Direction thrown: Thrown east</li>
+<li>Notes: Ploughed plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 22 and 25</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/956,2019-08-19 00:00:00,Rolled: WHITEHORSE 2 RAW/2025,WHITEHORSE 2,2020/R/RAW/2025,JD6230;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/957,2019-08-28 00:00:00,Rolled: RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD6230;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,";Rolled; Rolled plots 2, 34, 36, 50;;","<ul>
+<li>Rolled</li>
+<li>Notes: Rolled plots 2, 34, 36, 50</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/958,2019-09-05 00:00:00,Plot Rolled: GREAT FIELD 1/2 RAW/2037,GREAT FIELD 1/2,2020/R/RAW/2037,JD5070;Plot Rolls,Rolling;Excel upload,,,,;Plot Rolled;;,"<ul>
+<li>Plot Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/959,2019-09-07 00:00:00,Rolled: SAWYERS 1 CS/715,SAWYERS 1,2020/R/CS/715,6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,;Rolled; North end only (OSR);;,"<ul>
+<li>Rolled</li>
+<li>Notes: North end only (OSR)</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/960,2019-10-17 00:00:00,Rolled: Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,JD6620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/961,2020-03-27 00:00:00,Rolled: BROADBALK BK/1,BROADBALK,BROADBALK,JD5620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/962,2020-03-25 00:00:00,Rolled: HOOS BARLEY HB/2,HOOS FIELD,HOOS BARLEY,JD5620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/963,2020-03-30 00:00:00,Rolled: RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD5620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,";Rolled; Rolled plots 5, 7, 12 and 16;;","<ul>
+<li>Rolled</li>
+<li>Notes: Rolled plots 5, 7, 12 and 16</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/964,2020-03-30 00:00:00,Rolled: RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,";Rolled; Rolled plots 4, 9, 11, 15, 18, 28, 31, 35, 42, 48, 52 and 54;;","<ul>
+<li>Rolled</li>
+<li>Notes: Rolled plots 4, 9, 11, 15, 18, 28, 31, 35, 42, 48, 52 and 54</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/965,2020-03-31 00:00:00,Rolled : Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,JD6620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/966,2020-04-02 00:00:00,Rolled: SAWYERS 1 WS/2047,SAWYERS 1,2020/R/WS/2047,JD5620;Plot Rolls,Rolling;Excel upload,,,,;Rolled;;,"<ul>
+<li>Rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/967,2020-04-02 00:00:00,Rolled : SAWYERS 1 WS/2049,SAWYERS 1,2020/R/WS/2049,JD5620;Plot Rolls,Rolling;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/968,2020-04-02 00:00:00,Rolled : SAWYERS 1 WS/2055,SAWYERS 1,2020/R/WS/2055,JD5070;Plot Rolls,Rolling;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/969,2020-04-24 00:00:00,Rolled : RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD5620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,;Rolled ; Rolled plots 20 and 53;;,"<ul>
+<li>Rolled </li>
+<li>Notes: Rolled plots 20 and 53</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/970,2020-04-07 00:00:00,Rolled : GREAT FIELD 1/2 WS/2054,GREAT FIELD 1/2,2020/R/WS/2054,JD5620;Plot Rolls,Rolling;Excel upload,,,,;Rolled ; Used plot rolls - rolled twice because seed bed was lumpy;;,"<ul>
+<li>Rolled </li>
+<li>Notes: Used plot rolls - rolled twice because seed bed was lumpy</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/971,2020-04-09 00:00:00,Rolled : SAWYERS 1 CS/715,SAWYERS 1,CS-715 Oat plots;CS-715 Oat surrounds;CS-715 Wheat Plots;CS-715 Wheat Surrounds,JD5620;6m Flexicoil Cambridge Roll,Excel upload;Rolling,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/972,2019-09-05 00:00:00,Powerharrow : GREAT FIELD 1/2 RAW/2037,GREAT FIELD 1/2,2020/R/RAW/2037,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Powerharrow ; Power harrow area ready for drilling plots;;,"<ul>
+<li>Powerharrow </li>
+<li>Notes: Power harrow area ready for drilling plots</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/973,2019-10-10 00:00:00,Power harrow : Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,JD6620;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ;;,"<ul>
+<li>Power harrow </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/974,2019-10-10 00:00:00,Power harrow : Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,JD6620;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ;;,"<ul>
+<li>Power harrow </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/975,2019-10-29 00:00:00,Power harrow : BYLANDS WW/2014,BYLANDS,2020/R/WW/2014,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ;;,"<ul>
+<li>Power harrow </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/976,2019-10-29 00:00:00,Cultivation: MEADOW WW/2029,MEADOW,2020/R/WW/2029,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Cultivation; Across direction of drilling ;;,"<ul>
+<li>Cultivation</li>
+<li>Notes: Across direction of drilling </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/977,2019-10-31 00:00:00,Power harrow: NEW ZEALAND CS/760,NEW ZEALAND,2020/R/CS/760,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow; In same direction as drilling;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: In same direction as drilling</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/978,2019-10-31 00:00:00,Power harrow: LONG HOOS 5 CS/773,LONG HOOS 5,2020/R/CS/773,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow; In same direction as drilling;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: In same direction as drilling</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/979,2019-10-31 00:00:00,Power harrow: LONG HOOS 4 CS/778,LONG HOOS 4,2020/R/CS/778,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow; In same direction as drilling;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: In same direction as drilling</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/980,2019-10-31 00:00:00,Power harrow: LONG HOOS 6/7 CS/789,LONG HOOS 6/7,2020/R/CS/789,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow; In same direction as drilling;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: In same direction as drilling</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/981,2019-10-31 00:00:00,Power harrow: LONG HOOS 1/2 + 3 WW/2019,LONG HOOS 1/2 + 3,2020/R/WW/2019,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow; 90 degees to direction of drilling;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: 90 degees to direction of drilling</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/982,2019-10-31 00:00:00,Power harrow: LONG HOOS 1/2 + 3 WW/2022,LONG HOOS 1/2 + 3,2020/R/WW/2022,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow; In same direction as drilling;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: In same direction as drilling</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/983,2019-11-20 00:00:00,Power harrow : MEADOW WW/2015,MEADOW,2020/R/WW/2015,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ;;,"<ul>
+<li>Power harrow </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/984,2019-11-20 00:00:00,Power harrow : MEADOW WW/2016,MEADOW,2020/R/WW/2016,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ;;,"<ul>
+<li>Power harrow </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/985,2020-01-29 00:00:00,Power harrow : OSIER WW/2017,OSIER,2020/R/WW/2017,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ;;,"<ul>
+<li>Power harrow </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/986,2020-01-29 00:00:00,Power harrow : OSIER WW/2030,OSIER,2020/R/WW/2030,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ;;,"<ul>
+<li>Power harrow </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/987,2020-01-29 00:00:00,Power harrow : OSIER WW/2031+2034,OSIER,2020/R/WW/2031+2034,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ;;,"<ul>
+<li>Power harrow </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/988,2020-01-30 00:00:00,Power harrow : OSIER WW/2030,OSIER,2020/R/WW/2030,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ; Done in North/South direction;;,"<ul>
+<li>Power harrow </li>
+<li>Notes: Done in North/South direction</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/989,2020-01-31 00:00:00,Power harrow : OSIER WW/2006,OSIER,2020/R/WW/2006,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ; Done in North/South direction;;,"<ul>
+<li>Power harrow </li>
+<li>Notes: Done in North/South direction</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/990,2020-01-31 00:00:00,Power harrowed : OSIER WW/2011,OSIER,2020/R/WW/2011,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrowed ; Done in North/South direction;;,"<ul>
+<li>Power harrowed </li>
+<li>Notes: Done in North/South direction</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/991,2020-02-03 00:00:00,Cultivation: RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD6930;Bomford Flexitine,Tillage;Excel upload,,,,";Cultivation; Cultivate Inversion Wheat plots, 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55, Condition: wet;;","<ul>
+<li>Cultivation</li>
+<li>Notes: Cultivate Inversion Wheat plots, 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55, Condition: wet</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/992,2020-02-03 00:00:00,Power harrow : OSIER WW/2045,OSIER,2020/R/WW/2045,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ; WW/2045 only ;;,"<ul>
+<li>Power harrow </li>
+<li>Notes: WW/2045 only </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/993,2020-02-04 00:00:00,Power harrow: OSIER WW/2026,OSIER,2020/R/WW/2026,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow; Done in East/West direction;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: Done in East/West direction</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/994,2020-02-04 00:00:00,Power harrow : OSIER WW/2039,OSIER,2020/R/WW/2039,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ; Done in East/West direction - across direction of plot drilling ;;,"<ul>
+<li>Power harrow </li>
+<li>Notes: Done in East/West direction - across direction of plot drilling </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/995,2020-02-04 00:00:00,Power harrow : OSIER WW/2042,OSIER,2020/R/WW/2042,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ; Done in East/West direction - across direction of plot drilling ;;,"<ul>
+<li>Power harrow </li>
+<li>Notes: Done in East/West direction - across direction of plot drilling </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/996,2020-02-04 00:00:00,Power harrow: OSIER WW/2035+2046,OSIER,2020/R/WW/2035+2046,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow; Done in East/West direction;;,"<ul>
+<li>Power harrow</li>
+<li>Notes: Done in East/West direction</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/997,2020-02-06 00:00:00,Power harrow : SAWYERS 1 CS/10,SAWYERS 1,2020/R/CS/10,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrow ; Done in roughly N/S direction ;;,"<ul>
+<li>Power harrow </li>
+<li>Notes: Done in roughly N/S direction </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/998,2020-03-23 00:00:00,Cultivation : HOOS FIELD EX/4,HOOS FIELD,2020/R/EX/4,JD6830;Bomford Flexitine,Tillage;Excel upload,,,,;Cultivation ;;,"<ul>
+<li>Cultivation </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/999,2020-03-23 00:00:00,Cultivation : HOOS FIELD RS/9,HOOS FIELD,2020/R/RS/9,JD6830;Bomford Flexitine,Tillage;Excel upload,,,,;Cultivation ; Acid Strip;;,"<ul>
+<li>Cultivation </li>
+<li>Notes: Acid Strip</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1000,2020-03-23 00:00:00,Cultivation : HOOS FIELD WF/3,HOOS FIELD,2020/R/WF/3,JD6830;Bomford Flexitine,Tillage;Excel upload,,,,;Cultivation ;;,"<ul>
+<li>Cultivation </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1001,2020-03-26 00:00:00,Power harrowed : HIGHFIELD 1/2/3 CS/767,GEESCROFT,2020/R/CS/767,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,";Power harrowed ; Power harrowed plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 11, 12, 14, 15, 16 and 18;;","<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 11, 12, 14, 15, 16 and 18</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1002,2020-03-26 00:00:00,Power harrowed : RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,";Power harrowed ;Direction thrown: North/South ; plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55;;","<ul>
+<li>Power harrowed </li>
+<li>Direction thrown: North/South </li>
+<li>Notes: plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1003,2020-03-26 00:00:00,Power harrowed : HIGHFIELD LEY ARABLES nan,HIGHFIELD LEY ARABLES,HIGHFIELD LEY ARABLES,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,";Power harrowed ; Power harrowed plots 03, 04, 07 and 08;;","<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed plots 03, 04, 07 and 08</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1004,2020-03-27 00:00:00,Power harrowed : HIGHFIELD 1/2/3 CS/767,GEESCROFT,2020/R/CS/767,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,";Power harrowed ; Power harrowed plots 19, 20, 22, 24, 25, 27, 28, 29, 32 and 33;;","<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed plots 19, 20, 22, 24, 25, 27, 28, 29, 32 and 33</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1005,2020-03-27 00:00:00,Power harrowed : HIGHFIELD LEY ARABLES RN/1,HIGHFIELD 1/2/3,2020/R/RN/1,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,";Power harrowed ; Power harrowed plots 15, 16, 17, 18, 21, 22, 25, 26, 29, 30, 35, 36, 37, 38, 43 and 44;;","<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed plots 15, 16, 17, 18, 21, 22, 25, 26, 29, 30, 35, 36, 37, 38, 43 and 44</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1006,2020-03-31 00:00:00,Cultivation: Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,JD6620;WES Chisel Plough,Tillage;Excel upload,,,,;Cultivation; Chisel plough - 1st year grass plots;;,"<ul>
+<li>Cultivation</li>
+<li>Notes: Chisel plough - 1st year grass plots</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1007,2020-04-03 00:00:00,Cultivation: WHITEHORSE 2 Commercial,WHITEHORSE 2,WHITEHORSE 2,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1008,2020-04-21 00:00:00,Cultivation : WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,WEST BARNFIELD 1/2,NHT7210;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation ;;,"<ul>
+<li>Cultivation </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1009,2020-04-22 00:00:00,Cultivation: DELHARDING Commercial,DELHARDING,DELHARDING,NHT7210;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1010,2020-04-24 00:00:00,Power harrowed : RRES LSRE Site CS/790,RRES LSRE Site,RRES LSRE Site,JD6145R;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,";Power harrowed ; Power harrowed plots 20 and 53 before drilling, Plot 20 had to go over twice;;","<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed plots 20 &amp; 53 before drilling, Plot 20 had to go over twice</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1011,2020-04-27 00:00:00,Cultivation: STACKYARD Commercial,STACKYARD,STACKYARD,NHT7210;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1012,2020-07-02 00:00:00,Power Harrow of Broadbalk Outer areas,BROADBALK,BROADBALK,JD6145R;Kuhn Powerharrow 3m,Power Harrow,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1013,2019-12-04 00:00:00,Cultivation : Stackyard Woburn WW/2001,Stackyard Woburn,2020/W/WW/2001,JD5070,Tillage;Excel upload,,,,";Cultivation ; Cultivated using same wheel marks as we will use when drilling plots, 2m Spring tyne;;","<ul>
+<li>Cultivation </li>
+<li>Notes: Cultivated using same wheel marks as we will use when drilling plots, 2m Spring tyne</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1442,2020-07-02 00:00:00,Cleaning Grain Store ,Farm Biuldings & Yard,Farm Biuldings & Yard,,,,,,Bays 4 and 5 started;grain store near diesel tank;,"<p>Bays 4 &amp; 5 started<br />
+grain store near diesel tank</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1443,2020-07-03 00:00:00,Cleaning Grain Store ,Farm Biuldings & Yard,Farm Biuldings & Yard,,,,,,"Bays 4 and 5 finished, Bay 3 started;Grain store near diesel tank;","<p>Bays 4 &amp; 5 finished, Bay 3 started<br />
+Grain store near diesel tank</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1476,2019-05-08 00:00:00,Topped: BUTT CLONG Commercial ,Butt Clong,Butt Clong,JD6620;WES 3m Front Topper,Topping;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1477,2019-05-16 00:00:00,Topped: GREAT HILL Commercial ,Great Hill,Great Hill,JD6620;WES 3m Front Topper,Topping;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1478,2019-05-17 00:00:00,Topped: Stackyard Woburn Commercial ,Stackyard Woburn,Stackyard Woburn,JD6620;Topper 9,Topping;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1479,2019-05-20 00:00:00,Topped: LANSOME Commercial ,Lansome,Lansome,JD6620;Topper 9,Topping;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1480,2019-05-21 00:00:00,Topped: Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Topped; topping paths ;;,"<ul>
+<li>Topped</li>
+<li>Notes: topping paths </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1481,2019-05-21 00:00:00,Topped: Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Topped; topping paths ;;,"<ul>
+<li>Topped</li>
+<li>Notes: topping paths </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1482,2019-05-23 00:00:00,Topped: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1483,2019-05-23 00:00:00,Topped: BUTT CLONG Commercial,Butt Clong,Butt Clong,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1484,2019-05-24 00:00:00,Topped: Stackyard Woburn Commercial,Stackyard Woburn,Stackyard Woburn,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1485,2019-06-11 00:00:00,Topped: BUTT CLONG Commercial ,Butt Clong,Butt Clong,JD6620;Topper 9,Topping;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1486,2019-06-14 00:00:00,Topped: Stackyard Woburn Commercial ,Stackyard Woburn,Stackyard Woburn,JD6620;Topper 9,Topping;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1487,2019-06-17 00:00:00,Topped: GREAT HILL Commercial ,Great Hill,Great Hill,JD6620;Topper 9,Topping;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1488,2019-06-17 00:00:00,Topped: LANSOME Commercial ,Lansome,Lansome,JD6620;Topper 9,Topping;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1489,2019-06-28 00:00:00,Topped: Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Topped; Paths;;,"<ul>
+<li>Topped</li>
+<li>Notes: Paths</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1490,2019-06-28 00:00:00,Topped: Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Topped; Paths;;,"<ul>
+<li>Topped</li>
+<li>Notes: Paths</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1491,2019-07-10 00:00:00,Topped: BUTT CLONG CS/427,Butt Clong,Butt Clong,JD6620;Topper 9,Topping;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1492,2019-07-17 00:00:00,Topped: Broad Mead Commercial,Broad Mead,Broad Mead,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1493,2019-07-17 00:00:00,Topped: GREAT HILL Commercial,Great Hill,Great Hill,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1494,2019-07-31 00:00:00,Topped: LANSOME Commercial,Lansome,Lansome,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1495,2019-08-01 00:00:00,Topped: BROAD MEAD Commercial,Broad Mead,Broad Mead,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped; Broadmead - North corner where 2020 trial will be placed;;,"<ul>
+<li>Topped</li>
+<li>Notes: Broadmead - North corner where 2020 trial will be placed</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1496,2019-08-12 00:00:00,Topped: FURZEFIELD Commercial,FURZEFIELD,FURZEFIELD,JD6930;Batwing Topper,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1497,2019-08-12 00:00:00,Topped: OSIER Commercial,OSIER,OSIER,JD6930;Batwing Topper,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1498,2019-08-12 00:00:00,Topped: WHITEHORSE 2 Commercial,WHITEHORSE 2,WHITEHORSE 2,JD6930;Batwing Topper,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1499,2019-08-13 00:00:00,Topped: GREAT KNOTT 1 Commercial,GREAT KNOTT 1,GREAT KNOTT 1,JD6930;Batwing Topper,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1500,2019-08-14 00:00:00,Path cutting: LODGE PADDOCK G/1947,LODGE PADDOCK,LODGE PADDOCK,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Path cutting;;,"<ul>
+<li>Path cutting</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1501,2019-08-14 00:00:00,Path cutting: LODGE PADDOCK G/1948,LODGE PADDOCK,LODGE PADDOCK,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Path cutting;;,"<ul>
+<li>Path cutting</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1502,2019-08-15 00:00:00,Path cutting: HIGHFIELD CS/757,HIGHFIELD 1/2/3,2020/R/CS/757,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Path cutting;;,"<ul>
+<li>Path cutting</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1503,2019-08-15 00:00:00,Path cutting: HIGHFIELD CS/758,HIGHFIELD 1/2/3,2020/R/CS/758,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Path cutting;;,"<ul>
+<li>Path cutting</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1504,2019-08-15 00:00:00,Path cutting: PARKGRASS PG/5,PARKGRASS,2020/R/PG/5,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Path cutting;;,"<ul>
+<li>Path cutting</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1505,2019-09-10 00:00:00,Topped: STACKYARD Commercial,STACKYARD,STACKYARD,JD6145R;Batwing Topper,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1506,2019-09-24 00:00:00,Topped: Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,JD6620;Topper 9,Topping;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1507,2019-09-24 00:00:00,Topped: Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,JD6620;Topper 9,Topping;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1508,2019-10-03 00:00:00,Topped: Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,JD6620;Topper 9,Topping;Excel upload,,,,;Topped; Topping straw on 4 plots ;;,"<ul>
+<li>Topped</li>
+<li>Notes: Topping straw on 4 plots </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1509,2019-10-17 00:00:00,Path cutting: PARKGRASS PG/5,PARKGRASS,2020/R/PG/5,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Path cutting; topped all paths;;,"<ul>
+<li>Path cutting</li>
+<li>Notes: topped all paths</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1510,2019-10-28 00:00:00,Mow: BLACKHORSE CS/780,BLACKHORSE,BLACKHORSE,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 1;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 1</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1511,2019-10-28 00:00:00,Mow: BONES CLOSE CS/780,BONES CLOSE,BONES CLOSE,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 9;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 9</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1512,2019-10-28 00:00:00,Mow: DRAPERS CS/780,DRAPERS,DRAPERS,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 6;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 6</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1513,2019-10-28 00:00:00,Mow: FOSTERS CORNER CS/780,FOSTERS CORNER,FOSTERS CORNER,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 13;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 13</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1514,2019-10-28 00:00:00,Mow: GREAT KNOTT 1 CS/780,GREAT KNOTT 1,GREAT KNOTT 1,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 11;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 11</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1515,2019-10-28 00:00:00,Mow: GREAT KNOTT 3 CS/780,GREAT KNOTT 3,GREAT KNOTT 3,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 12;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 12</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1516,2019-10-28 00:00:00,Mow: LITTLE HOOS CS/780,LITTLE HOOS,LITTLE HOOS,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 14;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 14</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1517,2019-10-28 00:00:00,Mow: LONG HOOS 1/2 + 3 CS/780,LONG HOOS 1/2 + 3,LONG HOOS 1/2 + 3,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 15;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 15</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1518,2019-10-28 00:00:00,Mow: MEADOW CS/780,MEADOW,MEADOW,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 2;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 2</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1519,2019-10-28 00:00:00,Mow: MEADOW CS/780,MEADOW,MEADOW,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 3;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 3</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1520,2019-10-28 00:00:00,Mow: OSIER CS/780,OSIER,OSIER,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 4;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 4</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1521,2019-10-28 00:00:00,Mow: PASTURES CS/780,PASTURES,PASTURES,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 10;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 10</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1522,2019-10-28 00:00:00,Mow: SAWYERS 3 CS/780,SAWYERS 3,SAWYERS 3,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 16;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 16</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1523,2019-10-28 00:00:00,Mow: SUMMERDELLS 1 CS/780,SUMMERDELLS 1,SUMMERDELLS 1,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 7;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 7</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1524,2019-10-28 00:00:00,Mow: SUMMERDELLS 2 CS/780,SUMMERDELLS 2,SUMMERDELLS 2,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 8;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 8</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1525,2019-10-28 00:00:00,Mow: WEBBS CS/780,WEBBS,WEBBS,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,";Mow; headlands, Margin 5;;","<ul>
+<li>Mow</li>
+<li>Notes: headlands, Margin 5</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1526,2019-10-28 00:00:00,Mow: PARKGRASS PG/5,PARKGRASS,2020/R/PG/5,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,,,,;Mow; Cut all plots and surrounds before baling;;,"<ul>
+<li>Mow</li>
+<li>Notes: Cut all plots and surrounds before baling</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1527,2019-11-05 00:00:00,Topped: Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Topped; Topping grass plot paths ;;,"<ul>
+<li>Topped</li>
+<li>Notes: Topping grass plot paths </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1528,2019-11-05 00:00:00,Topped: Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,ISTH4335;Kilworth Topper,Topping;Excel upload,,,,;Topped; Topping grass plot paths ;;,"<ul>
+<li>Topped</li>
+<li>Notes: Topping grass plot paths </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1529,2019-11-08 00:00:00,Topped: Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,Topper 9,Topping;Excel upload,,,,;Topped; Stackyard ;;,"<ul>
+<li>Topped</li>
+<li>Notes: Stackyard </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1530,2019-11-08 00:00:00,Topped: Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,Topper 9,Topping;Excel upload,,,,;Topped; Stackyard ;;,"<ul>
+<li>Topped</li>
+<li>Notes: Stackyard </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1531,2020-02-04 00:00:00,Topped: LITTLE KNOTT 1 Commercial,LITTLE KNOTT 1,LITTLE KNOTT 1,Batwing Topper,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1532,2020-02-04 00:00:00,Topped: LITTLE KNOTT 2 Commercial,LITTLE KNOTT 2,LITTLE KNOTT 2,Batwing Topper,Topping;Commercial;Excel upload,,,,;Topped;;,"<ul>
+<li>Topped</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1533,2020-03-16 00:00:00,Topped: BROADBALK Commercial,Broadbalk Wilderness Mown Area,Broadbalk Wilderness Mown Area,ISTH4335;Kilworth Topper,Commercial;Excel upload;Topping,,,,;Topped; Wilderness mown area;;,"<ul>
+<li>Topped</li>
+<li>Notes: Wilderness mown area</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1534,2020-05-04 00:00:00,Topped: GREAT HILL Commercial,Great Hill,Great Hill,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1535,2020-05-04 00:00:00,Topped: BUTT CLONG Commercial,Butt Clong,Butt Clong,JD6620;Topper 9,Topping;Commercial;Excel upload,,,,;Topped; Grass surrounds;;,"<ul>
+<li>Topped</li>
+<li>Notes: Grass surrounds</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1536,2020-05-13 00:00:00,Topped: BLACKHORSE Commercial,BLACKHORSE,BLACKHORSE,MF3070;Topper 9,Topping;Commercial;Excel upload,,,,;Topped; Topped flowering margins to contol black grass;;,"<ul>
+<li>Topped</li>
+<li>Notes: Topped flowering margins to contol black grass</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1537,2020-05-13 00:00:00,Topped: SUMMERDELLS 1 Commercial,SUMMERDELLS 1,SUMMERDELLS 1,MF3070;Topper 9,Topping;Commercial;Excel upload,,,,;Topped; Topped flowering margins between Summerdells 1 and2 to contol black grass ;;,"<ul>
+<li>Topped</li>
+<li>Notes: Topped flowering margins between Summerdells 1 &amp;2 to contol black grass </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1538,2019-10-10 00:00:00,Cultivation: Stackyard Woburn nan,Stackyard Woburn,Stackyard Woburn,JD6620,Tillage;Excel upload,,,,;Cultivation; Cousings Spring Tines;;,"<ul>
+<li>Cultivation</li>
+<li>Notes: Cousings Spring Tines</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1539,2020-03-23 00:00:00,Cultivation : BROADBALK nan,BROADBALK,BROADBALK,JD6830;Bomford Flexitine,Tillage;Excel upload,,,,;Cultivation ; Section 8 done twice;;,"<ul>
+<li>Cultivation </li>
+<li>Notes: Section 8 done twice</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1540,2020-03-24 00:00:00,Cultivation: BROAD MEAD WW/2033,Broad Mead,2020/W/WW/2033,JD6620;WES 3m Triple K Spring Tynes,Tillage;Excel upload,,,,;Cultivation;;,"<ul>
+<li>Cultivation</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1541,2020-03-25 00:00:00,Cultivation: BROAD MEAD WW/2033,Broad Mead,2020/W/WW/2033,JD6620;WES 3m Triple K Spring Tynes,Tillage;Excel upload,,,,;Cultivation; Second time in 2 days - to try and break up lumps;;,"<ul>
+<li>Cultivation</li>
+<li>Notes: Second time in 2 days - to try and break up lumps</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1542,2020-03-26 00:00:00,Power harrowed : FOSTERS LEY ARABLES nan,FOSTERS LEY ARABLES,FOSTERS LEY ARABLES,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrowed ; Power harrowed all arable and fallow plots;;,"<ul>
+<li>Power harrowed </li>
+<li>Notes: Power harrowed all arable and fallow plots</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1543,2020-04-02 00:00:00,Power harrowed : BROAD MEAD WW/2033,Broad Mead,2020/W/WW/2033,JD6620;Kuhn Powerharrow 3m,Tillage;Excel upload,,,,;Power harrowed ;;,"<ul>
+<li>Power harrowed </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1544,2020-04-02 00:00:00,Rolled : BROAD MEAD WW/2033,Broad Mead,2020/W/WW/2033,JD5070;6m Flexicoil Cambridge Roll,Rolling;Excel upload,,,,;Rolled ;;,"<ul>
+<li>Rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1556,2020-01-09 00:00:00,Grubbing: WHITTLOCKS CS/785,WHITTLOCKS,2020/R/CS/785,By Hand ,Hand weeding;Excel upload,,,,;Grubbing; brambles grubbed out by hand with mattocks;;,"<ul>
+<li>Grubbing</li>
+<li>Notes: brambles grubbed out by hand with mattocks</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1557,2020-01-09 00:00:00,Grubbing: ROADPIECE CS/792,ROADPIECE,2020/R/CS/792,By Hand ,Hand weeding;Excel upload,,,,;Grubbing; brambles grubbed out by hand with mattocks;;,"<ul>
+<li>Grubbing</li>
+<li>Notes: brambles grubbed out by hand with mattocks</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1689,2020-07-07 00:00:00,Cleaning Grain Store ,Farm Biuldings & Yard,Farm Biuldings & Yard,,,,,,"Bay 3 finished, Bay 2 started;Grain store near diesel tank;","<p>Bay 3 finished, Bay 2 started<br />
+Grain store near diesel tank</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1690,2020-07-07 16:13:34,Cut plot ends in section 8,BROADBALK,BROADBALK,JD5620;McConnel SE 6 Topper,Topping,,,,Plot ends in section 8 cannot be sprayed off so have to be cut with a tractor and topper. Allows use of GPS for accuracy. JD5620 had narrow wheels on so wheels were inside the width of the topper.;,"<p>Plot ends in section 8 cannot be sprayed off so have to be cut with a tractor and topper. Allows use of GPS for accuracy. JD5620 had narrow wheels on so wheels were inside the width of the topper.</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1719,2020-07-09 14:43:33,Cleaning Grain Store ,Farm Biuldings & Yard,Farm Biuldings & Yard,,,,,,"Bay 2 finished, Grain store near diesel tank;","<p>Bay 2 finished, Grain store near diesel tank</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1745,2020-05-11 00:00:00,Topping,Woburn Farm Yard,Woburn Farm Yard,JD6620;WES Topper 9,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1746,2020-07-09 00:00:00,Topping,Great Hill,Great Hill,WES Topper 9;JD6620,Topping,,,,Grass Areas;,"<p>Grass Areas</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1747,2020-07-09 00:00:00,Topping,Butt Clong,Butt Clong,JD6620;WES Topper 9,Topping,,,,Grass Areas;,"<p>Grass Areas</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1753,2020-07-15 08:54:49,All Grain Trailers Power Washed ,Farm Biuldings & Yard,Farm Biuldings & Yard,,Equipment,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1754,2020-07-08 00:00:00,Topping,Lansome,Lansome,JD6620;WES Topper 9,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1755,2020-07-03 00:00:00,Baling Grass,Stackyard Woburn,2020/W/RN/12;2020/W/RN/3,Claas Baler;JD6620,Baling,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1756,2020-07-02 00:00:00,Row up grass,Stackyard Woburn,2020/W/RN/12;2020/W/RN/3,Tedder;JD6620,Rowing up,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1757,2020-07-02 00:00:00,Mowed,Stackyard Woburn,2020/W/RN/12;2020/W/RN/3,JD6620,Mowing,,,,Machine used: Unifarm Mower;Mowed Grass Trails;,"<p>Machine used: Unifarm Mower<br />
+Mowed Grass Trails</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1758,2020-07-06 00:00:00,Topping,Stackyard Woburn,Stackyard Woburn,JD6620;WES Topper 9,Topping,,,,Grass Areas;,"<p>Grass Areas</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1761,2020-07-17 00:00:00,Wild Oat Count,BROADBALK,BROADBALK;Section 8,By Hand ,Hand weeding,,9 Oats pulled from plot 108: 9 Oats,,Oats found in plot 108;,"<p>Oats found in plot 108</p>
+","[{'measure': 'count', 'value': '9', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/614', 'id': '614', 'resource': 'taxonomy_term', 'name': 'Oats'}, 'label': '9 Oats pulled from plot 108'}]"
+https://rothamstedfarm.farmos.net/log/1769,2020-07-20 00:00:00,Topping,RRES LSRE Site,RRES LSRE Site,MF3070;Topper 9,Topping,,,,Topped paths and plot ends;,"<p>Topped paths and plot ends</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1773,2020-07-20 00:00:00,Wild Oat Count,HOOS FIELD,HOOS BARLEY,,Hand weeding,,number of wild oats pulled : 2 Wild Oats,,,,"[{'measure': 'count', 'value': '2', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/617', 'id': '617', 'resource': 'taxonomy_term', 'name': 'Wild Oats'}, 'label': 'number of wild oats pulled '}]"
+https://rothamstedfarm.farmos.net/log/1774,2020-07-22 00:00:00,Topping,LITTLE KNOTT 1,LITTLE KNOTT 1,MF3070;Topper 9,Topping,,,,topping rough grass;,"<p>topping rough grass</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1775,2020-07-23 00:00:00,Topping,LITTLE HOOS,LITTLE HOOS,MF3070;Topper 9,Topping,,,,Topped Second year Grass Plot 3;,"<p>Topped Second year Grass Plot 3</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1776,2020-07-23 00:00:00,Topping,GREAT HARPENDEN 1,GREAT HARPENDEN 1,MF3070;Topper 9,Topping,,,,"Top of Second Year Glass Plots. Plot 19 ,21 and 30.;","<p>Top of Second Year Glass Plots. Plot 19 ,21 and 30.</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1778,2020-07-24 00:00:00,Cut grass plots ,RRES LSRE Site,RRES LSRE Site,Kuhn Mower Conditioner;Tym T503,Mowing,,,,Inversion grass plots only;,"<p>Inversion grass plots only</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1779,2020-04-24 00:00:00,Rolled,GREAT HARPENDEN 1,GREAT HARPENDEN 1,JD6230;6m Flexicoil Cambridge Roll,Rolling,,,,Rolled Plots 20 and 53;,"<p>Rolled Plots 20 and 53</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1780,2020-07-24 00:00:00,Baling Grass,RRES LSRE Site,RRES LSRE Site,Claas Baler;JD6230,Baling,,,,Inversion grass plots;,"<p>Inversion grass plots</p>
+",[]
+https://rothamstedfarm.farmos.net/log/1784,2020-08-05 00:00:00,Topping,Broadbalk Wilderness Mown Area,Broadbalk Wilderness Mown Area,MF3070;Topper 9,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1786,2020-07-30 00:00:00,Path cutting ,BYLANDS,2020/R/WW/2014;2020/R/WW/2016,JD5620;McConnel SE 6 Topper,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1787,2020-07-31 00:00:00,Path cutting,MEADOW,2020/R/WW/2029;2020/R/WW/2032;2020/R/WW/2017;2020/R/WW/2045,McConnel SE 6 Topper;JD5620,Topping,,,,,,[]
+https://rothamstedfarm.farmos.net/log/1793,2020-08-12 00:00:00,Cultivation: Ploughed Tillage 0 cm in GREAT KNOTT 2,GREAT KNOTT 2,GREAT KNOTT 2,JD6930;Philip Watkins Press,Cultipressing,4:30:00,,0 cm,,,"[{'measure': 'length', 'value': '0', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '4.5', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1794,2020-08-12 00:00:00,Cultivation: Ploughed Tillage 0 cm in GREAT KNOTT 3,GREAT KNOTT 3,GREAT KNOTT 3,JD6930;Philip Watkins Press,Cultipressing,4:30:00,,0 cm,,,"[{'measure': 'length', 'value': '0', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '4.5', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1795,2020-08-10 00:00:00,Cultivation: Ploughed Tillage 20 cm in GREAT KNOTT 2,GREAT KNOTT 2,GREAT KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing,17:00:00,,20 cm,Started;,"<p>Started</p>
+","[{'measure': 'length', 'value': '20', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '17', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1796,2020-08-11 00:00:00,Cultivation: Ploughed Tillage 20 cm in GREAT KNOTT 2,GREAT KNOTT 2,GREAT KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing,17:00:00,,20 cm,Finished;,"<p>Finished</p>
+","[{'measure': 'length', 'value': '20', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '17', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1797,2020-08-10 00:00:00,Cultivation: Ploughed Tillage 20 cm in GREAT KNOTT 3,GREAT KNOTT 3,GREAT KNOTT 3,NHT7210;Knight 24m Sprayer,Ploughing,17:00:00,,20 cm,Started;,"<p>Started</p>
+","[{'measure': 'length', 'value': '20', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '17', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1798,2020-08-11 00:00:00,Cultivation: Ploughed Tillage 20 cm in GREAT KNOTT 3,GREAT KNOTT 3,GREAT KNOTT 3,NHT7210;Knight 24m Sprayer,Ploughing,17:00:00,,20 cm,Finished;,"<p>Finished</p>
+","[{'measure': 'length', 'value': '20', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/238', 'id': '238', 'resource': 'taxonomy_term', 'name': 'cm'}, 'label': False}, {'measure': 'time', 'value': '17', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1844,2020-08-27 00:00:00,Topping,WHITEHORSE 2,WHITEHORSE 2,Batwing Topper;JD6830;JD6930,Topping,,,,,,[]

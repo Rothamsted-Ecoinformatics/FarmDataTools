@@ -9,20 +9,31 @@ import json
 import requests
 from requests.auth import HTTPBasicAuth
 import pandas as pd
+import datetime as dt
+
+import re
+
+#start="15:00"
+#end="16:45"
+#start_dt = dt.datetime.strptime(start, '%H:%M')
+#end_dt = dt.datetime.strptime(end, '%H:%M')
+#diff = (end_dt - start_dt) 
+#print(diff)
 
 
-m = "Silicate of Soda @125 Kg/ha + MOP @250 Kg/ha + TSP"
+#s = "start time: 3:15 - finish time: 7:25 (plots 106 &amp"
+#times = re.findall(r'([0-9]+:[0-9]+)',s) 
+#st2 = .split("-")[2]
+#print(times[0])
+#print(times[1])
 
-dic = [{"name": "TSP","tid": "149"},{"name": "MOP","tid": "148"},{"name": "Silicate of Soda","tid": "147"}]
+#s = "80"
+#st = int(s)*60
+#print(dt.timedelta(seconds =st))
 
-mp = m.split("+")
-for p in mp:
-    #p = p.replace(" ","")
-    mx = p.split("@")[0]
-
-    #return [f for f in items for p in f["parent"] if p["name"] == "FERTILISERS"]
-
-    id = [f["tid"] for f in dic if f["name"] == mx]
-    print(id[0] + " " + mx)
-
+mats = "220 : DoubleTop"
+quants = "False @ 125 kg/ha"
+if ";" not in quants and "False" in quants:
+    quants = quants.replace("False",mats.split(":")[1].strip())
+print (quants)
 

@@ -1,220 +1,422 @@
-103,"Spraying: X-Clude, Fusilade Max (11519), Hallmark with Zeon Technology (12629) in GREAT FIELD 1/2",2020/R/RAW/2037,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6 mph W</p>\n<p>Weather: Dry</p>\n<p>Temperature: 15 C</p>\n<p>Sprayed all newly drilled WOSR inc undrilled KWS area</p>\n', 'format': 'farm_format'}",[]
-182,Input 08/29/2019 - 00:00 Nitram WHITEHORSE 1,WHITEHORSE 1,Cascade Spreader,Commercial;Fertiliser Application,[],[]
-183,"Input  X-Clude, Fusilade Max (11519), Hallmark with Zeon Technology (12629) WHITEHORSE 1",WHITEHORSE 1,,Commercial;Pesticide Application,[],[]
-195,Spraying: slug pellets in GREAT FIELD 1/2,GREAT FIELD 1/2,Lehner slug pelleter,Pesticide Application,"{'value': '<p>Applied to area before it was ploughed<br />\nRate is dummy value as none stated</p>\n', 'format': 'farm_format'}",[]
-199,Applied slug pellets: LONG HOOS 5 Commercial,LONG HOOS 5,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field LONG HOOS 5</p>\n', 'format': 'farm_format'}",[]
-200,Applied slug pellets: LONG HOOS 6/7 Commercial,LONG HOOS 6/7,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field LONG HOOS 6/7</p>\n', 'format': 'farm_format'}",[]
-201,Applied slug pellets: GREAT FIELD 1/2 Commercial,GREAT FIELD 1/2,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field GREAT FIELD 1/2</p>\n', 'format': 'farm_format'}",[]
-202,Applied slug pellets: GREAT HARPENDEN 2 Commercial,GREAT HARPENDEN 2,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field GREAT HARPENDEN 2</p>\n', 'format': 'farm_format'}",[]
-203,Applied slug pellets: WHITEHORSE 1 Commercial,WHITEHORSE 1,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field WHITEHORSE 1</p>\n', 'format': 'farm_format'}",[]
-204,Applied slug pellets: WHITEHORSE 1 Commercial,WHITEHORSE 1,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field WHITEHORSE 1</p>\n', 'format': 'farm_format'}",[]
-205,Applied slug pellets: HOOSFIELD Commercial,HOOS FIELD - direct drilled section,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field HOOSFIELDDirect drilled area (ex CS/477)</p>\n', 'format': 'farm_format'}",[]
-206,Applied slug pellets: GREAT HARPENDEN 2 Commercial,GREAT HARPENDEN 2,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field GREAT HARPENDEN 2</p>\n', 'format': 'farm_format'}",[]
-207,Applied slug pellets: LONG HOOS 5 Commercial,LONG HOOS 5,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field LONG HOOS 5odds and ends</p>\n', 'format': 'farm_format'}",[]
-208,Applied slug pellets: LONG HOOS 6/7 Commercial,LONG HOOS 6/7,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field LONG HOOS 6/7odds and ends</p>\n', 'format': 'farm_format'}",[]
-209,Applied slug pellets: GREAT FIELD 1/2 Commercial,GREAT FIELD 1/2,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field GREAT FIELD 1/2</p>\n', 'format': 'farm_format'}",[]
-210,Applied slug pellets: WHITEHORSE 2 Commercial,WHITEHORSE 2,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field WHITEHORSE 2Odds and ends</p>\n', 'format': 'farm_format'}",[]
-211,Applied slug pellets: GREAT FIELD 1/2 Commercial,GREAT FIELD 1/2,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field GREAT FIELD 1/2</p>\n', 'format': 'farm_format'}",[]
-212,Spread treatments for 2020/R/RAW/2027,2020/R/RAW/2027,,Treatment,"{'value': '<p>Spread treatments A, B, C, D by hand and before drilling</p>\n', 'format': 'farm_format'}",
-213,Spread treatments for 2020/R/RAW/2027,2020/R/RAW/2027,,Treatment,"{'value': '<p>Spread treatments E, straw mulch by hand and after drilling OSR, chopped straw with straw chopper</p>\n', 'format': 'farm_format'}",
-216,Spraying: Sluxx in WHITEHORSE 2,2020/R/RAW/2027,,Pesticide Application,"{'value': '<p>Applied by hand</p>\n', 'format': 'farm_format'}",[]
-224,"Spread treatments C, D, E for 2020/R/RAW/2025",2020/R/RAW/2025,,Treatment,"{'value': '<p>Spread Treatment C, D, E by hand after drilling</p>\n', 'format': 'farm_format'}",
-231,Applied slug pellets 2020/R/RAW/2025,2020/R/RAW/2025,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,[],[]
-232,Applied slug pellets: WHITEHORSE 2 RAW/2027,2020/R/RAW/2027,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to experiment RAW/2027</p>\n', 'format': 'farm_format'}",[]
-236,Applied slug pellets: WHITEHORSE 1 Commercial,WHITEHORSE 1,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,"{'value': '<p>Applied slug pellets to commercial field WHITEHORSE 1</p>\n', 'format': 'farm_format'}",[]
-288,Herbicide,RRES LSRE Site;RRES LSRE Plot 25,,Pesticide Application,"{'value': '<p>As this is an SCP plot, the active ingredients are ""low resistance risk"" for black grass.</p>\n', 'format': 'farm_format'}",[]
-289,Herbicide and Insecticide ,RRES LSRE Site;RRES LSRE WW Conventional Min-till,Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Post-emergence herbicide to tackle residual weeds in the conventional min-till WW - specifically targeting any black grass and the rye grass in the min-till wheat after grass plot<br />\nInsecticide targeting aphids which have not been observed in field but are present at high numbers in the suction traps, and there are reports of observations locally<br />\nStart: 14:00<br />\nFinish: 14:45<br />\nWind speed: 7 mph<br />\nDirection: SE<br />\nWeather: Clear<br />\nTemp: 10C<br />\nVolume: 150 l/ha</p>\n', 'format': 'farm_format'}",[]
-290,RR LSRE OSR Autumn Herbicide & Fungicide,RRES LSRE Site;RRES LSRE OSR Conventional;RRES LSRE OSR SCP Min till;RRES LSRE Plot 02,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>start time: 15:00<br />\nstop time: 16:45<br />\nwind speed (mph): 7 Km/hr<br />\nwind direction:  S/E<br />\ntemperature (C): 5<br />\nweather: clear<br />\noperator: B. Smith</p>\n', 'format': 'farm_format'}",[]
-291,OSR Spring Fertiliser,RRES LSRE Site,Cascade Spreader,Fertiliser Application,"{'value': '<p>Plots: H22; H23; H27; H34; H36;<br />\nNotes: 296 kg ha Double Top = 80 kg N, 89 SO3</p>\n', 'format': 'farm_format'}",[]
-298,OSR Spring Fertiliser,LSRE Brooms Barn,Cascade Spreader,Fertiliser Application,"{'value': '<p>Plots: B23; B28; B39; B50; B51; B59<br />\nNotes: 296 kg ha Double Top = 80 kg N, 89 SO3</p>\n', 'format': 'farm_format'}",[]
-299,OSR Spring Herbicide,LSRE Brooms Barn,,Pesticide Application,"{'value': '<p>Plots: B23; B28; B39; B50; B51; B59</p>\n', 'format': 'farm_format'}",[]
-300,Glyphosate all cover crops,RRES LSRE Site,Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Review: Products TBC. Also, does this apply to all plots, or just min-till (inversion plots they are ploughed in?)</p>\n', 'format': 'farm_format'}",[]
-312,Fertiliser application: 188 kg/ha Nitram into GREAT FIELD 1/2,GREAT FIELD 1/2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>188 Kg/ha Nitram gives 65 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-313,Fertiliser application: 188 kg/ha Nitram into WHITEHORSE 1,WHITEHORSE 1,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>188 Kg/ha Nitram gives 65 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-314,Fertiliser application: 296 kg/ha DoubleTop into GREAT KNOTT 2,GREAT KNOTT 2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-315,Fertiliser application: 296 kg/ha DoubleTop into BLACKHORSE,BLACKHORSE,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-316,Fertiliser application: 296 kg/ha DoubleTop into SCOUT,SCOUT,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-317,Fertiliser application: 296 kg/ha DoubleTop into WEBBS,WEBBS,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-318,Fertiliser application: 296 kg/ha DoubleTop into GREAT KNOTT 1,GREAT KNOTT 1,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-319,Fertiliser application: 296 kg/ha DoubleTop into DELAFIELD,DELAFIELD,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-320,Fertiliser application: 296 kg/ha DoubleTop into GEESCROFT,GEESCROFT,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-321,Fertiliser application: 296 kg/ha DoubleTop into CLAYCROFT,CLAYCROFT,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-322,Fertiliser application: 296 kg/ha DoubleTop into LITTLE KNOTT 1,LITTLE KNOTT 1,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-323,Fertiliser application: 296 kg/ha DoubleTop into LITTLE KNOTT 2,LITTLE KNOTT 2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-324,Fertiliser application: 296 kg/ha DoubleTop into SAWYERS 2,SAWYERS 2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-325,Fertiliser application: 296 kg/ha DoubleTop into SAWYERS 4,SAWYERS 4,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-326,Fertiliser application: 296 kg/ha DoubleTop into NEW ZEALAND,NEW ZEALAND,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N<br />\nDid not apply N to CS/760 or 24m surrounding area</p>\n', 'format': 'farm_format'}",[]
-327,Fertiliser application: 296 kg/ha DoubleTop into PARKLANDS,PARKLANDS,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-328,Fertiliser application: 125 kg/ha DoubleTop into SUMMERDELLS 1,SUMMERDELLS 1,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>125 Kg/ha Double Top gives 33.75 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-329,Fertiliser application: 125 kg/ha DoubleTop into SUMMERDELLS 2,SUMMERDELLS 2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>125 Kg/ha Double Top gives 33.75 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-330,Fertiliser application: 125 kg/ha DoubleTop into BONES CLOSE,BONES CLOSE,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>125 Kg/ha Double Top gives 33.75 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-331,Fertiliser application: 319 kg/ha Nitram into WHITEHORSE 2,WHITEHORSE 2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>319 Kg/ha Double Top gives 110 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-332,Fertiliser application: 319 kg/ha Nitram into SAWYERS 3,SAWYERS 3,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>319 Kg/ha Double Top gives 110 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-333,Fertiliser application: 319 kg/ha Nitram into HIGHFIELD 4,HIGHFIELD 4,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>319 Kg/ha Double Top gives 110 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-334,Fertiliser application: 319 kg/ha Nitram into HIGHFIELD 5/6,HIGHFIELD 5/6,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>319 Kg/ha Double Top gives 110 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-335,Fertiliser application: 319 kg/ha Nitram into PASTURES,PASTURES,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>319 Kg/ha Double Top gives 110 Kg/ha N<br />\nDid not apply N to area for CM/2053 or 12m surrounding area</p>\n', 'format': 'farm_format'}",[]
-352,Fertiliser application: 185 kg/ha DoubleTop into OSIER,2020/R/WW/2006;2020/R/WW/2011;2020/R/WW/2017;2020/R/WW/2026;2020/R/WW/2030;2020/R/WW/2031+2034;2020/R/WW/2035+2046;2020/R/WW/2039;2020/R/WW/2042;2020/R/WW/2045,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>185 Kg/ha Double Top gives 50 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-391,Fertiliser application: 185 kg/ha DoubleTop into OSIER,OSIER,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>185 kg/ha Double top gives 50 kg/ha N</p>\n', 'format': 'farm_format'}",[]
-394,Fertiliser application: 296 kg/ha DoubleTop into SAWYERS 1,SAWYERS 1;2020/R/WS/2047;2020/R/WS/2049;2020/R/WS/2055,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-396,Fertiliser application: 148 kg/ha DoubleTop into WEST BARNFIELD 1/2,WEST BARNFIELD 1/2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>148 Kg/ha double top gives 40 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-397,Fertiliser application: 148 kg/ha DoubleTop into FOSTERS CORNER,FOSTERS CORNER,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>148 Kg/ha double top gives 40 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-398,Fertiliser application: 148 kg/ha DoubleTop into AGDELL/HARWOODS,AGDELL/HARWOODS,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>148 Kg/ha double top gives 40 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-399,Fertiliser application: 148 kg/ha DoubleTop into DELHARDING,DELHARDING,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>148 Kg/ha Double Top gives 40 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-400,Fertiliser application: 290 kg/ha Nitram into GREAT KNOTT 2,GREAT KNOTT 2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>290 Kg/ha Nitram gives 100 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-401,Fertiliser application: 290 kg/ha Nitram into GREAT KNOTT 3,GREAT KNOTT 3,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>290 Kg/ha Nitram gives 100 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-402,Fertiliser application: 261 kg/ha Nitram into BLACKHORSE,BLACKHORSE,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-403,Fertiliser application: 319 kg/ha Nitram into STACKYARD,STACKYARD,JD6145R,Fertiliser Application,[],[]
-404,Fertiliser application: 261 kg/ha Nitram into DELAFIELD,DELAFIELD,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-405,Fertiliser application: 261 kg/ha Nitram into GREAT KNOTT 1,GREAT KNOTT 1,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-406,Fertiliser application: 261 kg/ha Nitram into SCOUT,SCOUT,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-407,Fertiliser application: 261 kg/ha Nitram into WEBBS,WEBBS,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-408,Fertiliser application: 261 kg/ha Nitram into GEESCROFT,GEESCROFT,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-409,Fertiliser application: 296 kg/ha DoubleTop into SAWYERS 1,SAWYERS 1;2020/R/WS/2047;2020/R/WS/2049;2020/R/WS/2055,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 Kg/ha Double Top gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-410,Fertiliser application: 261 kg/ha Nitram into CLAYCROFT,CLAYCROFT,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-411,Fertiliser application: 261 kg/ha Nitram into PARKLANDS,PARKLANDS,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-412,Fertiliser application: 261 kg/ha Nitram into LITTLE KNOTT 1,LITTLE KNOTT 1,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-413,Fertiliser application: 261 kg/ha Nitram into LITTLE KNOTT 2,LITTLE KNOTT 2,JD6145R,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-414,Fertiliser application: 261 kg/ha Nitram into SAWYERS 4,SAWYERS 4,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-415,Fertiliser application: 261 kg/ha Nitram into SAWYERS 2,SAWYERS 2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-416,Fertiliser application: 261 kg/ha Nitram into SAWYERS 1,SAWYERS 1;2020/R/WS/2047;2020/R/WS/2049;2020/R/WS/2055,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>261 Kg/ha Nitram gives 90 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-417,Fertiliser application: 319 kg/ha Nitram into FURZEFIELD,FURZEFIELD,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>319 Kg/ha Nitram gives 110 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-419,"Spraying: Samurai, Buffalo elite in LONG HOOS 4",LONG HOOS 4,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 5 mph WSW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 15 C</p>\n<p>Sprayed off plot ends of CS/778 only</p>\n', 'format': 'farm_format'}",[]
-420,"Spraying: Samurai, Buffalo elite in LONG HOOS 5",LONG HOOS 5,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 5 mph WSW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 15 C</p>\n<p>Sprayed off plot ends in CS/773 only</p>\n', 'format': 'farm_format'}",[]
-421,Spraying: Samurai in LONG HOOS 6/7,LONG HOOS 6/7,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 5 mph WSW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 15 C</p>\n<p>Sprayed off plot ends in CS/789 only</p>\n', 'format': 'farm_format'}",[]
-422,"Spraying: Samurai, Buffalo elite in NEW ZEALAND",NEW ZEALAND,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 7 mph WSW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 17 C</p>\n<p>Sprayed off plot ends in CS/760 only</p>\n', 'format': 'farm_format'}",[]
-423,"Spraying: Samurai, Buffalo elite in LONG HOOS 1/2 + 3",LONG HOOS 1/2 + 3,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 7 mph WSW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 17 C</p>\n<p>Sprayed off plot ends in WW/2022 only</p>\n', 'format': 'farm_format'}",[]
-424,"Spraying: Samurai, Buffalo elite in SAWYERS 1",SAWYERS 1,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 7 mph WSW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 17 C</p>\n<p>Sprayed off plot ends in WS/2055 only</p>\n', 'format': 'farm_format'}",[]
-425,"Spraying: Samurai, Buffalo elite in RRES LSRE Site",RRES LSRE Site,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 3 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 14 C</p>\n<p>Sprayed off plots ends on LSRE (CS/790) on all plots</p>\n', 'format': 'farm_format'}",[]
-426,"Spraying: Samurai, Buffalo elite in FOSTERS",FOSTERS,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 4 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 18 C</p>\n<p>Sprayed off plot ends in CS/738 only</p>\n', 'format': 'farm_format'}",[]
-427,"Spraying: Samurai, Buffalo elite in MEADOW",MEADOW,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 3 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 15 C</p>\n<p>Sprayed off plot ends in WW/2016</p>\n', 'format': 'farm_format'}",[]
-428,"Spraying: Samurai, Buffalo elite in OSIER",OSIER,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 3 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 15 C</p>\n<p>Sprayed off plot ends in WW/2026, WW/2035 and WW/2046</p>\n', 'format': 'farm_format'}",[]
-429,"Spraying: Samurai, Buffalo elite in SAWYERS 1",SAWYERS 1,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 5 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 24 C</p>\n<p>Sprayed off plot ends in CS/10 only</p>\n', 'format': 'farm_format'}",[]
-430,"Spraying: Samurai, Buffalo elite in SAWYERS 1",CS-715 Oat plots;CS-715 Wheat Plots,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 5 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 24 C</p>\n<p>Sprayed off plot ends in CS/715 only</p>\n', 'format': 'farm_format'}",[]
-431,"Spraying: Samurai, Buffalo elite in MEADOW",2020/R/WW/2018;2020/R/WW/2029;2020/R/WW/2032,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 4 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 24 C</p>\n<p>Plot ends in main 3m wide spray paths sprayed off in WW/2018, WW/2029 and WW/2032. Narrow 70cm paths not sprayed off as plants were too advanced. These paths will be topped before harvest.</p>\n', 'format': 'farm_format'}",[]
-432,"Spraying: Samurai, Buffalo elite in OSIER",2020/R/WW/2017;2020/R/WW/2045,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 4 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 24 C</p>\n<p>Plot ends in main 3m wide spray paths sprayed off in WW/2017 and WW/2045. Narrow 70cm paths not sprayed off as plants were too advanced. These paths will be topped before harvest.  #plotends</p>\n', 'format': 'farm_format'}",[]
-435,"Spraying: Samurai, Buffalo elite in RRES LSRE Site",RRES LSRE Site,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4 mph NW</p>\n<p>Weather: Cloudy</p>\n<p>Temperature: 10 C</p>\n<p>Spraying off cover crops before plots are either ploughed or direct drilled. Plots sprayed: 4/5/7/9/11/12/15/16/18/20/28/31/35/37/40/42/48/52/53/54</p>\n', 'format': 'farm_format'}",[]
-436,"Spraying: Samurai, Buffalo elite in RRES LSRE Site",RRES LSRE Site,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4 mph NW</p>\n<p>Weather: Cloudy</p>\n<p>Temperature: 10 C</p>\n<p>Sprayed inversion wheat plots to kill blackgrass that had emerged over winter. Plots Sprayed: 1/6/10/13/14/17/24/32/39/41/51/55</p>\n', 'format': 'farm_format'}",[]
-438,"Spraying plot ends: Samurai, Buffalo elite in BROADBALK",BROADBALK,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 6 mph East North East</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 24 C</p>\n<p>Sprayed off plot ends of all sections except section 8. Heading on Trimble GPS screen 17.69’</p>\n', 'format': 'farm_format'}",[]
-439,"Spraying: Samurai, Buffalo elite in BYLANDS",BYLANDS,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 3 mph SW</p>\n<p>Weather: Sunny</p>\n<p>Temperature: 15 C</p>\n<p>Sprayed off plot ends in WW/2014</p>\n', 'format': 'farm_format'}",[]
-440,Fertiliser application: 296 kg/ha DoubleTop into DRAPERS,DRAPERS;2020/R/RS/2003;2020/R/RS/2010,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>296 kg/ha Double Top gives 80 Kg/ha N - Treated whole field including oat strips in RS/2003</p>\n', 'format': 'farm_format'}",[]
-443,"Spraying: Samurai, Buffalo elite in Stackyard Woburn",Stackyard Woburn,JD5620;Micron shrouded plot end sprayer,Pesticide Application,"{'value': '<p>Wind: 7 mph WNW</p>\n<p>Weather: Cloudy</p>\n<p>Temperature: 10 C</p>\n<p>Sprayed off plot ends in WW/2001 only</p>\n', 'format': 'farm_format'}",[]
-444,Fertiliser application: 145 kg/ha Nitram into GREAT KNOTT 1,GREAT KNOTT 1,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>145 Kg/ha Nitram gives 50 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-445,Fertiliser application: 145 kg/ha Nitram into DELAFIELD,DELAFIELD,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>145 Kg/ha Nitram gives 50 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-446,Fertiliser application: 145 kg/ha Nitram into BLACKHORSE,BLACKHORSE,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>145 Kg/ha Nitram gives 50 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-447,Fertiliser application: 145 kg/ha Nitram into SCOUT,SCOUT,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>145 Kg/ha Nitram gives 50 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-448,Fertiliser application: 145 kg/ha Nitram into WEBBS,WEBBS,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>145 Kg/ha Nitram gives 50 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-463,Fertiliser application: 139 kg/ha Nitram into BROADBALK,Section 0,JD6930;Cascade Spreader,Fertiliser Application;Treatment,"{'value': '<p>Treatments</p>\n', 'format': 'farm_format'}",[]
-464,Fertiliser application: 145 kg/ha Nitram into DRAPERS,DRAPERS;2020/R/RS/2003;2020/R/RS/2010,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>145 Kg/ha Nitram gives 50 Kg/ha N. Applied to whole field including oat strips in reserve site.</p>\n', 'format': 'farm_format'}",[]
-465,Spraying: Lentyma XE in GREAT KNOTT 2,GREAT KNOTT 2,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 2.5 mph N/W</p>\n<p>Weather: Sun</p>\n<p>Temperature: 18 C</p>\n', 'format': 'farm_format'}",[]
-467,Spraying: Lentyma XE in GREAT KNOTT 3,GREAT KNOTT 3,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 2.5 mph N/W</p>\n<p>Weather: Sun</p>\n<p>Temperature: 18 C</p>\n', 'format': 'farm_format'}",[]
-468,Fertiliser application: 145 kg/ha Nitram into GEESCROFT,GEESCROFT,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>145 Kg/ha Nitram gives 50 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-470,Fertiliser application: 580 kg/ha Nitram into HOOS FIELD,2020/R/EX/4,JD6930;Cascade Spreader,Fertiliser Application;Treatment,"{'value': '<p>Fertilised: W Wheat<br />\nN2 Treatments</p>\n', 'format': 'farm_format'}",[]
-472,Fertiliser application: 290 kg/ha Nitram into HOOS FIELD,2020/R/RS/9,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat</p>\n', 'format': 'farm_format'}",[]
-473,Fertiliser application: 260 kg/ha Nitram into RRES LSRE Site,RRES LSRE Site,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: SP Wheat<br />\nPlots; 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55.</p>\n', 'format': 'farm_format'}",[]
-474,Spraying: Lentyma XE in DELAFIELD,DELAFIELD,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6.2 mph NNW</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 10 C</p>\n', 'format': 'farm_format'}",[]
-475,Spraying: Lentyma XE in DRAPERS,DRAPERS;2020/R/RS/2003;2020/R/RS/2010,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6.2 mph NNW</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 10 C</p>\n<p>DID THIS INCLUDE THE EXPERIMENTS<br />\n#?</p>\n', 'format': 'farm_format'}",[]
-476,Spraying: Lentyma XE in GEESCROFT,GEESCROFT,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6.2 mph NNW</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 10 C</p>\n', 'format': 'farm_format'}",[]
-477,Spraying: Lentyma XE in GREAT KNOTT 1,GREAT KNOTT 1,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6.2 mph NW</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 10 C</p>\n', 'format': 'farm_format'}",[]
-478,Spraying: Lentyma XE in LONG HOOS 1/2 + 3,LONG HOOS 1/2 + 3;2020/R/WW/2019;2020/R/WW/2022,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4.3 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 9 C</p>\n<p>WHERE THE EXPERIMENTS ALSO SPRAYED??<br />\n#?</p>\n', 'format': 'farm_format'}",[]
-479,Spraying: Lentyma XE in LONG HOOS 4,LONG HOOS 4,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 3.7 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 9 C</p>\n', 'format': 'farm_format'}",[]
-480,Spraying: Lentyma XE in OSIER,OSIER;2020/R/WW/2017;2020/R/WW/2026;2020/R/WW/2030;2020/R/WW/2031+2034;2020/R/WW/2035+2046;2020/R/WW/2039;2020/R/WW/2042,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.2 mph NE</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 14 C</p>\n', 'format': 'farm_format'}",[]
-481,Spraying: Lentyma XE in SAWYERS 1,2020/R/CS/10,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5.0 mph NE</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 16 C</p>\n', 'format': 'farm_format'}",[]
-482,Spraying: Lentyma XE in SCOUT,SCOUT,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4.3 mph NNW</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 14 C</p>\n', 'format': 'farm_format'}",[]
-483,Spraying: Lentyma XE in WEBBS,WEBBS,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6.2 mph NNW</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 12 C</p>\n', 'format': 'farm_format'}",[]
-484,Spraying: Lentyma XE in FOSTERS,2020/R/CS/738,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 3.7 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 19 C</p>\n', 'format': 'farm_format'}",[]
-485,Spraying: Lentyma XE in MEADOW,MEADOW;2020/R/WW/2015;2020/R/WW/2016;2020/R/WW/2018;2020/R/WW/2029;2020/R/WW/2032,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4.3 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 24 C</p>\n', 'format': 'farm_format'}",[]
-486,Spraying: Lentyma XE in BYLANDS,BYLANDS;2020/R/WW/2014,NH T6030;Knight 24m Sprayer,Treatment,"{'value': '<p>Wind: 4.3 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 24 C</p>\n<p>Treatment</p>\n', 'format': 'farm_format'}",[]
-487,Spraying: Lentyma XE in NEW ZEALAND,2020/R/CS/760,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5.0 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 23 C</p>\n', 'format': 'farm_format'}",[]
-488,Spraying: Lentyma XE in LONG HOOS 4,2020/R/CS/778,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 3.7 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-489,Spraying: Lentyma XE in LONG HOOS 5,2020/R/CS/773,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 3.7 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-490,Spraying: Lentyma XE in RRES LSRE Site,RRES LSRE Site,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4.3 mph E</p>\n<p>Weather: Sun</p>\n<p>Temperature: 12 C</p>\n<p>Plots 25, 26, 33, 38, 43, 44, 47, 49, 57, 58, 59, 60.</p>\n', 'format': 'farm_format'}",[]
-491,Spraying: Lentyma XE in LONG HOOS 1/2 + 3,2020/R/WW/2019,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5.0 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-492,Spraying: Lentyma XE in LONG HOOS 1/2 + 3,2020/R/WW/2022,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5.0 mph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-496,Fertiliser application: 174 kg/ha Nitram into LONG HOOS 1/2 + 3,LONG HOOS 1/2 + 3;2020/R/WW/2019;2020/R/WW/2022,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat</p>\n', 'format': 'farm_format'}",[]
-500,Fertiliser application: 174 kg/ha Nitram into HIGHFIELD 1/2/3,2020/R/CS/757,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: Willow</p>\n', 'format': 'farm_format'}",[]
-501,Fertiliser application: 260 kg/ha Nitram into SAWYERS 1,CS-715 Oat plots,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: Sp Wheat</p>\n', 'format': 'farm_format'}",[]
-502,Fertiliser application: 232 kg/ha Nitram into SAWYERS 1,CS-715 Oat plots,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: S Oats</p>\n', 'format': 'farm_format'}",[]
-503,Fertiliser application: 260 kg/ha Nitram into SAWYERS 1,2020/R/CS/10,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat</p>\n', 'format': 'farm_format'}",[]
-504,Fertiliser application: 174 kg/ha Nitram into OSIER,2020/R/WW/2042,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat<br />\nWW/2042 only</p>\n', 'format': 'farm_format'}",[]
-505,Fertiliser application: 145 kg/ha Nitram into OSIER,OSIER;2020/R/WS/2052;2020/R/WW/2006;2020/R/WW/2011;2020/R/WW/2017;2020/R/WW/2026;2020/R/WW/2030;2020/R/WW/2031+2034;2020/R/WW/2035+2046,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat</p>\n', 'format': 'farm_format'}",[]
-506,Fertiliser application: 145 kg/ha Nitram into OSIER,2020/R/WW/2045,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat<br />\nN2 plots only</p>\n', 'format': 'farm_format'}",[]
-507,Fertiliser application: 145 kg/ha Nitram into BYLANDS,2020/R/WW/2014,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat<br />\nN2 + N3 plots only</p>\n', 'format': 'farm_format'}",[]
-508,Fertiliser application: 155 kg/ha Nitram into MEADOW,2020/R/WW/2016,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat<br />\nN3 plots only</p>\n', 'format': 'farm_format'}",[]
-509,Fertiliser application: 145 kg/ha Nitram into MEADOW,2020/R/WW/2015,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat<br />\nN2 plots only</p>\n', 'format': 'farm_format'}",[]
-510,Fertiliser application: 175 kg/ha Nitram into MEADOW,2020/R/WW/2032,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat</p>\n', 'format': 'farm_format'}",[]
-511,Fertiliser application: 145 kg/ha Nitram into MEADOW,MEADOW;2020/R/WW/2018,JD6930;Cascade Spreader,Fertiliser Application,[],[]
-512,Fertiliser application: 290 kg/ha Nitram into ROADPIECE,2020/R/CS/792,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: Willow</p>\n', 'format': 'farm_format'}",[]
-513,Fertiliser application: 174 kg/ha Nitram into WHITTLOCKS,2020/R/CS/796,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: Willow</p>\n', 'format': 'farm_format'}",[]
-514,Spraying: Hallmark with Zeon Technology (12629) in PASTURES,2020/R/CM/2053,By Hand ;Hand Held Compressed Air Pesticide Sprayer,Pesticide Application,"{'value': '<p>Wind: 3.1 mph E</p>\n<p>Temperature: 15 C</p>\n<p>Sprayed plot ends only</p>\n', 'format': 'farm_format'}",[]
-515,"Spraying: Cello, Stefes CCC 720 in SAWYERS 1",SAWYERS 1,Hand Held Compressed Air Pesticide Sprayer;By Hand ,Pesticide Application,"{'value': '<p>Wind: 3.7 mph E</p>\n<p>Temperature: 18 C</p>\n', 'format': 'farm_format'}",[]
-538,Fertiliser application: 1st Split Nitram into GREAT FIELD 1/2,2020/R/WS/2054,By Hand ,Fertiliser Application;Treatment,"{'value': '<p>1st Split<br />\nCowpea &amp; Quinoa</p>\n', 'format': 'farm_format'}",[]
-539,Fertiliser application: 1st Split Nitram into GREAT FIELD 1/2,2020/R/WS/2054,By Hand ,Fertiliser Application;Treatment,"{'value': '<p>1st Split<br />\nCowpea &amp; Quinoa</p>\n', 'format': 'farm_format'}",[]
-545,Fertiliser application: 2nd Split Nitram into Stackyard Woburn,2020/W/WW/2001,By Hand ,Fertiliser Application;Treatment,"{'value': '<p>2nd Split<br />\nOnly treatments A, B, C, D get any N in split 2</p>\n', 'format': 'farm_format'}",[]
-546,"Spraying: Presite SX, Axial Pro, Stefes CCC 720, Cello (18290), Starane HI-Load HL (16557) in GREAT FIELD 1/2",2020/R/WS/2054,Hand Held Compressed Air Pesticide Sprayer,Pesticide Application,"{'value': '<p>Wind: 3.7 mph E</p>\n<p>Temperature: 18 C</p>\n', 'format': 'farm_format'}",[]
-548,Fertiliser application: 203 kg/ha Nitram into HIGHFIELD 1/2/3,2020/R/CS/767;2020/R/RN/1 Wheat,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: Sp Wheat</p>\n', 'format': 'farm_format'}",[]
-549,Fertiliser application: 145 kg/ha Nitram into HIGHFIELD 1/2/3,2020/R/RN/1 Oats,JD6930;Cascade Spreader,Fertiliser Application;Treatment,"{'value': '<p>Fertilised: S Oats<br />\nN2 Treatments</p>\n', 'format': 'farm_format'}",[]
-550,Fertiliser application: 262 kg/ha Nitram into FOSTERS,2020/R/RN/2 Wheat,JD6930;Cascade Spreader,Fertiliser Application;Treatment,"{'value': '<p>Fertilised: Sp Wheat<br />\nN2 Treatments</p>\n', 'format': 'farm_format'}",[]
-551,Fertiliser application: 145 kg/ha Nitram into FOSTERS,2020/R/RN/2 Oats,JD6930;Cascade Spreader,Fertiliser Application;Treatment,"{'value': '<p>Fertilised: S Oats<br />\nN2 Treatments</p>\n', 'format': 'farm_format'}",[]
-552,Fertiliser application: 262 kg/ha Nitram into HIGHFIELD 1/2/3,2020/R/CS/767;2020/R/RN/1 Wheat,JD6930;Cascade Spreader,Fertiliser Application;Treatment,"{'value': '<p>Fertilised: Sp Wheat<br />\nN2 Treatments</p>\n', 'format': 'farm_format'}",[]
-553,Fertiliser application: 262 kg/ha Nitram into FOSTERS,2020/R/RN/2 Wheat,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: W Wheat</p>\n', 'format': 'farm_format'}",[]
-555,Fertiliser application: 203 kg/ha Nitram into FOSTERS,2020/R/RN/2 Wheat,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: Sp Wheat</p>\n', 'format': 'farm_format'}",[]
-556,"Spraying: Buffalo elite, Samurai (16238) in OSIER",2020/R/WS/2052,Hand Held Compressed Air Pesticide Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.9 mph</p>\n<p>Temperature: 15 C</p>\n<p>Spraying off area of wheat to allow transplanting of seedlings</p>\n', 'format': 'farm_format'}",[]
-586,"Spraying: Eagle (16490), Maya (16760), Hadron in DELHARDING",DELHARDING,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.24 mph E</p>\n<p>Weather: Cloud</p>\n<p>Temperature: 17 C</p>\n', 'format': 'farm_format'}",[]
-589,Spraying: Cello (18290) in BLACKHORSE,BLACKHORSE,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 3.1 mph S</p>\n<p>Weather: Cloud </p>\n<p>Temperature: 22 C</p>\n', 'format': 'farm_format'}",[]
-590,Spraying: Cello (18290) in DELAFIELD,DELAFIELD,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.2 mph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 14 C</p>\n', 'format': 'farm_format'}",[]
-591,Spraying: Cello (18290) in DRAPERS,DRAPERS,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.2 mph SE</p>\n<p>Weather: Cloud </p>\n<p>Temperature: 22 C</p>\n', 'format': 'farm_format'}",[]
-592,Spraying: Cello (18290) in GREAT KNOTT 1,GREAT KNOTT 1,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.2 mph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 18 C</p>\n', 'format': 'farm_format'}",[]
-594,Spraying: Cello (18290) in GEESCROFT,GEESCROFT,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 2.5 mph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 21 C</p>\n', 'format': 'farm_format'}",[]
-595,Spraying: Cello (18290) in LONG HOOS 1/2 + 3,LONG HOOS 1/2 + 3,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 2.5 mph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-596,Spraying: Cello (18290) in LONG HOOS 4,LONG HOOS 4,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 2.5 mph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 21 C</p>\n', 'format': 'farm_format'}",[]
-598,Spraying: Cello (18290) in OSIER,OSIER;2020/R/WW/2017;2020/R/WW/2026;2020/R/WW/2030;2020/R/WW/2031+2034;2020/R/WW/2035+2046;2020/R/WW/2039;2020/R/WW/2042,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 3.1 mph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 22 C</p>\n', 'format': 'farm_format'}",[]
-599,Spraying: Cello (18290) in SAWYERS 1,2020/R/CS/10,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 2.5 mph S</p>\n<p>Weather: Cloud </p>\n<p>Temperature: 21 C</p>\n', 'format': 'farm_format'}",[]
-600,Spraying: Cello (18290) in SCOUT,SCOUT,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 2.5 mph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 21 C</p>\n', 'format': 'farm_format'}",[]
-601,Spraying: Cello (18290) in WEBBS,WEBBS,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.2 mph SE</p>\n<p>Weather: Cloud </p>\n<p>Temperature: 22 C</p>\n', 'format': 'farm_format'}",[]
-602,Fertiliser application: 232 kg/ha Nitram into WEST BARNFIELD 1/2,WEST BARNFIELD 1/2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>232 Kg/ha Nitram gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-603,Fertiliser application: 232 kg/ha Nitram into FOSTERS CORNER,FOSTERS CORNER,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>232 Kg/ha Nitram gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-604,Fertiliser application: 232 kg/ha Nitram into DELHARDING,DELHARDING,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>232 Kg/ha Nitram gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-605,Fertiliser application: 232 kg/ha Nitram into AGDELL/HARWOODS,AGDELL/HARWOODS,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>232 Kg/ha Nitram gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-606,Fertiliser application: 232 kg/ha Nitram into SUMMERDELLS 1,SUMMERDELLS 1,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>232 Kg/ha Nitram gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-607,Fertiliser application: 232 kg/ha Nitram into SUMMERDELLS 2,SUMMERDELLS 2,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>232 Kg/ha Nitram gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-608,Fertiliser application: 232 kg/ha Nitram into BONES CLOSE,BONES CLOSE,JD6145R;Kverneland Twin disc Fertiliser Spreader,Fertiliser Application,"{'value': '<p>232 Kg/ha Nitram gives 80 Kg/ha N</p>\n', 'format': 'farm_format'}",[]
-612,"Spraying: Clayton Zorro Pro (17073), Proline 275 (14790), Toledo (18298) in FOSTERS",2020/R/CS/738,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5 kph SN</p>\n<p>Weather: Cloud </p>\n<p>Temperature: 23 C</p>\n', 'format': 'farm_format'}",[]
-613,"Spraying: Clayton Zorro Pro (17073), Proline 275 (14790), Toledo (18298) in MEADOW",MEADOW;2020/R/WW/2015;2020/R/WW/2016;2020/R/WW/2018;2020/R/WW/2029;2020/R/WW/2032,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4 kph SN</p>\n<p>Weather: Cloud </p>\n<p>Temperature: 23 C</p>\n', 'format': 'farm_format'}",[]
-614,"Spraying: Clayton Zorro Pro (17073), Proline 275 (14790), Toledo (18298) in BYLANDS",BYLANDS;2020/R/WW/2014,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4 kph SN</p>\n<p>Weather: Cloud </p>\n<p>Temperature: 23 C</p>\n', 'format': 'farm_format'}",[]
-615,"Spraying: Hiatus (16059), Keystone (18565), Hurler (17715) in STACKYARD",STACKYARD,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6 kph SW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 13 C</p>\n', 'format': 'farm_format'}",[]
-617,Spraying: Artemis (18533) in LONG HOOS 4,2020/R/CS/778,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph SW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 14 C</p>\n', 'format': 'farm_format'}",[]
-618,Spraying: Artemis (18533) in LONG HOOS 5,2020/R/CS/773,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph SW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 14 C</p>\n', 'format': 'farm_format'}",[]
-619,Spraying: Artemis (18533) in LONG HOOS 6/7,2020/R/CS/789,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph SW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 14 C</p>\n', 'format': 'farm_format'}",[]
-620,Spraying: Artemis (18533) in NEW ZEALAND,2020/R/CS/760,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph SW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 14 C</p>\n', 'format': 'farm_format'}",[]
-621,Spraying: Artemis (18533) in LONG HOOS 1/2 + 3,2020/R/WW/2019,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.0 kph NE</p>\n<p>Weather: Sun</p>\n<p>Temperature: 15 C</p>\n', 'format': 'farm_format'}",[]
-715,Applied slug pellets: RAW/2028,2020/R/RAW/2028,Lehner slug pelleter;Kawasaki  Mule 610,Pesticide Application,[],[]
-719,Spraying: Lentyma XE (19301) in LONG HOOS 6/7,2020/R/CS/789,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6 kph NW</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-720,Spraying: Artemis (18533) in LONG HOOS 1/2 + 3,2020/R/WW/2022,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 1.0 kph NE</p>\n<p>Weather: Sun</p>\n<p>Temperature: 15 C</p>\n', 'format': 'farm_format'}",[]
-721,Spraying: Artemis (18533) in RRES LSRE Site,RRES LSRE Site,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph SW</p>\n<p>Weather: Cloud </p>\n<p>Temperature: 13 C</p>\n<p>Plots 25, 26, 33, 38, 43, 44, 47, 49, 57, 58, 59, 60.</p>\n', 'format': 'farm_format'}",[]
-725,Fertiliser application: 0 kg/ha Nitram into GREAT FIELD 1/2,2020/R/WS/2054,By Hand ,Fertiliser Application;Treatment,"{'value': '<p>1st Split</p>\n', 'format': 'farm_format'}",[]
-738,Spraying: Cello (18290) in HIGHFIELD 5/6,HIGHFIELD 5/6,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6 kph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 13 C</p>\n', 'format': 'farm_format'}",[]
-739,Spraying: Cello (18290) in HIGHFIELD 4,HIGHFIELD 4,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 6 kph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 15 C</p>\n', 'format': 'farm_format'}",[]
-740,Spraying: Cello (18290) in HOOS FIELD,HOOS BARLEY,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 16 C</p>\n', 'format': 'farm_format'}",[]
-741,Spraying: Cello (18290) in PASTURES,PASTURES,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-742,Spraying: Cello (18290) in SAWYERS 3,SAWYERS 3,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 8 kph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 24 C</p>\n', 'format': 'farm_format'}",[]
-743,Spraying: Cello (18290) in WHITEHORSE 2,WHITEHORSE 2,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 16 C</p>\n', 'format': 'farm_format'}",[]
-745,Fertiliser application: 80 kg/ha Kieserite into HOOS FIELD,2020/R/EX/4,JD6930;Cascade Spreader,Fertiliser Application,"{'value': '<p>Fertilised: Sp Wheat</p>\n', 'format': 'farm_format'}",[]
-746,Fertiliser application: 80 kg/ha Kieserite into BROADBALK,BROADBALK,JD6930;Cascade Spreader,Fertiliser Application;Treatment,"{'value': '<p>Fertilised: W Wheat, Sp Wheat, Sp OSR, Sp Beans</p>\n', 'format': 'farm_format'}",[]
-756,Spraying: Cello (18290) in BONES CLOSE,BONES CLOSE,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 26 C</p>\n', 'format': 'farm_format'}",[]
-757,Spraying: Cello (18290) in BROADBALK,BROADBALK,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4 kph E</p>\n<p>Weather: Sun</p>\n<p>Temperature: 17 C</p>\n<p>Oats</p>\n', 'format': 'farm_format'}",[]
-758,Spraying: Cello (18290) in DRAPERS,2020/R/RS/2003,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 7 kph S</p>\n<p>Weather: Sun</p>\n<p>Temperature: 26 C</p>\n', 'format': 'farm_format'}",[]
-759,Spraying: Cello (18290) in FOSTERS,2020/R/RN/2 Oats,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5 kph E</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n<p>Oats</p>\n', 'format': 'farm_format'}",[]
-760,Spraying: Cello (18290) in HIGHFIELD 1/2/3,2020/R/RN/1 Oats,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4 kph E</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n<p>Oats</p>\n', 'format': 'farm_format'}",[]
-761,Spraying: Cello (18290) in NEW ZEALAND,2020/R/RS/2009,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5 kph E</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-762,Spraying: Cello (18290) in SAWYERS 1,2020/R/CS/715,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5 kph E</p>\n<p>Weather: Sun</p>\n<p>Temperature: 20 C</p>\n', 'format': 'farm_format'}",[]
-763,Spraying: Cello (18290) in SUMMERDELLS 1,SUMMERDELLS 1,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 5 kph E</p>\n<p>Weather: Sun</p>\n<p>Temperature: 24 C</p>\n', 'format': 'farm_format'}",[]
-764,Spraying: Cello (18290) in SUMMERDELLS 2,SUMMERDELLS 2,NH T6030;Knight 24m Sprayer,Pesticide Application,"{'value': '<p>Wind: 4 kph E</p>\n<p>Weather: Sun</p>\n<p>Temperature: 24 C</p>\n', 'format': 'farm_format'}",[]
-765,Spread treatments for 2020/R/RAW/2025,2020/R/RAW/2025,,Treatment,"{'value': '<p>Broadcast Treatment F wheat by hand before drilling</p>\n', 'format': 'farm_format'}",
-766,Spread treatments for 2020/R/RAW/2025,2020/R/RAW/2025,,Treatment,"{'value': '<p>Broadcast Treatment F wheat by hand before drilling</p>\n', 'format': 'farm_format'}",
-767,Spread treatments for 2020/R/RAW/2025,2020/R/RAW/2025,,Treatment,"{'value': '<p>Broadcast Treatment F wheat by hand before drilling</p>\n', 'format': 'farm_format'}",
-1016,Fertillised WOSR with Nitram : WHITEHORSE 2 RAW/2025,2020/R/RAW/2025,JD6930;Cascade Spreader,Fertiliser Application;Excel upload,"{'value': '<ul>\n<li>Fertillised WOSR with Nitram </li>\n<li>Notes: Experiment plots and commercial surrounds</li>\n</ul>\n', 'format': 'farm_format'}",[]
-1017,Fertillised stubble with TSP: HOOS FIELD HB/2,HOOS BARLEY,JD6930;Cascade Spreader,Fertiliser Application;Excel upload,"{'value': '<ul>\n<li>Fertillised stubble with TSP</li>\n<li>Notes: Treatment applications detailed on plan</li>\n</ul>\n', 'format': 'farm_format'}",[]
-1018,Fertillised stubble with Kieserite: HOOS FIELD HB/2,HOOS BARLEY,By Hand ,Fertiliser Application;Excel upload,"{'value': '<ul>\n<li>Fertillised stubble with Kieserite</li>\n<li>Notes: Treatments, by hand - See plan for details</li>\n</ul>\n', 'format': 'farm_format'}",[]
-1019,Fertillised stubble with Silicate of Soda : HOOS FIELD HB/2,HOOS BARLEY,JD6930;Cascade Spreader,Fertiliser Application;Excel upload,"{'value': '<ul>\n<li>Fertillised stubble with Silicate of Soda </li>\n<li>Notes: Treatment applications detailed on plan</li>\n</ul>\n', 'format': 'farm_format'}",[]
-1020,Fertillised with SOP: HOOS FIELD HB/2,HOOS BARLEY,JD6930;Cascade Spreader,Fertiliser Application;Excel upload,"{'value': '<ul>\n<li>Fertillised with SOP</li>\n<li>Notes: Treatment applications detailed on plan</li>\n</ul>\n', 'format': 'farm_format'}",[]
-1021,Spread FYM: HOOS FIELD HB/2,HOOS BARLEY,Tym T503;Muck spreader - international,Fertiliser Application;Excel upload,"{'value': '<ul>\n<li>Spread FYM</li>\n<li>Notes: Plots 734,733, 732, 731, 724, 723, 722, 721</li>\n</ul>\n', 'format': 'farm_format'}",[]
+141,Topped: Barnfield,BARNFIELD,MF3070;Topper 9,Commercial;Topping,<p>Cutting space for car park</p>,
+142,Topped: Claycroft,CLAYCROFT,MF3070;Topper 9,Commercial;Topping,<p>Topped field edge and experiments</p>,
+143,Topped: Delafield,DELAFIELD,Batwing Topper;NHT7210,Topping;Commercial,<p>Topped commercial field</p>,
+144,Topped: Fosters Corner,FOSTERS CORNER,Batwing Topper;NHT7210,Topping;Commercial,<p>Topped commercial field</p>,
+145,Topped: Garden Plots,GARDEN PLOTS,Topper 9,Commercial;Topping,<p>Topped commercial field</p>,
+146,Topped: Great Harpenden 2,GREAT HARPENDEN 2,Batwing Topper;NHT7210,Topping;Commercial,<p>Topped commercial field</p>,
+147,"Topped: Long Hoos 1, 2+3",LONG HOOS 1/2 + 3,Batwing Topper;NHT7210,Topping;Commercial,<p>Topped commercial field</p>,
+148,Topped: Long Hoos 4,LONG HOOS 4,Batwing Topper;NHT7210,Topping;Commercial,<p>Topped commercial field</p>,
+149,Topped: Meadow,MEADOW,Batwing Topper;NHT7210,Topping;Commercial,<p>Topped commercial field</p>,
+150,Topped: Webbs,WEBBS,Batwing Topper;NHT7210,Topping;Commercial,<p>Topped commercial field</p>,
+151,Topped: Whitehorse 2,WHITEHORSE 2,Batwing Topper;NHT7210,Topping;Commercial,<p>Topped commercial field</p>,
+152,Topped: Whittlocks,WHITTLOCKS,ISTH4335;Kilworth Topper,Commercial;Topping,<p>Topped around all willow experiments</p>,
+153,Topped: AGDELL HARWOODS,AGDELL/HARWOODS,MF3070;Topper 9,Commercial;Topping,<p>Topped field edge</p>,
+154,Topped: Highfield 5+6,HIGHFIELD 5/6,Batwing Topper;NHT7210,Commercial;Topping,<p>Topped commercial field</p>,
+155,Cultivation: Sub Tillage 40 cm in MEADOW,MEADOW,NHT7210;Simba Flat Lift,Subsoiling,<p>Tramlines and headlands</p>,0
+156,Cultipressed: Meadow,MEADOW,JD6830;Philip Watkins Press,Commercial;Cultipressing,,
+157,Cultipressed: Parklands,PARKLANDS,JD6830;Philip Watkins Press,Commercial;Cultipressing,,
+158,Ploughed: Furzefield,FURZEFIELD,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,<p>Ploughed commercial field. Thrown North</p>,
+159,Ploughed: Meadow,MEADOW,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,<p>Ploughed commercial field. Thrown South</p>,
+160,Ploughed: Meadow,MEADOW,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,<p>Ploughed commercial field. Thrown South</p>,
+161,Ploughed: Meadow,MEADOW,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,<p>Ploughed commercial field. Thrown South</p>,
+162,Ploughed: Parklands,PARKLANDS,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,<p>Ploughed commercial field. Thrown West</p>,
+163,Rolled: Great field 1+2,GREAT FIELD 1/2,6m Flexicoil Cambridge Roll,Commercial;Rolling,<p>Rolled commercial field.</p>,
+164,Rolled: White horse 2,WHITEHORSE 2,6m Flexicoil Cambridge Roll,Commercial;Rolling,<p>Rolled area of field that was drilled on 19/08/19</p>,
+165,"Rolled: Long Hoos 5, 6+7",LONG HOOS 5;LONG HOOS 6/7,6m Flexicoil Cambridge Roll,Commercial;Rolling,<p>Rolled commercial field.</p>,
+166,Min-till: Drapers,DRAPERS,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,"<p>Min-till commercial field. Lemkin Karat JD 6930, 45 degrees to trams</p>",
+167,Min-till: Great field 1+2,GREAT FIELD 1/2,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,<p>Min-till commercial field. Lemkin Karat JD 6930</p>,
+168,Min-till: Great Harpenden 2,GREAT HARPENDEN 2,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,<p>Min-till commercial field. Lemkin Karat JD 6930</p>,
+170,"Min-till: Long Hoos 1, 2, 3",LONG HOOS 1/2 + 3,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,"<p>Min-till commercial field. Lemkin Karat JD 6930, 45 degrees to trams</p>",
+171,"Min-till: Long Hoos 5, 6+7",LONG HOOS 5;LONG HOOS 6/7,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,<p>Min-till commercial field. Lemkin Karat JD 6930</p>,
+172,Min-till: Osier,OSIER,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,"<p>Min-till commercial field. Lemkin Karat JD 6930, all field commercial</p>",
+173,Min-till: White horse 1,WHITEHORSE 1,JD6930;Lemkin Karat 9KU,Commercial;Minimum-tillage,<p>Min-till commercial field. Lemkin Karat JD 6930</p>,
+179,Ploughed: White horse 2,WHITEHORSE 2,KV Five Furrow Plough;NHT7210,Commercial;Ploughing,"<p>KV five furrow Plough, T 7.210. finished Thrown South</p>",
+180,Rolled WOSR: Furzefield,FURZEFIELD,6m Flexicoil Cambridge Roll;JD5620,Commercial;Rolling,<p>Rolling WOSR on commercial field</p>,
+193,Cultivation: Ploughed Tillage 30 cm in GREAT FIELD 1/2,GREAT FIELD 1/2,KV Five Furrow Plough,Ploughing,<p>Plough thrown: E</p>;<p>Commercial</p>,False
+194,Cultivation: Minimum Tillage 0 cm in GREAT FIELD 1/2,GREAT FIELD 1/2,Philip Watkins Press,Minimum-tillage,,False
+225,Rolled 2020/R/RAW/2025,2020/R/RAW/2025,6m Flexicoil Cambridge Roll,Rolling,,0
+234,Topped: Whitehorse 2,WHITEHORSE 2,Batwing Topper;NHT7210,Commercial;Topping,<p>Topped commercial field</p>,
+235,Press Ploughed: White horse 2,WHITEHORSE 2,Philip Watkins Press,Commercial;Ploughing,,
+250,Topping : FURZEFIELD ,FURZEFIELD,Batwing Topper,Topping;Commercial,<ul></ul>,
+251,Topping : OSIER ,OSIER,Batwing Topper,Topping;Commercial,<ul></ul>,
+252,Topping : GREAT KNOTT 1 ,GREAT KNOTT 1,Batwing Topper,Topping;Commercial,<ul></ul>,
+253,Press ploughing : FURZEFIELD ,FURZEFIELD,Philip Watkins Press,Commercial;Ploughing,<ul></ul>,
+254,Path cutting: PARKGRASS ,PARKGRASS,ISTH4335;Kilworth Topper,Topping,<ul></ul>,
+255,Drilling: GREAT FIELD 1/2 ,2020/R/RAW/2037,,Commercial;Plantings,<ul></ul>,
+256,Plot Rolling : GREAT FIELD 1/2 ,2020/R/RAW/2037,JD5070;Plot Rolls,Commercial;Rolling,<ul></ul>,
+257,Ploughing : SAWYERS 1 CS715 CS/715,SAWYERS 1 CS715,,Ploughing;Experiment,<ul>;<li>Direction thrown: Thrown North </li>;<li>Notes: Ploughed wheat stubble only rape stubble to hand </li>;</ul>,
+258,Powerharrow : GREAT FIELD 1/2 ,2020/R/RAW/2037,,Commercial;Power Harrow,<ul></ul>,
+261,Rolling : SAWYERS 1 CS715 CS/715,SAWYERS 1 CS715,6m Flexicoil Cambridge Roll,Rolling;Experiment,<ul>;<li>Notes: North end only (OSR)</li>;</ul>,
+265,Topping: STACKYARD ,STACKYARD,Batwing Topper,Topping;Commercial,<ul></ul>,
+267,Cultivation: GEESCROFT ,GEESCROFT,Lemkin Karat 9KU,Tillage;Commercial,<ul></ul>,
+268,Ploughing: NEW ZEALAND CS/760,2020/R/CS/760,NHT7210;KV Five Furrow Plough,Experiment;Ploughing,<ul>;<li>Direction thrown: Thrown East </li>;</ul>,
+269,Subsoiling : LONG HOOS 4 ,LONG HOOS 4,Simba Flat Lift,Subsoiling;Commercial,<ul>;<li>Notes: Tramlines + headlands only</li>;</ul>,
+270,Subsoiling : NEW ZEALAND ,NEW ZEALAND,Simba Flat Lift,Subsoiling;Commercial,<ul>;<li>Notes: Tramlines + headlands only</li>;</ul>,
+271,Subsoiling : HIGHFIELD 5/6 ,HIGHFIELD 5/6,Simba Flat Lift,Subsoiling;Commercial,<ul>;<li>Notes: Whole field </li>;</ul>,
+272,Subsoiling : HIGHFIELD 4 ,HIGHFIELD 4,Simba Flat Lift,Subsoiling;Commercial,<ul>;<li>Notes: Tramlines + headlands only</li>;</ul>,
+273,Ploughing: LONG HOOS 6/7 CS/789,LONG HOOS 6/7;2020/R/CS/789,NHT7210;KV Five Furrow Plough,Experiment;Ploughing,<ul>;<li>Direction thrown: Thrown East</li>;</ul>,
+274,Ploughing: LONG HOOS 4 CS/778,LONG HOOS 4,NHT7210;KV Five Furrow Plough,Ploughing;Experiment,<ul>;<li>Direction thrown: Thrown East</li>;</ul>,
+275,Ploughing : LITTLE HOOS CS/790,LITTLE HOOS,MF3070,Ploughing;Experiment,<ul>;<li>Direction thrown: Thrown East</li>;<li>Notes: Ploughed plots as plan - wheat plots </li>;</ul>,
+277,Press ploughing : SAWYERS 1 CS715 CS/715,SAWYERS 1 CS715,Philip Watkins Press,Ploughing;Experiment,<ul>;<li>Notes: Press South end only </li>;</ul>,
+278,Ploughing: SAWYERS 1 CS715 CS/715,CS-715 Oat plots;CS-715 Oat surrounds;CS-715 Wheat Plots;CS-715 Wheat Surrounds,KV Five Furrow Plough,Experiment;Ploughing,<ul>;<li>Direction thrown: Thrown North </li>;<li>Notes: Rape stubble only </li>;</ul>,
+279,Ploughing: FOSTERS CS/738,2020/R/CS/738,NHT7210;KV Five Furrow Plough,Experiment;Ploughing,<ul>;<li>Direction thrown: Thrown West</li>;</ul>,
+280,Ploughing : HIGHFIELD 4 ,HIGHFIELD 4,NHT7210;KV Five Furrow Plough,Ploughing;Commercial,<ul>;<li>Direction thrown: Thrown East </li>;</ul>,
+284,Cultivation: Sub Tillage 45 cm in WHITEHORSE 2,WHITEHORSE 2;2020/R/RAW/2025,JD5620;Simba Flat Lift,Ploughing,<p>Direction of work (driven): N</p>;<p>Plough thrown: E</p>,2
+449,Irigation,FURZEFIELD,JD6230;Briggs Boom;Perrot Reel,Irrigation,,
+450,Irigation,2020/R/CM/2053,Briggs Boom;Perrot Reel,Irrigation,,
+451,Irigation,2020/R/CM/2053,Briggs Boom;Perrot Reel,Irrigation,,
+452,Irigation,2020/R/CM/2053,Briggs Boom;Perrot Reel,Irrigation,,
+493,Cultivation: Sub Tillage 9 cm in GEESCROFT,GEESCROFT,JD6230;Kuhn Powerharrow 3m,Tillage,<p>Harrowed fallow areas</p>,False
+494,Cultivation: Sub Tillage 9 cm in HIGHFIELD 1/2/3,HIGHFIELD LEY ARABLES,JD6230;Kuhn Powerharrow 3m,Tillage,<p>Harrowed fallow areas</p>,False
+495,Cultivation: Sub Tillage 9 cm in FOSTERS,FOSTERS,JD6230;Kuhn Powerharrow 3m,Tillage,<p>Harrowed fallow areas</p>,False
+520,Topped Amended Side of Inversion Cover Crops ,RRES LSRE Site,JD5620;Topper 9,Topping,"<p>Topped amended side of plots 4, 9, 15, 20, 28, 31, 42, 48, 53, 54</p>",
+521,Cultivation: Ploughed Tillage 15 cm in RRES LSRE Site,RRES LSRE Site,JD6230;Ransom 3 Furrow Plough,Ploughing,"<p>Plough thrown: E</p>;<p>plots 4, 9, 15, 20, 28</p>",False
+522,Cultivation: Ploughed Tillage 15 cm in RRES LSRE Site,RRES LSRE Site,JD6230;Ransom 3 Furrow Plough,Ploughing,"<p>Plough thrown: E</p>;<p>plots 31, 42, 48, 53, 54</p>",False
+525,Cut out central paths to make plots approx 3.45m long,2020/R/WW/2029,JD5620;McConnel SE 6 Topper,Topping,,
+526,Cut out central paths to make plots approx 3.45m long,2020/R/WW/2032,JD5620;McConnel SE 6 Topper,Topping,,
+527,Cut out central paths to make plots approx 3.45m long,2020/R/WW/2018,JD5620;McConnel SE 6 Topper,Topping,,
+528,Cut out central paths to make plots approx 3.45m long,2020/R/WW/2017,JD5620;McConnel SE 6 Topper,Topping,,
+529,Cut out central paths to make plots approx 3.45m long,2020/R/WW/2045,JD5620;McConnel SE 6 Topper,Topping,,
+534,Rolled: 2020/R/RAS/2056,2020/R/RAS/2056,JD5070;Plot Rolls,Rolling,,
+535,Spot spraying black grass,2020/R/WW/2031+2034,Knapsack sprayer,Pesticide Application,<p>Started June 1st and finished on June 2nd<br />;Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>,
+536,Spot Spraying Black Grass,2020/R/WW/2017,Knapsack sprayer,Pesticide Application,<p>Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre water</p>,
+540,Spot Spraying Black Grass,2020/R/WW/2018,Knapsack sprayer,Pesticide Application,<p>Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>,
+541,Spot Spraying Black Grass,2020/R/WW/2042,Knapsack sprayer,Pesticide Application,<p>Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>,
+542,Spot spraying black grass,2020/R/WW/2018,Knapsack sprayer,Pesticide Application,"<p>Started on the 9th June, but could not complete till on the 15th June<br />;Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>",
+544,Spot spraying black grass,2020/R/WW/2016,Knapsack sprayer,Pesticide Application,<p>Using Glyphosate (Samurai) at 200ml per 10 litre water and Buffalo Elite at 50ml per 10 litre</p>,
+554,Irigation,2020/R/RAS/2056,JD6230;Slurry Tanker,Irrigation,,
+582,Path cutting: PARKGRASS ,PARKGRASS,ISTH4335;Kilworth Topper,Topping,,
+583,Rolled,RRES LSRE Site,6m Flexicoil Cambridge Roll;JD6230,Rolling,"<p>Plots 20, 46, 53</p>",
+587,Irigation,2020/R/RAS/2056,JD6230;Slurry Tanker,Irrigation,,
+588,Irigation,2020/R/CM/2053,JD6230;Briggs Boom;Perrot Reel,Irrigation,,
+609,Cultivation: Minimum Tillage 5 cm in OSIER,2020/R/WS/2052,JD6145R;Kuhn Powerharrow 3m,Minimum-tillage;Power Harrow,<p>Direction of work (driven): N</p>;<p>Power harrowed area for WS/2052 only. Area sprayed off ahead of power harrowing. Experiment was hand planted the next day by experiment sponsor.</p>,0.5
+655,Cultivation: Minimum Tillage 5 cm in PASTURES,PASTURES,JD6145R;Kuhn Powerharrow 3m,Power Harrow,<p>Power harrowed the fallow area surrounding the GM experiment CM/2053. Did not go onto GM area. Cleaned down power harrow on the fallow area before leaving the field.</p>,1
+726,Mowed,PARKGRASS;2020/R/PG/5,JD6830;Kuhn FC 300 RG,Mowing,,
+727,Irigation,FURZEFIELD,Briggs Boom;Perrot Reel,Irrigation,,
+728,Irigation,2020/R/CM/2053,Briggs Boom;Perrot Reel,Irrigation,,
+744,Row up,PARKGRASS;2020/R/PG/5,MF3070;PZ Hay Rake,Rowing up,,
+770,Turning Over Cut Grass,PARKGRASS;2020/R/PG/5,JD5070;Tedder,Turning,,
+780,Row up grass,2020/R/CS/767;2020/R/RN/1 Clover Ley;2020/R/RN/1 Grass,MF3070;PZ Hay Rake,Rowing up,<p>Grass plots rowed up</p>,
+781,Row up grass,2020/R/RN/2 Clover Ley;2020/R/RN/2 Grass,MF3070;PZ Hay Rake,Rowing up,<p>Grass plots rowed up</p>,
+782,Baling ,PARKGRASS;2020/R/PG/5,,Baling,<p>Baled by contractor</p>,
+783,Baling Grass,2020/R/CS/767;2020/R/RN/1 Clover Ley;2020/R/RN/1 Grass,JD6230;Claas Baler,Baling,,
+784,Baling Grass,2020/R/RN/2 Clover Ley;2020/R/RN/2 Grass,JD6230;Claas Baler,Baling,,
+785,Turning Over Cut Grass,PARKGRASS;2020/R/PG/5,JD5070;Tedder,Turning,,
+786,Turning Over Cut Grass,PARKGRASS;2020/R/PG/5,JD5070;Tedder,Turning,,
+787,Turning Over Cut Grass,PARKGRASS;2020/R/PG/5,JD5070;Tedder,Turning,,
+788,Topping,Broadbalk Wilderness Mown Area,ISTH4335;Kilworth Topper,Topping,,
+789,Topping,Broadbalk Wilderness Mown Area,MF3070;Topper 9,Topping,,
+799,Rolled,BONES CLOSE,JD6230;6m Flexicoil Cambridge Roll,Rolling,,
+801,Cultivation : BONES CLOSE Commercial,BONES CLOSE,JD6930;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul></ul>,
+802,Cultivation : BONES CLOSE Commercial,BONES CLOSE,JD6930;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul></ul>,
+803,Cultivation : BROAD MEAD Commercial,Broad Mead,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;<li>Notes: Whole Field</li>;</ul>,
+804,Flexitines: LONG HOOS 1/2 + 3 Commercial,LONG HOOS 1/2 + 3,JD6930;Bomford Flexitine,Tillage;Commercial;Excel upload,"<ul>;<li>Flexitines</li>;<li>Notes: Odds &amp; Ends, Condition: wet - carried out to pull up the soil and aerate it so it dries before drilling</li>;</ul>",
+805,Flexitines: MEADOW Commercial,MEADOW,JD6930;Bomford Flexitine,Tillage;Commercial;Excel upload,<ul>;<li>Flexitines</li>;<li>Notes: Odds &amp; Ends</li>;</ul>,
+806,Flexitines: MEADOW Commercial,MEADOW,JD6930;Bomford Flexitine,Tillage;Commercial;Excel upload,<ul>;<li>Flexitines</li>;<li>Notes: Odds &amp; Ends</li>;</ul>,
+807,Power harrow: STACKYARD Commercial,STACKYARD,JD6230;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: Done to level surface following ploughing in of beans</li>;</ul>,
+808,Cultivation : Stackyard Woburn Commercial,Stackyard Woburn,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;<li>Notes: Whole Field</li>;</ul>,
+809,Power harrowed : GREAT HILL Commercial,Great Hill,JD6620;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed furrows &amp; clay area </li>;</ul>,
+810,Power harrowed : Stackyard Woburn Commercial,Stackyard Woburn,JD6620;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed furrows</li>;</ul>,
+811,Power harrowed : BUTT CLONG Commercial,Butt Clong,JD6620;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed furrows</li>;</ul>,
+812,Cultivation : GREAT HILL Commercial,Great Hill,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;<li>Notes: Whole Field</li>;</ul>,
+813,Cultivation : BUTT CLONG Commercial,Butt Clong,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;<li>Notes: Whole Field</li>;</ul>,
+814,Discing: WARREN Commercial,Warren,JD6620;WES Massey Ferguson 4m Discs,Tillage;Commercial;Excel upload,<ul>;<li>Discing</li>;<li>Notes: Whole field</li>;</ul>,
+815,Cultivation : SUMMERDELLS 2 Commercial,SUMMERDELLS 2,JD6930;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;</ul>,
+816,Power harrowed : WARREN Commercial,Warren,JD6620;Kuhn Powerharrow 3m,Tillage;Commercial;Excel upload,<ul>;<li>Power harrowed </li>;</ul>,
+817,Cultivation : SUMMERDELLS 1 Commercial,SUMMERDELLS 1,JD6930;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;</ul>,
+818,Cultivation: SAWYERS 1 Commercial,SAWYERS 1,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+819,Cultivation: SAWYERS 4 Commercial,SAWYERS 4,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+820,Cultivation: SAWYERS 2 Commercial,SAWYERS 2,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+821,Cultivation : BROAD MEAD Commercial,Broad Mead,JD6620;WES Cousins 3m Spring Tines,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;<li>Notes: Whole Field</li>;</ul>,
+822,Cultivation: FOSTERS CORNER Commercial,FOSTERS CORNER,NHT7210;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;<li>Notes: Worked twice</li>;</ul>,
+823,Cultivation: GREAT FIELD 4 Commercial,GREAT FIELD 4,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+824,Cultivation: GARDEN PLOTS Commercial,GARDEN PLOTS,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+825,Min-till cultivation: GREAT KNOTT 1 Commercial,GREAT KNOTT 1,JD6930;Lemkin Karat 9KU,Commercial;Excel upload;Minimum-tillage,<ul>;<li>Min-till cultivation</li>;<li>Direction thrown: 45 degees to trams</li>;</ul>,
+826,Cultivation: GREAT KNOTT 2 Commercial,GREAT KNOTT 2,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+827,Cultivation: GREAT KNOTT 3 Commercial,GREAT KNOTT 3,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+828,Cultivation: SAWYERS 3 Commercial,SAWYERS 3,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+829,Cultivation : WEBBS Commercial,WEBBS,JD6145R;Lemkin Karat 9KU,Commercial;Excel upload;Minimum-tillage,<ul>;<li>Cultivation</li>;</ul>,
+830,Cultivation: AGDELL/HARWOODS Commercial,AGDELL/HARWOODS,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+831,Cultivation: CLAYCROFT Commercial,CLAYCROFT,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+832,Cultivation: STACKYARD Commercial,STACKYARD,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+833,Cultivation: SUMMERDELLS 1 Commercial,SUMMERDELLS 1,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+834,Discing: BROAD MEAD Commercial,Broad Mead,JD6620;WES Massey Ferguson 4m Discs,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Discing</li>;<li>Notes: Whole field</li>;</ul>,
+835,Cultivation : WARREN Commercial,Warren,JD6620;WES Massey Ferguson 4m Discs,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;<li>Notes: Whole field</li>;</ul>,
+836,Cultivation: Fosters O+Es 4 Commercial,FOSTERS O+Es 4,JD6145R;Lemkin Karat 9KU,Minimum-tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+837,Ploughing : WHITEHORSE 2 Commercial,WHITEHORSE 2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown South</li>;</ul>,
+838,Ploughing: SAWYERS 4 Commercial,SAWYERS 4,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North</li>;</ul>,
+839,Ploughing : Stackyard Woburn Commercial,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;</ul>,
+840,Ploughing: Stackyard Woburn Commercial,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;</ul>,
+841,Ploughing: BROAD MEAD Commercial,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Notes: Broadmead - North corner where 2020 trial will be placed</li>;</ul>,
+842,Ploughing: HIGHFIELD 4 Commercial,HIGHFIELD 4,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East</li>;<li>Notes: Started </li>;</ul>,
+843,Ploughing: BROADBALK Commercial,BROADBALK,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,"<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North </li>;<li>Notes: BK1, Ploughed North to finish </li>;</ul>",
+844,Ploughing: WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East</li>;<li>Notes: Ploughed east to finish </li>;</ul>,
+845,Ploughing: BROADBALK Commercial,BROADBALK,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,"<ul>;<li>Ploughing</li>;<li>Notes: BK1, Finished</li>;</ul>",
+846,Ploughing: WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East</li>;<li>Notes: Finished</li>;</ul>,
+847,Press ploughing : WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,JD6145R;Philip Watkins Press,Ploughing;Commercial;Excel upload,<ul>;<li>Press ploughing </li>;</ul>,
+848,Ploughing : NEW ZEALAND Commercial,NEW ZEALAND,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown East </li>;<li>Notes: Started</li>;</ul>,
+849,Ploughing : NEW ZEALAND Commercial,NEW ZEALAND,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown East </li>;<li>Notes: Finished </li>;</ul>,
+850,Ploughing : SCOUT Commercial,SCOUT,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown North </li>;<li>Notes: Started</li>;</ul>,
+851,Ploughing : GREAT KNOTT 2 Commercial,GREAT KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown North </li>;<li>Notes: Started </li>;</ul>,
+852,Ploughing : GREAT KNOTT 3 Commercial,GREAT KNOTT 3,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown North </li>;<li>Notes: Started </li>;</ul>,
+853,Ploughing: GREAT KNOTT 2 Commercial,GREAT KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North </li>;<li>Notes: Finished </li>;</ul>,
+854,Ploughing: GREAT KNOTT 3 Commercial,GREAT KNOTT 3,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North </li>;<li>Notes: Finished </li>;</ul>,
+855,Ploughing : CLAYCROFT Commercial,CLAYCROFT,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown West</li>;<li>Notes: Started </li>;</ul>,
+856,Ploughing: BLACKHORSE Commercial,BLACKHORSE,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North</li>;<li>Notes: Started</li>;</ul>,
+857,Ploughing: BLACKHORSE Commercial,BLACKHORSE,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North</li>;<li>Notes: Finished</li>;</ul>,
+858,Ploughing: OSIER Commercial,OSIER,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown South</li>;<li>Notes: Started</li>;</ul>,
+859,Ploughing: OSIER Commercial,OSIER,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown South</li>;<li>Notes: Finished</li>;</ul>,
+860,Ploughing: DELAFIELD Commercial,DELAFIELD,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East </li>;<li>Notes: Finished </li>;</ul>,
+861,Ploughing: STACKYARD Commercial,STACKYARD,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North</li>;<li>Notes: Started</li>;</ul>,
+862,Ploughing: STACKYARD Commercial,STACKYARD,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North </li>;<li>Notes: Finished </li>;</ul>,
+863,Ploughed : BUTT CLONG Commercial,Butt Clong,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughed </li>;<li>Direction thrown: Thrown East</li>;</ul>,
+864,Ploughed : BUTT CLONG Commercial,Butt Clong,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughed </li>;<li>Direction thrown: Thrown East</li>;</ul>,
+865,Ploughing: GREAT HILL Commercial,Great Hill,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown South</li>;</ul>,
+866,Ploughing: GREAT HILL Commercial,Great Hill,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown South</li>;</ul>,
+867,Ploughing: SAWYERS 3 Commercial,SAWYERS 3,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North </li>;</ul>,
+868,Ploughing: PASTURES Commercial,PASTURES,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown south</li>;</ul>,
+869,Ploughing: LITTLE KNOTT 1 Commercial,LITTLE KNOTT 1,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown South</li>;</ul>,
+870,Ploughing: LITTLE KNOTT 2 Commercial,LITTLE KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown South</li>;</ul>,
+871,Ploughed: DELHARDING Commercial,DELHARDING,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughed</li>;<li>Direction thrown: Thrown West</li>;<li>Notes: Ploughed west side to just past western copse. </li>;</ul>,
+872,Ploughing: BROAD MEAD Commercial,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;<li>Notes: Ploughed the surrounds of WW/2033</li>;</ul>,
+873,Ploughing: BROAD MEAD Commercial,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;</ul>,
+874,Ploughing: BROAD MEAD Commercial,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;</ul>,
+875,Ploughing: BROAD MEAD Commercial,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing</li>;</ul>,
+876,Ploughing : WEBBS Commercial,WEBBS,NHT7210;KV Five Furrow Plough,Ploughing;Commercial;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown East</li>;<li>Notes: Started</li>;</ul>,
+877,Press ploughing : FURZEFIELD Commercial,FURZEFIELD,JD6145R;Philip Watkins Press,Commercial;Cultipressing;Excel upload,<ul>;<li>Press ploughing </li>;</ul>,
+878,Press ploughing : WHITEHORSE 2 Commercial,WHITEHORSE 2,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,<ul>;<li>Press ploughing </li>;</ul>,
+879,Cultivation: GEESCROFT Commercial,GEESCROFT,JD6145R;Lemkin Karat 9KU,Cultipressing;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+880,Press: SAWYERS 3 Commercial,SAWYERS 3,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,<ul>;<li>Press</li>;</ul>,
+881,Press: PASTURES Commercial,PASTURES,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,<ul>;<li>Press</li>;</ul>,
+882,Press: LITTLE KNOTT 1 Commercial,LITTLE KNOTT 1,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,<ul>;<li>Press</li>;</ul>,
+883,Press: LITTLE KNOTT 2 Commercial,LITTLE KNOTT 2,JD6145R;Philip Watkins Press,Cultipressing;Commercial;Excel upload,<ul>;<li>Press</li>;</ul>,
+884,Rolled: BROADBALK Commercial,BROADBALK,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: Done to damage equisetum prior to sparaying with Glyphosate</li>;</ul>,
+885,Rolled: Stackyard Woburn Commercial,Stackyard Woburn,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+886,Rolled: BUTT CLONG Commercial,Butt Clong,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+887,Rolled: GREAT HILL Commercial,Great Hill,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+888,Rolled : AGDELL/HARWOODS Commercial,AGDELL/HARWOODS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+889,Rolled: GREAT KNOTT 1 Commercial,GREAT KNOTT 1,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: not sure did any good as was too hard and dry </li>;</ul>,
+890,Rolled : CLAYCROFT Commercial,CLAYCROFT,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+891,Rolled : DELHARDING Commercial,DELHARDING,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+892,Rolled: DRAPERS Commercial,DRAPERS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: Rolled established crop to try and flatten rough seed bed</li>;</ul>,
+893,Rolled: GREAT KNOTT 2 Commercial,GREAT KNOTT 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: Rolled established crop to try and flatten rough seed bed</li>;</ul>,
+894,Rolled: WARREN Commercial,Warren,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+895,Rolled: GREAT KNOTT 3 Commercial,GREAT KNOTT 3,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: Rolled established crop to try and flatten rough seed bed</li>;</ul>,
+896,Rolled: HIGHFIELD 4 Commercial,HIGHFIELD 4,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+897,Rolled : HIGHFIELD 5/6 Commercial,HIGHFIELD 5/6,JD6230;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+898,Rolled: LITTLE KNOTT 1 Commercial,LITTLE KNOTT 1,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+899,Rolled: LITTLE KNOTT 2 Commercial,LITTLE KNOTT 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+900,Rolled: LONG HOOS 4 Commercial,LONG HOOS 4,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+901,Rolled: NEW ZEALAND Commercial,NEW ZEALAND,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+902,Rolled: PARKLANDS Commercial,PARKLANDS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+903,Rolled: BROAD MEAD Commercial,Broad Mead,JD6620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: Rolled surrounds of WW/2033</li>;</ul>,
+904,Rolled: SAWYERS 1 Commercial,SAWYERS 1,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+905,Rolled: SAWYERS 2 Commercial,SAWYERS 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+906,Rolled: SAWYERS 3 Commercial,SAWYERS 3,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: This was done by mistake before field was drilled</li>;</ul>,
+907,Rolled : DELHARDING Commercial,DELHARDING,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;<li>Notes: Rolled Ploughing from 01/04/20</li>;</ul>,
+908,Rolled: SAWYERS 4 Commercial,SAWYERS 4,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+909,Rolled: SUMMERDELLS 1 Commercial,SUMMERDELLS 1,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+910,Rolled: SUMMERDELLS 2 Commercial,SUMMERDELLS 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+911,Rolled: WEBBS Commercial,WEBBS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: Rolled established crop to try and flatten rough seed bed</li>;</ul>,
+912,Rolled : WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+913,Rolled: WHITEHORSE 2 Commercial,WHITEHORSE 2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+914,Rolled: STACKYARD Commercial,STACKYARD,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+915,Rolled: GREAT FIELD 1/2 Commercial,GREAT FIELD 1/2,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: Phenotyping area - Rolled cover crops only not plots </li>;</ul>,
+916,Rolled: FURZEFIELD Commercial,FURZEFIELD,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+917,Rolled: GREAT FIELD 4 Commercial,GREAT FIELD 4,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+918,Rolled: GARDEN PLOTS Commercial,GARDEN PLOTS,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+919,Rolled : Broad Mead Commercial,Broad Mead,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+920,Rolled : SAWYERS 3 Commercial,SAWYERS 3,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+921,Rolled : PASTURES Commercial,PASTURES,JD5620;6m Flexicoil Cambridge Roll,Rolling;Commercial;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+924,Irrigation: PASTURES CM/2053,2020/R/CM/2053,Briggs Boom,Irrigation;Excel upload,<ul>;<li>Irrigation</li>;<li>Notes: Perrot Reel</li>;</ul>,
+925,Irrigation: PASTURES CM/2053,2020/R/CM/2053,Briggs Boom,Irrigation;Excel upload,<ul>;<li>Irrigation</li>;<li>Notes: Perrot Reel</li>;</ul>,
+926,Press ploughing : GREAT FIELD 1/2 RAW/2037,2020/R/RAW/2037,JD6145R;Philip Watkins Press,Cultipressing;Excel upload,<ul>;<li>Press ploughing </li>;</ul>,
+927,Press ploughing : RRES LSRE Site CS/790,RRES LSRE Site,JD6830;Philip Watkins Press,Cultipressing;Excel upload,"<ul>;<li>Press ploughing </li>;<li>Notes: Press ploughed plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55</li>;</ul>",
+928,Ploughing : Broad Mead CS/427,Broad Mead,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing </li>;</ul>,
+929,Ploughing: GREAT FIELD 1/2 RAW/2037,GREAT FIELD 1/2,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East</li>;</ul>,
+930,Ploughed: RRES LSRE Site CS/790,RRES LSRE Site,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,"<ul>;<li>Ploughed</li>;<li>Notes: Plots 2, 34, 36, 50 ploughed  </li>;</ul>",
+931,Press ploughing : RRES LSRE Site CS/790,RRES LSRE Site,JD6930;Philip Watkins Press,Ploughing;Excel upload,"<ul>;<li>Press ploughing </li>;<li>Notes: Plots 2, 34, 36, 50 pressed </li>;</ul>",
+932,Ploughing: BUTT CLONG CS/427,Butt Clong,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Notes: Heavy metal plots </li>;</ul>,
+934,Ploughing: NEW ZEALAND CS/760,NEW ZEALAND,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East </li>;</ul>,
+935,Press ploughing : SAWYERS 1 CS/715,SAWYERS 1,JD6145R;Philip Watkins Press,Ploughing;Excel upload,<ul>;<li>Press ploughing </li>;<li>Notes: Press South end only </li>;</ul>,
+936,Ploughing: SAWYERS 1 CS/715,SAWYERS 1,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown North </li>;<li>Notes: Rape stubble only </li>;</ul>,
+937,Ploughing : RRES LSRE Site CS/790,RRES LSRE Site,MF3070;Ransom 3 Furrow Plough,Ploughing;Excel upload,"<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown East</li>;<li>Notes: Ploughed plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55 - wheat plots </li>;</ul>",
+939,Ploughing: Stackyard Woburn RN/12,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East</li>;</ul>,
+940,Ploughing: Stackyard Woburn RN/3,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East </li>;</ul>,
+941,Ploughing: SAWYERS 1 CS/10,SAWYERS 1,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrrown North West</li>;</ul>,
+942,Ploughing: FOSTERS RN/2,FOSTERS,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown West</li>;<li>Notes: Ploughed all arable and fallow plots</li>;</ul>,
+943,Ploughing: GREAT FIELD 1/2 WS/2054,GREAT FIELD 1/2,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown South</li>;<li>Notes: Phenotyping area </li>;</ul>,
+944,Ploughing: Stackyard Woburn SOIL MINE,Stackyard Woburn,JD6620;WES Dowdeswell 100 Series Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;</ul>,
+945,Ploughing : HOOS FIELD EX/4,2020/R/EX/4,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown South</li>;</ul>,
+946,Ploughing : HOOS FIELD RS/9,2020/R/RS/9,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown South</li>;<li>Notes: acid strip</li>;</ul>,
+947,Ploughing : HOOS FIELD WF/3,2020/R/WF/3,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing </li>;<li>Direction thrown: Thrown South</li>;</ul>,
+948,Press ploughing : HOOS FIELD EX/4,2020/R/EX/4,JD6145R;Philip Watkins Press,Ploughing;Excel upload,<ul>;<li>Press ploughing </li>;</ul>,
+949,Press ploughing : HOOS FIELD RS/9,2020/R/RS/9,JD6145R;Philip Watkins Press,Ploughing;Excel upload,<ul>;<li>Press ploughing </li>;<li>Notes: acid strip</li>;</ul>,
+950,Press ploughing : HOOS FIELD WF/3,2020/R/WF/3,JD6145R;Philip Watkins Press,Ploughing;Excel upload,<ul>;<li>Press ploughing </li>;</ul>,
+951,Ploughing: FOSTERS CS/738,2020/R/CS/738,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown West</li>;</ul>,
+952,Ploughing: HOOS FIELD HB/2,HOOS BARLEY,NHT7210;KV Five Furrow Plough,Ploughing;Excel upload,"<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown South</li>;<li>Notes: Headlands, Finished </li>;</ul>",
+953,Ploughing: HIGHFIELD 1/2/3 CS/767,2020/R/CS/767,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,"<ul>;<li>Ploughing</li>;<li>Notes: Ploughed all arable and fallow plots except plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 22 and 25 as they were too wet</li>;</ul>",
+954,Ploughing: HIGHFIELD LEY ARABLES nan,HIGHFIELD LEY ARABLES,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,"<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown East</li>;<li>Notes: All Arable and fallow plots ploughed apart from Plots 29, 30, 43 and 44 as they were too wet </li>;</ul>",
+955,Ploughing: HIGHFIELD 1/2/3 CS/767,2020/R/CS/767,JD6230;Ransom 3 Furrow Plough,Ploughing;Excel upload,"<ul>;<li>Ploughing</li>;<li>Direction thrown: Thrown east</li>;<li>Notes: Ploughed plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 22 and 25</li>;</ul>",
+956,Rolled: WHITEHORSE 2 RAW/2025,2020/R/RAW/2025,JD6230;6m Flexicoil Cambridge Roll,Rolling;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+957,Rolled: RRES LSRE Site CS/790,RRES LSRE Site,JD6230;6m Flexicoil Cambridge Roll,Rolling;Excel upload,"<ul>;<li>Rolled</li>;<li>Notes: Rolled plots 2, 34, 36, 50</li>;</ul>",
+958,Plot Rolled: GREAT FIELD 1/2 RAW/2037,2020/R/RAW/2037,JD5070;Plot Rolls,Rolling;Excel upload,<ul>;<li>Plot Rolled</li>;</ul>,
+959,Rolled: SAWYERS 1 CS/715,2020/R/CS/715,6m Flexicoil Cambridge Roll,Rolling;Excel upload,<ul>;<li>Rolled</li>;<li>Notes: North end only (OSR)</li>;</ul>,
+960,Rolled: Stackyard Woburn RN/12,2020/W/RN/12,JD6620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+961,Rolled: BROADBALK BK/1,BROADBALK,JD5620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+962,Rolled: HOOS BARLEY HB/2,HOOS BARLEY,JD5620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+963,Rolled: RRES LSRE Site CS/790,RRES LSRE Site,JD5620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,"<ul>;<li>Rolled</li>;<li>Notes: Rolled plots 5, 7, 12 and 16</li>;</ul>",
+964,Rolled: RRES LSRE Site CS/790,RRES LSRE Site,6m Flexicoil Cambridge Roll,Rolling;Excel upload,"<ul>;<li>Rolled</li>;<li>Notes: Rolled plots 4, 9, 11, 15, 18, 28, 31, 35, 42, 48, 52 and 54</li>;</ul>",
+965,Rolled : Stackyard Woburn RN/3,2020/W/RN/3,JD6620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+966,Rolled: SAWYERS 1 WS/2047,2020/R/WS/2047,JD5620;Plot Rolls,Rolling;Excel upload,<ul>;<li>Rolled</li>;</ul>,
+967,Rolled : SAWYERS 1 WS/2049,2020/R/WS/2049,JD5620;Plot Rolls,Rolling;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+968,Rolled : SAWYERS 1 WS/2055,2020/R/WS/2055,JD5070;Plot Rolls,Rolling;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+969,Rolled : RRES LSRE Site CS/790,RRES LSRE Site,JD5620;6m Flexicoil Cambridge Roll,Rolling;Excel upload,<ul>;<li>Rolled </li>;<li>Notes: Rolled plots 20 and 53</li>;</ul>,
+970,Rolled : GREAT FIELD 1/2 WS/2054,2020/R/WS/2054,JD5620;Plot Rolls,Rolling;Excel upload,<ul>;<li>Rolled </li>;<li>Notes: Used plot rolls - rolled twice because seed bed was lumpy</li>;</ul>,
+971,Rolled : SAWYERS 1 CS/715,CS-715 Oat plots;CS-715 Oat surrounds;CS-715 Wheat Plots;CS-715 Wheat Surrounds,JD5620;6m Flexicoil Cambridge Roll,Excel upload;Rolling,<ul>;<li>Rolled </li>;</ul>,
+972,Powerharrow : GREAT FIELD 1/2 RAW/2037,2020/R/RAW/2037,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Powerharrow </li>;<li>Notes: Power harrow area ready for drilling plots</li>;</ul>,
+973,Power harrow : Stackyard Woburn RN/12,2020/W/RN/12,JD6620;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;</ul>,
+974,Power harrow : Stackyard Woburn RN/3,2020/W/RN/3,JD6620;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;</ul>,
+975,Power harrow : BYLANDS WW/2014,2020/R/WW/2014,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;</ul>,
+976,Cultivation: MEADOW WW/2029,2020/R/WW/2029,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Cultivation</li>;<li>Notes: Across direction of drilling </li>;</ul>,
+977,Power harrow: NEW ZEALAND CS/760,2020/R/CS/760,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: In same direction as drilling</li>;</ul>,
+978,Power harrow: LONG HOOS 5 CS/773,2020/R/CS/773,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: In same direction as drilling</li>;</ul>,
+979,Power harrow: LONG HOOS 4 CS/778,2020/R/CS/778,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: In same direction as drilling</li>;</ul>,
+980,Power harrow: LONG HOOS 6/7 CS/789,2020/R/CS/789,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: In same direction as drilling</li>;</ul>,
+981,Power harrow: LONG HOOS 1/2 + 3 WW/2019,2020/R/WW/2019,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: 90 degees to direction of drilling</li>;</ul>,
+982,Power harrow: LONG HOOS 1/2 + 3 WW/2022,2020/R/WW/2022,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: In same direction as drilling</li>;</ul>,
+983,Power harrow : MEADOW WW/2015,2020/R/WW/2015,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;</ul>,
+984,Power harrow : MEADOW WW/2016,2020/R/WW/2016,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;</ul>,
+985,Power harrow : OSIER WW/2017,2020/R/WW/2017,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;</ul>,
+986,Power harrow : OSIER WW/2030,2020/R/WW/2030,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;</ul>,
+987,Power harrow : OSIER WW/2031+2034,2020/R/WW/2031+2034,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;</ul>,
+988,Power harrow : OSIER WW/2030,2020/R/WW/2030,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;<li>Notes: Done in North/South direction</li>;</ul>,
+989,Power harrow : OSIER WW/2006,2020/R/WW/2006,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;<li>Notes: Done in North/South direction</li>;</ul>,
+990,Power harrowed : OSIER WW/2011,2020/R/WW/2011,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrowed </li>;<li>Notes: Done in North/South direction</li>;</ul>,
+991,Cultivation: RRES LSRE Site CS/790,RRES LSRE Site,JD6930;Bomford Flexitine,Tillage;Excel upload,"<ul>;<li>Cultivation</li>;<li>Notes: Cultivate Inversion Wheat plots, 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55, Condition: wet</li>;</ul>",
+992,Power harrow : OSIER WW/2045,2020/R/WW/2045,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;<li>Notes: WW/2045 only </li>;</ul>,
+993,Power harrow: OSIER WW/2026,2020/R/WW/2026,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: Done in East/West direction</li>;</ul>,
+994,Power harrow : OSIER WW/2039,2020/R/WW/2039,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;<li>Notes: Done in East/West direction - across direction of plot drilling </li>;</ul>,
+995,Power harrow : OSIER WW/2042,2020/R/WW/2042,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;<li>Notes: Done in East/West direction - across direction of plot drilling </li>;</ul>,
+996,Power harrow: OSIER WW/2035+2046,2020/R/WW/2035+2046,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow</li>;<li>Notes: Done in East/West direction</li>;</ul>,
+997,Power harrow : SAWYERS 1 CS/10,2020/R/CS/10,JD6930;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrow </li>;<li>Notes: Done in roughly N/S direction </li>;</ul>,
+998,Cultivation : HOOS FIELD EX/4,2020/R/EX/4,JD6830;Bomford Flexitine,Tillage;Excel upload,<ul>;<li>Cultivation </li>;</ul>,
+999,Cultivation : HOOS FIELD RS/9,2020/R/RS/9,JD6830;Bomford Flexitine,Tillage;Excel upload,<ul>;<li>Cultivation </li>;<li>Notes: Acid Strip</li>;</ul>,
+1000,Cultivation : HOOS FIELD WF/3,2020/R/WF/3,JD6830;Bomford Flexitine,Tillage;Excel upload,<ul>;<li>Cultivation </li>;</ul>,
+1001,Power harrowed : HIGHFIELD 1/2/3 CS/767,2020/R/CS/767,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,"<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed plots 01, 03, 04, 05, 07, 08, 08.2, 08.3, 11, 12, 14, 15, 16 and 18</li>;</ul>",
+1002,Power harrowed : RRES LSRE Site CS/790,RRES LSRE Site,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,"<ul>;<li>Power harrowed </li>;<li>Direction thrown: North/South </li>;<li>Notes: plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51, 55</li>;</ul>",
+1003,Power harrowed : HIGHFIELD LEY ARABLES nan,HIGHFIELD LEY ARABLES,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,"<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed plots 03, 04, 07 and 08</li>;</ul>",
+1004,Power harrowed : HIGHFIELD 1/2/3 CS/767,2020/R/CS/767,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,"<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed plots 19, 20, 22, 24, 25, 27, 28, 29, 32 and 33</li>;</ul>",
+1005,Power harrowed : HIGHFIELD LEY ARABLES RN/1,2020/R/RN/1,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,"<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed plots 15, 16, 17, 18, 21, 22, 25, 26, 29, 30, 35, 36, 37, 38, 43 and 44</li>;</ul>",
+1006,Cultivation: Stackyard Woburn RN/3,2020/W/RN/3,JD6620;WES Chisel Plough,Tillage;Excel upload,<ul>;<li>Cultivation</li>;<li>Notes: Chisel plough - 1st year grass plots</li>;</ul>,
+1007,Cultivation: WHITEHORSE 2 Commercial,WHITEHORSE 2,JD6145R;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+1008,Cultivation : WEST BARNFIELD 1/2 Commercial,WEST BARNFIELD 1/2,NHT7210;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation </li>;</ul>,
+1009,Cultivation: DELHARDING Commercial,DELHARDING,NHT7210;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+1010,Power harrowed : RRES LSRE Site CS/790,RRES LSRE Site,JD6145R;Kuhn Powerharrow 3m,Tillage;Excel upload,"<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed plots 20 &amp; 53 before drilling, Plot 20 had to go over twice</li>;</ul>",
+1011,Cultivation: STACKYARD Commercial,STACKYARD,NHT7210;Lemkin Karat 9KU,Tillage;Commercial;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+1012,Power Harrow of Broadbalk Outer areas,BROADBALK,JD6145R;Kuhn Powerharrow 3m,Power Harrow,,
+1013,Cultivation : Stackyard Woburn WW/2001,2020/W/WW/2001,JD5070,Tillage;Excel upload,"<ul>;<li>Cultivation </li>;<li>Notes: Cultivated using same wheel marks as we will use when drilling plots, 2m Spring tyne</li>;</ul>",
+1442,Cleaning Grain Store ,Farm Biuldings & Yard,,,<p>Bays 4 &amp; 5 started<br />;grain store near diesel tank</p>,
+1443,Cleaning Grain Store ,Farm Biuldings & Yard,,,"<p>Bays 4 &amp; 5 finished, Bay 3 started<br />;Grain store near diesel tank</p>",
+1476,Topped: BUTT CLONG Commercial ,Butt Clong,JD6620;WES 3m Front Topper,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1477,Topped: GREAT HILL Commercial ,Great Hill,JD6620;WES 3m Front Topper,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1478,Topped: Stackyard Woburn Commercial ,Stackyard Woburn,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1479,Topped: LANSOME Commercial ,Lansome,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1480,Topped: Stackyard Woburn RN/12,2020/W/RN/12,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: topping paths </li>;</ul>,
+1481,Topped: Stackyard Woburn RN/3,2020/W/RN/3,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: topping paths </li>;</ul>,
+1482,Topped: BROAD MEAD Commercial,Broad Mead,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1483,Topped: BUTT CLONG Commercial,Butt Clong,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1484,Topped: Stackyard Woburn Commercial,Stackyard Woburn,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1485,Topped: BUTT CLONG Commercial ,Butt Clong,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1486,Topped: Stackyard Woburn Commercial ,Stackyard Woburn,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1487,Topped: GREAT HILL Commercial ,Great Hill,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1488,Topped: LANSOME Commercial ,Lansome,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1489,Topped: Stackyard Woburn RN/12,2020/W/RN/12,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Paths</li>;</ul>,
+1490,Topped: Stackyard Woburn RN/3,2020/W/RN/3,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Paths</li>;</ul>,
+1491,Topped: BUTT CLONG CS/427,Butt Clong,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1492,Topped: Broad Mead Commercial,Broad Mead,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1493,Topped: GREAT HILL Commercial,Great Hill,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1494,Topped: LANSOME Commercial,Lansome,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1495,Topped: BROAD MEAD Commercial,Broad Mead,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Broadmead - North corner where 2020 trial will be placed</li>;</ul>,
+1496,Topped: FURZEFIELD Commercial,FURZEFIELD,JD6930;Batwing Topper,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1497,Topped: OSIER Commercial,OSIER,JD6930;Batwing Topper,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1498,Topped: WHITEHORSE 2 Commercial,WHITEHORSE 2,JD6930;Batwing Topper,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1499,Topped: GREAT KNOTT 1 Commercial,GREAT KNOTT 1,JD6930;Batwing Topper,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1500,Path cutting: LODGE PADDOCK G/1947,LODGE PADDOCK,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Path cutting</li>;</ul>,
+1501,Path cutting: LODGE PADDOCK G/1948,LODGE PADDOCK,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Path cutting</li>;</ul>,
+1502,Path cutting: HIGHFIELD CS/757,2020/R/CS/757,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Path cutting</li>;</ul>,
+1503,Path cutting: HIGHFIELD CS/758,2020/R/CS/758,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Path cutting</li>;</ul>,
+1504,Path cutting: PARKGRASS PG/5,2020/R/PG/5,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Path cutting</li>;</ul>,
+1505,Topped: STACKYARD Commercial,STACKYARD,JD6145R;Batwing Topper,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1506,Topped: Stackyard Woburn RN/12,2020/W/RN/12,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1507,Topped: Stackyard Woburn RN/3,2020/W/RN/3,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1508,Topped: Stackyard Woburn RN/12,2020/W/RN/12,JD6620;Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Topping straw on 4 plots </li>;</ul>,
+1509,Path cutting: PARKGRASS PG/5,2020/R/PG/5,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Path cutting</li>;<li>Notes: topped all paths</li>;</ul>,
+1510,Mow: BLACKHORSE CS/780,BLACKHORSE,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 1</li>;</ul>",
+1511,Mow: BONES CLOSE CS/780,BONES CLOSE,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 9</li>;</ul>",
+1512,Mow: DRAPERS CS/780,DRAPERS,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 6</li>;</ul>",
+1513,Mow: FOSTERS CORNER CS/780,FOSTERS CORNER,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 13</li>;</ul>",
+1514,Mow: GREAT KNOTT 1 CS/780,GREAT KNOTT 1,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 11</li>;</ul>",
+1515,Mow: GREAT KNOTT 3 CS/780,GREAT KNOTT 3,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 12</li>;</ul>",
+1516,Mow: LITTLE HOOS CS/780,LITTLE HOOS,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 14</li>;</ul>",
+1517,Mow: LONG HOOS 1/2 + 3 CS/780,LONG HOOS 1/2 + 3,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 15</li>;</ul>",
+1518,Mow: MEADOW CS/780,MEADOW,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 2</li>;</ul>",
+1519,Mow: MEADOW CS/780,MEADOW,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 3</li>;</ul>",
+1520,Mow: OSIER CS/780,OSIER,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 4</li>;</ul>",
+1521,Mow: PASTURES CS/780,PASTURES,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 10</li>;</ul>",
+1522,Mow: SAWYERS 3 CS/780,SAWYERS 3,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 16</li>;</ul>",
+1523,Mow: SUMMERDELLS 1 CS/780,SUMMERDELLS 1,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 7</li>;</ul>",
+1524,Mow: SUMMERDELLS 2 CS/780,SUMMERDELLS 2,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 8</li>;</ul>",
+1525,Mow: WEBBS CS/780,WEBBS,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,"<ul>;<li>Mow</li>;<li>Notes: headlands, Margin 5</li>;</ul>",
+1526,Mow: PARKGRASS PG/5,2020/R/PG/5,JD6230;Kuhn Mower Conditioner,Topping;Excel upload,<ul>;<li>Mow</li>;<li>Notes: Cut all plots and surrounds before baling</li>;</ul>,
+1527,Topped: Stackyard Woburn RN/12,2020/W/RN/12,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Topping grass plot paths </li>;</ul>,
+1528,Topped: Stackyard Woburn RN/3,2020/W/RN/3,ISTH4335;Kilworth Topper,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Topping grass plot paths </li>;</ul>,
+1529,Topped: Stackyard Woburn RN/12,2020/W/RN/12,Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Stackyard </li>;</ul>,
+1530,Topped: Stackyard Woburn RN/3,2020/W/RN/3,Topper 9,Topping;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Stackyard </li>;</ul>,
+1531,Topped: LITTLE KNOTT 1 Commercial,LITTLE KNOTT 1,Batwing Topper,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1532,Topped: LITTLE KNOTT 2 Commercial,LITTLE KNOTT 2,Batwing Topper,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;</ul>,
+1533,Topped: BROADBALK Commercial,Broadbalk Wilderness Mown Area,ISTH4335;Kilworth Topper,Commercial;Excel upload;Topping,<ul>;<li>Topped</li>;<li>Notes: Wilderness mown area</li>;</ul>,
+1534,Topped: GREAT HILL Commercial,Great Hill,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1535,Topped: BUTT CLONG Commercial,Butt Clong,JD6620;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Grass surrounds</li>;</ul>,
+1536,Topped: BLACKHORSE Commercial,BLACKHORSE,MF3070;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Topped flowering margins to contol black grass</li>;</ul>,
+1537,Topped: SUMMERDELLS 1 Commercial,SUMMERDELLS 1,MF3070;Topper 9,Topping;Commercial;Excel upload,<ul>;<li>Topped</li>;<li>Notes: Topped flowering margins between Summerdells 1 &amp;2 to contol black grass </li>;</ul>,
+1538,Cultivation: Stackyard Woburn nan,Stackyard Woburn,JD6620,Tillage;Excel upload,<ul>;<li>Cultivation</li>;<li>Notes: Cousings Spring Tines</li>;</ul>,
+1539,Cultivation : BROADBALK nan,BROADBALK,JD6830;Bomford Flexitine,Tillage;Excel upload,<ul>;<li>Cultivation </li>;<li>Notes: Section 8 done twice</li>;</ul>,
+1540,Cultivation: BROAD MEAD WW/2033,2020/W/WW/2033,JD6620;WES 3m Triple K Spring Tynes,Tillage;Excel upload,<ul>;<li>Cultivation</li>;</ul>,
+1541,Cultivation: BROAD MEAD WW/2033,2020/W/WW/2033,JD6620;WES 3m Triple K Spring Tynes,Tillage;Excel upload,<ul>;<li>Cultivation</li>;<li>Notes: Second time in 2 days - to try and break up lumps</li>;</ul>,
+1542,Power harrowed : FOSTERS LEY ARABLES nan,FOSTERS LEY ARABLES,JD6230;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrowed </li>;<li>Notes: Power harrowed all arable and fallow plots</li>;</ul>,
+1543,Power harrowed : BROAD MEAD WW/2033,2020/W/WW/2033,JD6620;Kuhn Powerharrow 3m,Tillage;Excel upload,<ul>;<li>Power harrowed </li>;</ul>,
+1544,Rolled : BROAD MEAD WW/2033,2020/W/WW/2033,JD5070;6m Flexicoil Cambridge Roll,Rolling;Excel upload,<ul>;<li>Rolled </li>;</ul>,
+1556,Grubbing: WHITTLOCKS CS/785,2020/R/CS/785,By Hand ,Hand weeding;Excel upload,<ul>;<li>Grubbing</li>;<li>Notes: brambles grubbed out by hand with mattocks</li>;</ul>,
+1557,Grubbing: ROADPIECE CS/792,2020/R/CS/792,By Hand ,Hand weeding;Excel upload,<ul>;<li>Grubbing</li>;<li>Notes: brambles grubbed out by hand with mattocks</li>;</ul>,
+1689,Cleaning Grain Store ,Farm Biuldings & Yard,,,"<p>Bay 3 finished, Bay 2 started<br />;Grain store near diesel tank</p>",
+1690,Cut plot ends in section 8,BROADBALK,JD5620;McConnel SE 6 Topper,Topping,<p>Plot ends in section 8 cannot be sprayed off so have to be cut with a tractor and topper. Allows use of GPS for accuracy. JD5620 had narrow wheels on so wheels were inside the width of the topper.</p>,
+1719,Cleaning Grain Store ,Farm Biuldings & Yard,,,"<p>Bay 2 finished, Grain store near diesel tank</p>",
+1745,Topping,Woburn Farm Yard,JD6620;WES Topper 9,Topping,,
+1746,Topping,Great Hill,WES Topper 9;JD6620,Topping,<p>Grass Areas</p>,
+1747,Topping,Butt Clong,JD6620;WES Topper 9,Topping,<p>Grass Areas</p>,
+1753,All Grain Trailers Power Washed ,Farm Biuldings & Yard,,Equipment,,
+1754,Topping,Lansome,JD6620;WES Topper 9,Topping,,
+1755,Baling Grass,2020/W/RN/12;2020/W/RN/3,Claas Baler;JD6620,Baling,,
+1756,Row up grass,2020/W/RN/12;2020/W/RN/3,Tedder;JD6620,Rowing up,,
+1757,Mowed,2020/W/RN/12;2020/W/RN/3,JD6620,Mowing,<p>Machine used: Unifarm Mower<br />;Mowed Grass Trails</p>,
+1758,Topping,Stackyard Woburn,JD6620;WES Topper 9,Topping,<p>Grass Areas</p>,
+1761,Wild Oat Count,BROADBALK;Section 8,By Hand ,Hand weeding,<p>Oats found in plot 108</p>,
+1769,Topping,RRES LSRE Site,MF3070;Topper 9,Topping,<p>Topped paths and plot ends</p>,
+1773,Wild Oat Count,HOOS BARLEY,,Hand weeding,,
+1774,Topping,LITTLE KNOTT 1,MF3070;Topper 9,Topping,<p>topping rough grass</p>,
+1775,Topping,LITTLE HOOS,MF3070;Topper 9,Topping,<p>Topped Second year Grass Plot 3</p>,
+1776,Topping,GREAT HARPENDEN 1,MF3070;Topper 9,Topping,"<p>Top of Second Year Glass Plots. Plot 19 ,21 and 30.</p>",
+1778,Cut grass plots ,RRES LSRE Site,Kuhn Mower Conditioner;Tym T503,Mowing,<p>Inversion grass plots only</p>,
+1779,Rolled,GREAT HARPENDEN 1,JD6230;6m Flexicoil Cambridge Roll,Rolling,<p>Rolled Plots 20 and 53</p>,
+1780,Baling Grass,RRES LSRE Site,Claas Baler;JD6230,Baling,<p>Inversion grass plots</p>,
+1784,Topping,Broadbalk Wilderness Mown Area,MF3070;Topper 9,Topping,,
+1786,Path cutting ,2020/R/WW/2014;2020/R/WW/2016,JD5620;McConnel SE 6 Topper,Topping,,
+1787,Path cutting,2020/R/WW/2029;2020/R/WW/2032;2020/R/WW/2017;2020/R/WW/2045,McConnel SE 6 Topper;JD5620,Topping,,
+1793,Cultivation: Ploughed Tillage 0 cm in GREAT KNOTT 2,GREAT KNOTT 2,JD6930;Philip Watkins Press,Cultipressing,,4.5
+1794,Cultivation: Ploughed Tillage 0 cm in GREAT KNOTT 3,GREAT KNOTT 3,JD6930;Philip Watkins Press,Cultipressing,,4.5
+1795,Cultivation: Ploughed Tillage 20 cm in GREAT KNOTT 2,GREAT KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing,<p>Started</p>,17
+1796,Cultivation: Ploughed Tillage 20 cm in GREAT KNOTT 2,GREAT KNOTT 2,NHT7210;KV Five Furrow Plough,Ploughing,<p>Finished</p>,17
+1797,Cultivation: Ploughed Tillage 20 cm in GREAT KNOTT 3,GREAT KNOTT 3,NHT7210;Knight 24m Sprayer,Ploughing,<p>Started</p>,17
+1798,Cultivation: Ploughed Tillage 20 cm in GREAT KNOTT 3,GREAT KNOTT 3,NHT7210;Knight 24m Sprayer,Ploughing,<p>Finished</p>,17
+1844,Topping,WHITEHORSE 2,Batwing Topper;JD6830;JD6930,Topping,,

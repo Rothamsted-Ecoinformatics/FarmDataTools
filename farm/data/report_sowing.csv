@@ -1,0 +1,599 @@
+log_id,log_date,log_name,field,areas,crops,equipment_list,categories,hours,rate,operators,raw_operators,notes,raw_notes,raw_quantity
+https://rothamstedfarm.farmos.net/log/181,2019-09-07 00:00:00,Drilling: DK ExStar in SAWYERS 1 CS715,,SAWYERS 1 CS715,DK ExStar,Weaving Drill,,0:00:00,Seed rate (SM2): 60 seeds/m2,Chris Mackay,['16'],Dressing: Radiate;North end only,"<p>Dressing: Radiate<br />
+North end only</p>
+","[{'measure': 'rate', 'value': '60', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/185,2019-08-09 00:00:00,Drilling: DK ExStar in LONG HOOS 6/7,,LONG HOOS 6/7,DK ExStar,Weaving Drill,Plantings,0:00:00,Seed rate (SM2): 50 seeds/m2,Chris Mackay,['16'],Seed dressing: Radiate,"<p>Seed dressing: Radiate</p>
+","[{'measure': 'rate', 'value': '50', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/186,2019-08-09 00:00:00,Drilling: DK ExStar in LONG HOOS 5,,LONG HOOS 5,DK ExStar,Weaving Drill,,0:00:00,Seed rate (SM2): 50 seeds/m2,Chris Mackay,['16'],seed dressing: Radiate,"<p>seed dressing: Radiate</p>
+","[{'measure': 'rate', 'value': '50', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/187,2019-08-09 00:00:00,Drilling: DK ExStar in GREAT HARPENDEN 2,,GREAT HARPENDEN 2,DK ExStar,Weaving Drill,,0:00:00,Seed rate (SM2): 50 seeds/m2,Chris Mackay,['16'],Seed dressing: radiate,"<p>Seed dressing: radiate</p>
+","[{'measure': 'rate', 'value': '50', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/188,2019-08-12 00:00:00,Drilling: Barbados in GREAT FIELD 1/2,,GREAT FIELD 1/2,Barbados,Weaving Drill,,0:00:00,Seed rate (SM2): 70 seeds/m2,Richard Ostler,['17'],Seed dressing: Detornator;Drilled around RAW/2037,"<p>Seed dressing: Detornator</p>
+<p>Drilled around RAW/2037</p>
+","[{'measure': 'rate', 'value': '70', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/189,2019-08-15 00:00:00,Drilling: Barbados in WHITEHORSE 1,,WHITEHORSE 1,Barbados,Weaving Drill,,0:00:00,Seed rate (SM2): 70 seeds/m2,Chris Mackay,['16'],Seed dressing: Detornator,"<p>Seed dressing: Detornator</p>
+","[{'measure': 'rate', 'value': '70', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/190,2019-08-19 00:00:00,Drilling: DK ExStar in GREAT FIELD 1/2,,GREAT FIELD 1/2,DK ExStar,Weaving Drill,,0:00:00,Seed rate (SM2): 50 seeds/m2,Chris Mackay,['16'],"seed dressing: Radiate;odds and ends, redrilled due to failed first crop","<p>seed dressing: Radiate</p>
+<p>odds &amp; ends, redrilled due to failed first crop</p>
+","[{'measure': 'rate', 'value': '50', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/191,2019-08-19 00:00:00,Drilling: Barbados in FURZEFIELD,,FURZEFIELD,Barbados,Weaving Drill,,0:00:00,Seed rate (SM2): 70 seeds/m2,Richard Ostler,['17'],seed dressing: Detonator;All field,"<p>seed dressing: Detonator</p>
+<p>All field</p>
+","[{'measure': 'rate', 'value': '70', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/215,2019-08-16 00:00:00,Drilling: Barbados in WHITEHORSE 2,WHITEHORSE 2,2020/R/RAW/2027,Barbados,Weaving Drill,,0:00:00,Seed rate (SM2): 70 seeds/m2,Chris Mackay,['16'],seed dressing: Detonator,"<p>seed dressing: Detonator</p>
+","[{'measure': 'rate', 'value': '70', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/219,2019-08-19 00:00:00,Drilling: Barbados in 2020/R/RAW/2025 WHITEHORSE 2,WHITEHORSE 2,2020/R/RAW/2025,Barbados,Weaving Drill,Plantings,0:00:00,Seed rate (SM2): 70 seeds/m2,Chris Mackay,['16'],Seed dressing: Detonator,"<p>Seed dressing: Detonator</p>
+","[{'measure': 'rate', 'value': '70', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/222,2019-08-19 00:00:00,Drilling: Barbados in WHITEHORSE 2,,WHITEHORSE 2,Barbados,Accord Combination Drill,,0:00:00,Seed rate (SM2): 70 seeds/m2,Chris Mackay,['16'],"seed dressing: Detonator;Commercial, surrounds of RAW/2025 drilled - drilled with 3m combination drill","<p>seed dressing: Detonator<br />
+Commercial, surrounds of RAW/2025 drilled - drilled with 3m combination drill</p>
+","[{'measure': 'rate', 'value': '70', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/227,2019-08-20 00:00:00,Drilling: Barbados in LONG HOOS 5,,LONG HOOS 5,Barbados,Weaving Drill,,0:00:00,Seed rate (SM2): 30 seeds/m2,Chris Mackay,['16'],Seed dressing: Radiate;odds and ends,"<p>Seed dressing: Radiate<br />
+odds &amp; ends</p>
+","[{'measure': 'rate', 'value': '30', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/228,2019-08-20 00:00:00,Drilling: Barbados in LONG HOOS 6/7,,LONG HOOS 6/7,Barbados,Weaving Drill,,0:00:00,Seed rate (SM2): 30 seeds/m2,Chris Mackay,['16'],Seed dressing: Radiate;odds and ends,"<p>Seed dressing: Radiate<br />
+odds &amp; ends</p>
+","[{'measure': 'rate', 'value': '30', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/229,2019-08-20 00:00:00,Drilling: Barbados in GREAT HARPENDEN 2,,GREAT HARPENDEN 2,Barbados,Weaving Drill,,0:00:00,Seed rate (SM2): 80 seeds/m2,Chris Mackay,['16'],Seed dressing: Radiate;Redrilled failed crop,"<p>Seed dressing: Radiate<br />
+Redrilled failed crop</p>
+","[{'measure': 'rate', 'value': '80', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/230,2019-08-21 00:00:00,Drilling: Barbados in HOOSFIELD,HOOS FIELD,HOOS FIELD - direct drilled section,Barbados,Weaving Drill,,0:00:00,Seed rate (SM2): 80 seeds/m2,Chris Mackay,['16'],Seed dressing: Radiate;Direct drilled area (ex CS/477),"<p>Seed dressing: Radiate<br />
+Direct drilled area (ex CS/477)</p>
+","[{'measure': 'rate', 'value': '80', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/517,2020-05-15 00:00:00,Drilling: Camelina in PASTURES,PASTURES,2020/R/CM/2053,Camelina,JD5070;Haldrup SB25 Plot Drill,,0:00:00,,Chris Mackay,['16'],,,"[{'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/519,2020-05-15 00:00:00,Drilling: Camelina in PASTURES,,PASTURES,Camelina,JD6830;Accord Combination Drill,,0:00:00,Seed rate (Kg/Ha): 4.52 kg/ha,Chris Mackay,['16'],Pollen Barrier (WT Camelina),"<p>Pollen Barrier (WT Camelina)</p>
+","[{'measure': 'weight', 'value': '1.13', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/503', 'id': '503', 'resource': 'taxonomy_term', 'name': 'grams'}, 'label': 'Thousand grain weight (TGW)'}, {'measure': 'rate', 'value': '300', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'rate', 'value': '4.52', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate (Kg/Ha)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/533,2020-06-04 00:00:00,Drilling: Experiment in Fosters 4,FOSTERS O+Es 4,2020/R/RAS/2056,Experiment,JD5070;Haldrup SB25 Plot Drill,Plantings,0:00:00,,Chris Mackay;Martin Gardner,"['16', '20']",Guard plots: 10g Barbados OSR,"<p>Guard plots: 10g Barbados OSR</p>
+","[{'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/584,2020-06-15 00:00:00,Drilling: Empress in RRES LSRE Site,,RRES LSRE Site,Empress,JD6830;Accord Combination Drill,,0:00:00,Seed rate (Kg/Ha): 51 kg/ha,Tim Hall,['41'],"Plots 20, 53 only - Re-drilled","<p>Plots 20, 53 only - Re-drilled</p>
+","[{'measure': 'rate', 'value': '650', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'rate', 'value': '51', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate (Kg/Ha)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/585,2020-06-15 00:00:00,Drilling: Vitaro in RRES LSRE Site,,RRES LSRE Site,Vitaro,JD6830;Accord Combination Drill,,0:00:00,Seed rate (Kg/Ha): 11 kg/ha,Tim Hall,['41'],Plot 46 - re-drilled,"<p>Plot 46 - re-drilled</p>
+","[{'measure': 'rate', 'value': '11', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate (Kg/Ha)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1569,2019-10-31 00:00:00,Drilling: Crusoe in FOSTERS,FOSTERS,2020/R/CS/738,Crusoe,JD6830;Accord Combination Drill,Plantings,0:00:00,Seed rate (SM2): 350 seeds/m2,Tim Hall,['41'],CS/738 and Odds and Ends,"<p>CS/738 and Odds &amp; Ends</p>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1570,2020-03-28 00:00:00,Drilling: Elyann in Warren,,Warren,Elyann,WES Accord 4m Tyne Drill;JD6620,,0:00:00,Seed rate (SM2): 136 seeds/m2,Christoph Russell,['37'],,,"[{'measure': 'rate', 'value': '136', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"
+https://rothamstedfarm.farmos.net/log/1573,2019-10-03 00:00:00,Seeding: winter barley KWS Tower in HOOS FIELD - direct drilled section Commercial,HOOS FIELD,HOOS FIELD - direct drilled section,KWS Tower,JD6830;Weaving Drill,Commercial;Plantings;Excel upload,,Seed rate KWS Tower : 350 seeds/m2,Tim Hall,['41'],"Direct Drilled ; Direct drilled area (ex CS/477), old seed","<ul>
+<li>Direct Drilled </li>
+<li>Notes: Direct drilled area (ex CS/477), old seed </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate KWS Tower '}]"
+https://rothamstedfarm.farmos.net/log/1574,2019-12-02 00:00:00,Seeding: winter wheat Siskin in WEBBS Commercial,,WEBBS,Siskin,JD6830;Accord Combination Drill,Commercial;Excel upload;Plantings,,Seed rate Siskin : 425 seeds/m2,Tim Hall,['41'],Drilled W Wheat,"<ul>
+<li>Drilled W Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '425', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Siskin '}]"
+https://rothamstedfarm.farmos.net/log/1575,2019-12-03 00:00:00,Seeding: winter wheat Siskin in GREAT KNOTT 1 Commercial,,GREAT KNOTT 1,Siskin,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Siskin : 425 seeds/m2,Tim Hall,['41'],Dilled W Wheat,"<ul>
+<li>Dilled W Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '425', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Siskin '}]"
+https://rothamstedfarm.farmos.net/log/1576,2019-12-04 00:00:00,Seeding: winter wheat Siskin in GEESCROFT Commercial,,GEESCROFT,Siskin,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Siskin : 425 seeds/m2,Tim Hall,['41'],Drilled W Wheat,"<ul>
+<li>Drilled W Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '425', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Siskin '}]"
+https://rothamstedfarm.farmos.net/log/1577,2020-01-30 00:00:00,Seeding: winter wheat Siskin in Stackyard Woburn Commercial,,Stackyard Woburn,Siskin,JD6620;WES Accord 4m Tyne Drill,Commercial;Plantings;Excel upload,,Seed rate Siskin : 425 seeds/m2,Rob,['40'],"Drilled W Wheat ; Classicals, Drilled surround of WW/2001 - Roughly 6 to 12m surrounding experiment","<ul>
+<li>Drilled W Wheat </li>
+<li>Notes: Classicals, Drilled surround of WW/2001 - Roughly 6 to 12m surrounding experiment</li>
+</ul>
+","[{'measure': 'rate', 'value': '425', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Siskin '}]"
+https://rothamstedfarm.farmos.net/log/1578,2020-01-31 00:00:00,Seeding: winter wheat Graham in OSIER Commercial,,OSIER,Graham,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Graham : 450 seeds/m2,Tim Hall,['41'],"Dilled W Wheat ; Odds and Ends, Started","<ul>
+<li>Dilled W Wheat </li>
+<li>Notes: Odds &amp; Ends, Started </li>
+</ul>
+","[{'measure': 'rate', 'value': '450', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1579,2020-02-05 00:00:00,Seeding: winter wheat Graham in OSIER Commercial,,OSIER,Graham,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Graham : 450 seeds/m2,Tim Hall,['41'],"Dilled W Wheat ; Odds and Ends, Finished","<ul>
+<li>Dilled W Wheat </li>
+<li>Notes: Odds &amp; Ends, Finished</li>
+</ul>
+","[{'measure': 'rate', 'value': '450', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1580,2020-02-06 00:00:00,Seeding: winter beans Tundra in STACKYARD Commercial,,STACKYARD,Tundra,JD6930;Amzone Disc Spreader ,Commercial;Plantings;Excel upload,,Seed rate Tundra : False kg/ha,Fred,['39'],Spun on W Beans before ploughing in; Started,"<ul>
+<li>Spun on W Beans before ploughing in</li>
+<li>Notes: Started</li>
+</ul>
+","[{'measure': 'rate', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Tundra '}]"
+https://rothamstedfarm.farmos.net/log/1581,2020-02-07 00:00:00,Seeding: winter wheat Graham in BYLANDS Commercial,,BYLANDS,Graham,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Graham : 450 seeds/m2,Tim Hall,['41'],Drilled W Wheat ; Finished,"<ul>
+<li>Drilled W Wheat </li>
+<li>Notes: Finished </li>
+</ul>
+","[{'measure': 'rate', 'value': '450', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1582,2020-02-07 00:00:00,Seeding: winter wheat Graham in LONG HOOS 1/2 + 3 Commercial,,LONG HOOS 1/2 + 3,Graham,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Graham : 450 seeds/m2,Tim Hall,['41'],Dilled W Wheat ; Odds and Ends only,"<ul>
+<li>Dilled W Wheat </li>
+<li>Notes: Odds &amp; Ends only</li>
+</ul>
+","[{'measure': 'rate', 'value': '450', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1583,2020-02-07 00:00:00,Seeding: winter wheat Graham in MEADOW Commercial,,MEADOW,Graham,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Graham : 450 seeds/m2,Tim Hall,['41'],Drilled W Wheat ; Finished,"<ul>
+<li>Drilled W Wheat </li>
+<li>Notes: Finished </li>
+</ul>
+","[{'measure': 'rate', 'value': '450', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1584,2020-02-07 00:00:00,Seeding: winter beans Tundra in STACKYARD Commercial,,STACKYARD,Tundra,JD6930;Amzone Disc Spreader ,Commercial;Plantings;Excel upload,,Seed rate Tundra : False kg/ha,Fred,['39'],Spun on W Beans before ploughing in; Finished,"<ul>
+<li>Spun on W Beans before ploughing in</li>
+<li>Notes: Finished </li>
+</ul>
+","[{'measure': 'rate', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Tundra '}]"
+https://rothamstedfarm.farmos.net/log/1585,2020-02-11 00:00:00,Seeding: winter wheat Graham in LONG HOOS 4 Commercial,,LONG HOOS 4,Graham,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Graham : 450 seeds/m2,Tim Hall,['41'],Drilled; Odds and Ends only,"<ul>
+<li>Drilled</li>
+<li>Notes: Odds &amp; Ends only</li>
+</ul>
+","[{'measure': 'rate', 'value': '450', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1586,2020-02-12 00:00:00,Seeding: winter wheat Graham in DELAFIELD Commercial,,DELAFIELD,Graham,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Graham : 450 seeds/m2,Tim Hall,['41'],Drilled,"<ul>
+<li>Drilled</li>
+</ul>
+","[{'measure': 'rate', 'value': '450', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1587,2020-02-12 00:00:00,Seeding: winter wheat Graham in SCOUT Commercial,,SCOUT,Graham,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Graham : 450 seeds/m2,Tim Hall,['41'],Drilled,"<ul>
+<li>Drilled</li>
+</ul>
+","[{'measure': 'rate', 'value': '450', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1588,2020-03-23 00:00:00,Seeding: spring barley Diablo in GREAT HILL Commercial,,Great Hill,Diablo,JD6620;WES Accord 4m Tyne Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 192 kg/ha,Rob,['40'],Drilled Spring Barley,"<ul>
+<li>Drilled Spring Barley</li>
+</ul>
+","[{'measure': 'rate', 'value': '192', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1589,2020-03-23 00:00:00,Seeding: spring barley Diablo in BUTT CLONG Commercial,,Butt Clong,Diablo,JD6620;WES Accord 4m Tyne Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 192 kg/ha,Rob,['40'],Drilled Spring Barley,"<ul>
+<li>Drilled Spring Barley</li>
+</ul>
+","[{'measure': 'rate', 'value': '192', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1590,2020-03-23 00:00:00,Seeding: spring barley Diablo in Stackyard Woburn Commercial,,Stackyard Woburn,Diablo,JD6620;WES Accord 4m Tyne Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 192 kg/ha,Rob,['40'],Drilled Spring Barley; Block C,"<ul>
+<li>Drilled Spring Barley</li>
+<li>Notes: Block C</li>
+</ul>
+","[{'measure': 'rate', 'value': '192', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1591,2020-03-23 00:00:00,Seeding: spring wheat Tybalt in PARKLANDS Commercial,,PARKLANDS,Tybalt,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Ian Shield,['36'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1592,2020-03-25 00:00:00,Seeding: spring wheat Tybalt in BROADBALK BK/1,,BROADBALK,Tybalt,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat ; Section 3 + 4 Not drilled,"<ul>
+<li>Drilled Sp Wheat </li>
+<li>Notes: Section 3 + 4 Not drilled </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1593,2020-03-26 00:00:00,Seeding: spring oats Elyann in BROADBALK BK/1,,BROADBALK,Elyann,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats ; Section 3 only,"<ul>
+<li>Drilled Sp Oats </li>
+<li>Notes: Section 3 only </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1594,2020-03-26 00:00:00,Seeding: winter beans Tundra in BROADBALK BK/1,,BROADBALK,Tundra,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tundra : 35 seeds/m2,Tim Hall,['41'],Drilled W Beans ; Section 4 only,"<ul>
+<li>Drilled W Beans </li>
+<li>Notes: Section 4 only </li>
+</ul>
+","[{'measure': 'rate', 'value': '35', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tundra '}]"
+https://rothamstedfarm.farmos.net/log/1595,2020-03-31 00:00:00,Seeding: spring oats Elyann in SUMMERDELLS 1 Commercial,,SUMMERDELLS 1,Elyann,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats,"<ul>
+<li>Drilled Sp Oats </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1596,2020-03-31 00:00:00,Seeding: spring oats Elyann in SUMMERDELLS 2 Commercial,,SUMMERDELLS 2,Elyann,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats,"<ul>
+<li>Drilled Sp Oats </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1597,2020-03-31 00:00:00,Seeding: spring barley Diablo in HIGHFIELD 4 Commercial,,HIGHFIELD 4,Diablo,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Ian Shield,['36'],"Drilled Sp Barley ; Started, ploughing a bit hard, but ok","<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Started, ploughing a bit hard, but ok</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1598,2020-04-01 00:00:00,Seeding: spring barley Diablo in HIGHFIELD 4 Commercial,,HIGHFIELD 4,Diablo,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Ian Shield,['36'],"Drilled Sp Barley ; Finished, ploughing a bit hard but ok","<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Finished, ploughing a bit hard but ok</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1599,2020-04-01 00:00:00,Seeding: spring oats Elyann in SUMMERDELLS 1 Commercial,,SUMMERDELLS 1,Elyann,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats,"<ul>
+<li>Drilled Sp Oats </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1600,2020-04-01 00:00:00,Seeding: spring oats Elyann in SUMMERDELLS 2 Commercial,,SUMMERDELLS 2,Elyann,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats,"<ul>
+<li>Drilled Sp Oats </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1601,2020-04-01 00:00:00,Seeding: spring oats Elyann in BONES CLOSE Commercial,,BONES CLOSE,Elyann,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats; Started,"<ul>
+<li>Drilled Sp Oats</li>
+<li>Notes: Started </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1602,2020-04-01 00:00:00,Seeding: spring barley Diablo in HIGHFIELD 5/6 Commercial,,HIGHFIELD 5/6,Diablo,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Ian Shield,['36'],Drilled Sp Barley ; Started,"<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Started </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1603,2020-04-02 00:00:00,Seeding: spring oats Elyann in BONES CLOSE Commercial,,BONES CLOSE,Elyann,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats; Finished,"<ul>
+<li>Drilled Sp Oats</li>
+<li>Notes: Finished </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1604,2020-04-02 00:00:00,Seeding: spring wheat Tybalt in SAWYERS 4 Commercial,,SAWYERS 4,Tybalt,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1605,2020-04-02 00:00:00,Seeding: spring wheat Tybalt in SAWYERS 2 Commercial,,SAWYERS 2,Tybalt,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1606,2020-04-02 00:00:00,Seeding: spring wheat Tybalt in NEW ZEALAND Commercial,,NEW ZEALAND,Tybalt,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Ian Shield,['36'],Drilled Sp Wheat ; Started,"<ul>
+<li>Drilled Sp Wheat </li>
+<li>Notes: Started </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1607,2020-04-02 00:00:00,Seeding: spring wheat Tybalt in SAWYERS 1 Commercial,,SAWYERS 1,Tybalt,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Ian Shield,['36'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1608,2020-04-03 00:00:00,Seeding: spring wheat Tybalt in BROAD MEAD Commercial,,Broad Mead,Tybalt,JD6620;WES Accord 4m Tyne Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Rob,['40'],Drilled Sp Wheat ; Drilled surrounds of WW/2033,"<ul>
+<li>Drilled Sp Wheat </li>
+<li>Notes: Drilled surrounds of WW/2033</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1609,2020-04-03 00:00:00,Seeding: spring wheat Tybalt in NEW ZEALAND Commercial,,NEW ZEALAND,Tybalt,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Ian Shield,['36'],Drilled Sp Wheat ; Finished,"<ul>
+<li>Drilled Sp Wheat </li>
+<li>Notes: Finished </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1610,2020-04-03 00:00:00,Seeding: spring wheat Tybalt in LITTLE KNOTT 1 Commercial,,LITTLE KNOTT 1,Tybalt,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Ian Shield,['36'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1611,2020-04-03 00:00:00,Seeding: spring wheat Tybalt in LITTLE KNOTT 2 Commercial,,LITTLE KNOTT 2,Tybalt,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Ian Shield,['36'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1612,2020-04-06 00:00:00,Seeding: spring barley Diablo in HIGHFIELD 5/6 Commercial,,HIGHFIELD 5/6,Diablo,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Ian Shield,['36'],Drilled Sp Barley ; Finished,"<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Finished</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1613,2020-04-06 00:00:00,Seeding: spring barley Diablo in WHITEHORSE 2 Commercial,,WHITEHORSE 2,Diablo,JD6830;Horsch CO4,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Barley,"<ul>
+<li>Drilled Sp Barley </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1614,2020-04-06 00:00:00,Seeding: spring wheat Tybalt in CLAYCROFT Commercial,,CLAYCROFT,Tybalt,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat ; Started,"<ul>
+<li>Drilled Sp Wheat </li>
+<li>Notes: Started</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1615,2020-04-07 00:00:00,Seeding: spring wheat Tybalt in CLAYCROFT Commercial,,CLAYCROFT,Tybalt,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat ; Finished,"<ul>
+<li>Drilled Sp Wheat </li>
+<li>Notes: Finished </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1616,2020-04-08 00:00:00,Seeding: spring barley Diablo in SAWYERS 3 Commercial,,SAWYERS 3,Diablo,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Barley ; Started,"<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Started</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1617,2020-04-09 00:00:00,Seeding: spring barley Diablo in SAWYERS 3 Commercial,,SAWYERS 3,Diablo,JD6930;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Barley ; Finished,"<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Finished</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1618,2020-04-09 00:00:00,Seeding: spring barley Diablo in PASTURES Commercial,,PASTURES,Diablo,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Barley ; North West corner left undrilled - Site for GM camelina,"<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: North West corner left undrilled - Site for GM camelina</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1619,2020-04-20 00:00:00,Seeding: spring linseed Empress in AGDELL/HARWOODS Commercial,,AGDELL/HARWOODS,Empress,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Empress : 650 seeds/m2,Tim Hall,['41'],Drilled Spring Linseed; Rate 51 kg/ha;Seed dressing: R/C,"<ul>
+<li>Drilled Spring Linseed</li>
+<li>Notes: Rate 51 kg/ha</li>
+<li>Seed dressing: R/C</li>
+</ul>
+","[{'measure': 'rate', 'value': '650', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Empress '}]"
+https://rothamstedfarm.farmos.net/log/1620,2020-04-21 00:00:00,Seeding: spring linseed Empress in WEST BARNFIELD 1/2 Commercial,,WEST BARNFIELD 1/2,Empress,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Empress : 650 seeds/m2,Tim Hall,['41'],Drilled Spring Linseed; Rate 51 kg/ha;Seed dressing: R/C,"<ul>
+<li>Drilled Spring Linseed</li>
+<li>Notes: Rate 51 kg/ha</li>
+<li>Seed dressing: R/C</li>
+</ul>
+","[{'measure': 'rate', 'value': '650', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Empress '}]"
+https://rothamstedfarm.farmos.net/log/1621,2020-04-23 00:00:00,Seeding: spring linseed Empress in DELHARDING Commercial,,DELHARDING,Empress,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Empress : 650 seeds/m2,Tim Hall,['41'],Drilled Spring Linseed;Seed dressing: R/C,"<ul>
+<li>Drilled Spring Linseed</li>
+<li>Seed dressing: R/C</li>
+</ul>
+","[{'measure': 'rate', 'value': '650', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Empress '}]"
+https://rothamstedfarm.farmos.net/log/1622,2020-04-24 00:00:00,Seeding: spring linseed Empress in FOSTERS CORNER Commercial,,FOSTERS CORNER,Empress,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Empress : 650 seeds/m2,Tim Hall,['41'],Drilled Spring Linseed;Seed dressing: R/C,"<ul>
+<li>Drilled Spring Linseed</li>
+<li>Seed dressing: R/C</li>
+</ul>
+","[{'measure': 'rate', 'value': '650', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Empress '}]"
+https://rothamstedfarm.farmos.net/log/1623,2020-04-27 00:00:00,Seeding: spring barley Diablo in STACKYARD Commercial,,STACKYARD,Diablo,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Barley ; Drilled Sp Barley as beans had failed ;Seed dressing: Beret Gold,"<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Drilled Sp Barley as beans had failed </li>
+<li>Seed dressing: Beret Gold</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1624,2020-05-05 00:00:00,Seeding: spring OSR Mirakel in FURZEFIELD Commercial,,FURZEFIELD,Mirakel,JD6830;Accord Combination Drill,Commercial;Plantings;Excel upload,,Seed rate Mirakel: 100 seeds/m2,Tim Hall,['41'],Drilled SOSR;Seed dressing: Radiate,"<ul>
+<li>Drilled SOSR</li>
+<li>Seed dressing: Radiate</li>
+</ul>
+","[{'measure': 'rate', 'value': '100', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Mirakel'}]"
+https://rothamstedfarm.farmos.net/log/1625,2019-10-22 00:00:00,Seeding: winter oats Mascani in Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,Miscani,JD6620;WES Accord 4m Tyne Drill,Plantings;Excel upload,,Seed rate Mascani : 350 seeds/m2,Rob,['40'],"Drilled W Oats ; 2 plots block 3, 2 plots block 5","<ul>
+<li>Drilled W Oats </li>
+<li>Notes: 2 plots block 3, 2 plots block 5</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Mascani '}]"
+https://rothamstedfarm.farmos.net/log/1626,2020-03-24 00:00:00,Seeding: spring barley Diablo in HOOS FIELD HB/2,HOOS FIELD,HOOS BARLEY,Diablo,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Barley,"<ul>
+<li>Drilled Sp Barley </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1627,2020-03-30 00:00:00,Seeding: spring barley Diablo in RRES LSRE Site CS/790,,RRES LSRE Site,Diablo,JD6830;Weaving Drill,Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Tim Hall,['41'],"Drilled Sp Barley ; Drilled plots 5, 7, 12 and 16","<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Drilled plots 5, 7, 12 and 16</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1628,2020-03-31 00:00:00,Seeding: spring barley Diablo in RRES LSRE Site CS/790,,RRES LSRE Site,Diablo,JD6930;Accord Combination Drill,Plantings;Excel upload,,Seed rate Diablo : 188 kg/ha,Ian Shield,['36'],Drilled Sp Barley ; Drilled inversion spring barley plots,"<ul>
+<li>Drilled Sp Barley </li>
+<li>Notes: Drilled inversion spring barley plots</li>
+</ul>
+","[{'measure': 'rate', 'value': '188', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1629,2020-05-06 00:00:00,Seeding: spring barley Diablo in RRES LSRE Site CS/790,,RRES LSRE Site,Diablo,JD6830;Weaving Drill,Plantings;Excel upload,,Seed rate Diablo : 350 seeds/m2,Tim Hall,['41'],Drilled Spring Barley ; Re-drilled one run only on eastern edge of plot 16 - this run did not establish for unknown reason;Seed dressing: Beret Gold,"<ul>
+<li>Drilled Spring Barley </li>
+<li>Notes: Re-drilled one run only on eastern edge of plot 16 - this run did not establish for unknown reason</li>
+<li>Seed dressing: Beret Gold</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Diablo '}]"
+https://rothamstedfarm.farmos.net/log/1630,2020-03-30 00:00:00,Seeding: spring beans Fuego in RRES LSRE Site CS/790,,RRES LSRE Site,Fuego,JD6830;Weaving Drill,Plantings;Excel upload,,Seed rate Fuego : 45 seeds/m2,Tim Hall,['41'],"Drilled Sp Beans; Drilled plots 4, 9, 11, 15, 18, 28, 31, 35, 42, 48, 52 and 54","<ul>
+<li>Drilled Sp Beans</li>
+<li>Notes: Drilled plots 4, 9, 11, 15, 18, 28, 31, 35, 42, 48, 52 and 54</li>
+</ul>
+","[{'measure': 'rate', 'value': '45', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Fuego '}]"
+https://rothamstedfarm.farmos.net/log/1631,2020-03-31 00:00:00,Seeding: spring beans Fuego in RRES LSRE Site CS/790,,RRES LSRE Site,Fuego,JD6930;Accord Combination Drill,Plantings;Excel upload,,Seed rate Fuego : 296 kg/ha,Ian Shield,['36'],Drilled Sp Beans ; Drilled all inversion spring bean plots,"<ul>
+<li>Drilled Sp Beans </li>
+<li>Notes: Drilled all inversion spring bean plots</li>
+</ul>
+","[{'measure': 'rate', 'value': '296', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Fuego '}]"
+https://rothamstedfarm.farmos.net/log/1632,2020-04-24 00:00:00,Seeding: spring linseed Empress in RRES LSRE Site CS/790,,RRES LSRE Site,Empress,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Empress : 650 seeds/m2,Tim Hall,['41'],Drilled Spring Linseed; Plots 20 and 53 only;Seed dressing: R/C,"<ul>
+<li>Drilled Spring Linseed</li>
+<li>Notes: Plots 20 &amp; 53 only</li>
+<li>Seed dressing: R/C</li>
+</ul>
+","[{'measure': 'rate', 'value': '650', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Empress '}]"
+https://rothamstedfarm.farmos.net/log/1633,2020-05-06 00:00:00,Seeding: spring linseed Empress in RRES LSRE Site CS/790,,RRES LSRE Site,Empress,JD6830;Weaving Drill,Plantings;Excel upload,,Seed rate Empress : 650 seeds/m2,Tim Hall,['41'],Drilled Sp Linseed; Plots 37 and 40,"<ul>
+<li>Drilled Sp Linseed</li>
+<li>Notes: Plots 37 &amp; 40</li>
+</ul>
+","[{'measure': 'rate', 'value': '650', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Empress '}]"
+https://rothamstedfarm.farmos.net/log/1634,2020-03-26 00:00:00,Seeding: spring oats Elyann in DRAPERS RS/2003,DRAPERS,2020/R/RS/2003,Elyann,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats,"<ul>
+<li>Drilled Sp Oats </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1635,2020-03-26 00:00:00,Seeding: spring oats Elyann in NEW ZEALAND RS/2009,NEW ZEALAND,2020/R/RS/2009,Elyann,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats,"<ul>
+<li>Drilled Sp Oats </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1636,2020-03-27 00:00:00,Seeding: spring oats Elyann in HIGHFIELD LEY ARABLES RN/1 Oats,HIGHFIELD LEY ARABLES,2020/R/RN/1 Oats,Elyann,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats,"<ul>
+<li>Drilled Sp Oats </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1637,2020-03-27 00:00:00,Seeding: spring oats Elyann in FOSTERS LEY ARABLES RN/2 Oats,FOSTERS LEY ARABLES,2020/R/RN/2 Oats,Elyann,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats,"<ul>
+<li>Drilled Sp Oats </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1638,2020-04-07 00:00:00,Seeding: spring oats Elyann in SAWYERS 1 CS/715,SAWYERS 1,CS-715 Oat plots;CS-715 Oat surrounds,Elyann,JD6930;Accord Combination Drill,Excel upload;Plantings,,Seed rate Elyann : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Oats; Northern half only,"<ul>
+<li>Drilled Sp Oats</li>
+<li>Notes: Northern half only </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Elyann '}]"
+https://rothamstedfarm.farmos.net/log/1639,2020-03-24 00:00:00,Seeding: spring wheat Tybalt in HOOS FIELD EX/4,HOOS FIELD,2020/R/EX/4,Tybalt,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1640,2020-03-24 00:00:00,Seeding: spring wheat Tybalt in HOOS FIELD RS/9,HOOS FIELD,2020/R/RS/9,Tybalt,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1641,2020-03-24 00:00:00,Seeding: spring wheat Tybalt in HOOS FIELD WF/3,HOOS FIELD,2020/R/WF/3,Tybalt,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1642,2020-03-27 00:00:00,Seeding: spring wheat Tybalt in HIGHFIELD 1/2/3 CS/767,GEESCROFT,2020/R/CS/767,Tybalt,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1643,2020-03-27 00:00:00,Seeding: spring wheat Tybalt in RRES LSRE Site CS/790,,RRES LSRE Site,Tybalt,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],"Drilled Sp Wheat ; Drilled plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51 and 55","<ul>
+<li>Drilled Sp Wheat </li>
+<li>Notes: Drilled plots 1, 6, 10, 13, 14, 17, 24, 32, 39, 41, 51 and 55</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1644,2020-03-27 00:00:00,Seeding: spring wheat Tybalt in HIGHFIELD LEY ARABLES RN/1 Wheat,HIGHFIELD LEY ARABLES,2020/R/RN/1 Wheat,Tybalt,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1645,2020-03-27 00:00:00,Seeding: spring wheat Tybalt in FOSTERS LEY ARABLES RN/2 Wheat,FOSTERS LEY ARABLES,2020/R/RN/2 Wheat,Tybalt,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat,"<ul>
+<li>Drilled Sp Wheat </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1646,2020-04-07 00:00:00,Seeding: spring wheat Tybalt in SAWYERS 1 CS/715,SAWYERS 1,CS-715 Wheat Plots;CS-715 Wheat Surrounds,Tybalt,JD6930;Accord Combination Drill,Excel upload;Plantings,,Seed rate Tybalt : 350 seeds/m2,Tim Hall,['41'],Drilled Sp Wheat; Southern half only,"<ul>
+<li>Drilled Sp Wheat</li>
+<li>Notes: Southern half only </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Tybalt '}]"
+https://rothamstedfarm.farmos.net/log/1647,2019-10-22 00:00:00,Seeding: winter beans Tundra in Stackyard Woburn RN/12,Stackyard Woburn,2020/W/RN/12,Tundra,JD6620;WES Accord 4m Tyne Drill,Plantings;Excel upload,,Seed rate Tundra : False kg/ha,Rob,['40'],Drilled W Beans,"<ul>
+<li>Drilled W Beans</li>
+</ul>
+","[{'measure': 'rate', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Tundra '}]"
+https://rothamstedfarm.farmos.net/log/1648,2019-10-22 00:00:00,Seeding: winter beans Tundra in Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,Tundra,JD6620;WES Accord 4m Tyne Drill,Plantings;Excel upload,,Seed rate Tundra : False kg/ha,Rob,['40'],"Drilled W Beans ; 2 plots Block 3, 2 plots block 5","<ul>
+<li>Drilled W Beans </li>
+<li>Notes: 2 plots Block 3, 2 plots block 5</li>
+</ul>
+","[{'measure': 'rate', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/148', 'id': '148', 'resource': 'taxonomy_term', 'name': 'kg/ha'}, 'label': 'Seed rate Tundra '}]"
+https://rothamstedfarm.farmos.net/log/1649,2019-10-03 00:00:00,Seeding: winter wheat Zyatt in RRES LSRE Site CS/790,,RRES LSRE Site,Zyatt,JD6830;Weaving Drill,Plantings;Excel upload,,Seed rate Zyatt : 350 seeds/m2,Tim Hall,['41'],"Drilled W Wheat ; Plots 26, 33, 38, 47, 57, 60","<ul>
+<li>Drilled W Wheat </li>
+<li>Notes: Plots 26, 33, 38, 47, 57, 60</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Zyatt '}]"
+https://rothamstedfarm.farmos.net/log/1650,2019-10-22 00:00:00,Seeding: winter wheat Crusoe in Stackyard Woburn RN/3,Stackyard Woburn,2020/W/RN/3,Crusoe,JD6620;WES Accord 4m Tyne Drill,Plantings;Excel upload,,Seed rate Crusoe: 350 seeds/m2,Rob,['40'],Drilled W wheat ; All of block 1,"<ul>
+<li>Drilled W wheat </li>
+<li>Notes: All of block 1</li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Crusoe'}]"
+https://rothamstedfarm.farmos.net/log/1651,2019-10-31 00:00:00,Seeding: winter wheat Graham in NEW ZEALAND CS/760,NEW ZEALAND,2020/R/CS/760,Graham,JD5070;Accord Combination Drill,Plantings;Excel upload,,Seed rate Graham : 350 seeds/m2,Tim Hall,['41'],Drilled W Wheat ; Surrounds of experiment,"<ul>
+<li>Drilled W Wheat </li>
+<li>Notes: Surrounds of experiment </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1652,2019-10-31 00:00:00,Seeding: winter wheat Graham in LONG HOOS 5 CS/773,LONG HOOS 5,2020/R/CS/773,Graham,JD5070;Accord Combination Drill,Plantings;Excel upload,,Seed rate Graham : 350 seeds/m2,Tim Hall,['41'],Drilled W Wheat ; Surrounds of experiment,"<ul>
+<li>Drilled W Wheat </li>
+<li>Notes: Surrounds of experiment </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1653,2019-10-31 00:00:00,Seeding: winter wheat Graham in LONG HOOS 4 CS/778,LONG HOOS 4,2020/R/CS/778,Graham,JD5070;Accord Combination Drill,Plantings;Excel upload,,Seed rate Graham : 350 seeds/m2,Tim Hall,['41'],Drilled W Wheat ; Surrounds of experiment,"<ul>
+<li>Drilled W Wheat </li>
+<li>Notes: Surrounds of experiment </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1654,2019-10-31 00:00:00,Seeding: winter wheat Graham in LONG HOOS 6/7 CS/789,LONG HOOS 6/7,2020/R/CS/789,Graham,JD6830;Accord Combination Drill,Plantings;Excel upload,,Seed rate Graham : 350 seeds/m2,Tim Hall,['41'],Drilled W Wheat ; Surrounds of experiment,"<ul>
+<li>Drilled W Wheat </li>
+<li>Notes: Surrounds of experiment </li>
+</ul>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Graham '}]"
+https://rothamstedfarm.farmos.net/log/1655,2019-08-26 00:00:00,Seeding: winter OSR Campus in RRES LSRE Site CS/790,,RRES LSRE Site,Campus,JD6830;Weaving Drill,Plantings;Excel upload,,Seed rate Campus: 80 seeds/m2,Chris Mackay,['16'],Drilled WOSR; Plots 22 and 27 only ;Seed dressing: Radiate,"<ul>
+<li>Drilled WOSR</li>
+<li>Notes: Plots 22 &amp; 27 only </li>
+<li>Seed dressing: Radiate</li>
+</ul>
+","[{'measure': 'rate', 'value': '80', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Campus'}]"
+https://rothamstedfarm.farmos.net/log/1656,2019-08-28 00:00:00,Seeding: winter OSR Campus in RRES LSRE Site CS/790,,RRES LSRE Site,Campus,JD6930;Accord Combination Drill,Plantings;Excel upload,,Seed rate Campus: 80 seeds/m2,Chris Mackay,['16'],"Drilled WOSR; Only plots 02, 34, 36, 50;Seed dressing: Radiate","<ul>
+<li>Drilled WOSR</li>
+<li>Notes: Only plots 02, 34, 36, 50</li>
+<li>Seed dressing: Radiate</li>
+</ul>
+","[{'measure': 'rate', 'value': '80', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/147', 'id': '147', 'resource': 'taxonomy_term', 'name': 'seeds/m2'}, 'label': 'Seed rate Campus'}]"
+https://rothamstedfarm.farmos.net/log/1657,2020-04-02 00:00:00,Seeding: winter wheat Crusoe in BROAD MEAD WW/2033,Broad Mead,2020/W/WW/2033,Crusoe,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Rob,"['16', '40']",Drilled plots; Guard plots = Crusoe,"<ul>
+<li>Drilled plots</li>
+<li>Notes: Guard plots = Crusoe</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1659,2019-10-29 00:00:00,Seeding: winter wheat in BYLANDS WW/2014,BYLANDS,2020/R/WW/2014,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']","Drilled; Drilled Block 1, Not possible to roll","<ul>
+<li>Drilled</li>
+<li>Notes: Drilled Block 1, Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1660,2019-10-29 00:00:00,Seeding: winter wheat in MEADOW WW/2029,MEADOW,2020/R/WW/2029,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled ; Not possible to roll,"<ul>
+<li>Drilled </li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1661,2019-10-29 00:00:00,Seeding: winter wheat in MEADOW WW/2032,MEADOW,2020/R/WW/2032,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled; Not possible to roll,"<ul>
+<li>Drilled</li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1662,2019-10-30 00:00:00,Seeding: winter wheat in BYLANDS WW/2014,BYLANDS,2020/R/WW/2014,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']","Drilled; Drilled Blocks 2and3, Not possible to roll","<ul>
+<li>Drilled</li>
+<li>Notes: Drilled Blocks 2&amp;3, Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1663,2019-10-30 00:00:00,Seeding: winter wheat in MEADOW WW/2018,MEADOW,2020/R/WW/2018,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled ; Not possible to roll,"<ul>
+<li>Drilled </li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1664,2019-10-31 00:00:00,Seeding: winter wheat in NEW ZEALAND CS/760,NEW ZEALAND,2020/R/CS/760,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled; Not possible to roll,"<ul>
+<li>Drilled</li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1665,2019-10-31 00:00:00,Seeding: winter wheat in LONG HOOS 5 CS/773,LONG HOOS 5,2020/R/CS/773,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled ; Not possible to roll,"<ul>
+<li>Drilled </li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1666,2019-10-31 00:00:00,Seeding: winter wheat in LONG HOOS 4 CS/778,LONG HOOS 4,2020/R/CS/778,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled; Not possible to roll,"<ul>
+<li>Drilled</li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1667,2019-10-31 00:00:00,Seeding: winter wheat in LONG HOOS 6/7 CS/789,LONG HOOS 6/7,2020/R/CS/789,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled ; Not possible to roll,"<ul>
+<li>Drilled </li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1668,2019-10-31 00:00:00,Seeding: winter wheat in LONG HOOS 1/2 + 3 WW/2019,LONG HOOS 1/2 + 3,2020/R/WW/2019,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled ; Not possible to roll,"<ul>
+<li>Drilled </li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1669,2019-10-31 00:00:00,Seeding: winter wheat in LONG HOOS 1/2 + 3 WW/2022,LONG HOOS 1/2 + 3,2020/R/WW/2022,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled; Not possible to roll,"<ul>
+<li>Drilled</li>
+<li>Notes: Not possible to roll</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1670,2019-11-21 00:00:00,Seeding: winter wheat in MEADOW WW/2015,MEADOW,2020/R/WW/2015,Winter Wheat,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Ian Shield;Tim Hall,"['36', '41']","Drilled; Very wet, plot 106 mixed with plot 107, plot 106 drilled mixed plot 107 blank","<ul>
+<li>Drilled</li>
+<li>Notes: Very wet, plot 106 mixed with plot 107, plot 106 drilled mixed plot 107 blank </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1671,2019-11-21 00:00:00,Seeding: winter wheat in MEADOW WW/2016,MEADOW,2020/R/WW/2016,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Martin Gardner;Christoph Russell,"['20', '37']",Drilled,"<ul>
+<li>Drilled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1672,2019-12-05 00:00:00,Seeding: winter wheat in Stackyard Woburn WW/2001,Stackyard Woburn,2020/W/WW/2001,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled; Plot 11 dropped early may be a bit short,"<ul>
+<li>Drilled</li>
+<li>Notes: Plot 11 dropped early may be a bit short </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1673,2020-01-30 00:00:00,Seeding: winter wheat in OSIER WW/2017,OSIER,2020/R/WW/2017,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Tim Hall,"['16', '41']","Drilled; not rolled, 2 extra guard runs drilled","<ul>
+<li>Drilled</li>
+<li>Notes: not rolled, 2 extra guard runs drilled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1674,2020-01-30 00:00:00,Seeding: winter wheat in OSIER WW/2030,OSIER,2020/R/WW/2030,Winter Wheat,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Martin Gardner;Christoph Russell,"['20', '37']",Drilled ; not rolled,"<ul>
+<li>Drilled </li>
+<li>Notes: not rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1675,2020-01-30 00:00:00,Seeding: winter wheat in OSIER WW/2031+2034,OSIER,2020/R/WW/2031+2034,Winter Wheat,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Martin Gardner;Christoph Russell,"['20', '37']","Drilled ; Not rolled, see plan for more details, plots 719 and 720 mixed and 698, 699 and 700 mixed","<ul>
+<li>Drilled </li>
+<li>Notes: Not rolled, see plan for more details, plots 719 &amp; 720 mixed and 698, 699 &amp; 700 mixed</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1676,2020-01-31 00:00:00,Seeding: winter wheat in OSIER WW/2006,OSIER,2020/R/WW/2006,Winter Wheat,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Martin Gardner;Christoph Russell,"['20', '37']",Drilled ; not rolled,"<ul>
+<li>Drilled </li>
+<li>Notes: not rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1677,2020-01-31 00:00:00,Seeding: winter wheat in OSIER WW/2011,OSIER,2020/R/WW/2011,Winter Wheat,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Martin Gardner;Christoph Russell,"['20', '37']",Drilled; Not rolled,"<ul>
+<li>Drilled</li>
+<li>Notes: Not rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1678,2020-02-03 00:00:00,Seeding: winter wheat in OSIER WW/2045,OSIER,2020/R/WW/2045,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Martin Gardner;Christoph Russell,"['20', '37']",Drilled; not rolled,"<ul>
+<li>Drilled</li>
+<li>Notes: not rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1679,2020-02-04 00:00:00,Seeding: winter wheat in OSIER WW/2026,OSIER,2020/R/WW/2026,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled; Not rolled,"<ul>
+<li>Drilled</li>
+<li>Notes: Not rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1680,2020-02-04 00:00:00,Seeding: winter wheat in OSIER WW/2039,OSIER,2020/R/WW/2039,Winter Wheat,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled; not rolled,"<ul>
+<li>Drilled</li>
+<li>Notes: not rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1681,2020-02-04 00:00:00,Seeding: winter wheat in OSIER WW/2042,OSIER,2020/R/WW/2042,Winter Wheat,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Martin Gardner;Christoph Russell,"['20', '37']","Drilled; Not rolled, possible plot mixing of 19 and 20","<ul>
+<li>Drilled</li>
+<li>Notes: Not rolled, possible plot mixing of 19 &amp; 20</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1682,2020-02-04 00:00:00,Seeding: winter wheat in OSIER WW/2035+2046,OSIER,2020/R/WW/2035+2046,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled; Not rolled,"<ul>
+<li>Drilled</li>
+<li>Notes: Not rolled</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1683,2020-02-06 00:00:00,Seeding: winter wheat in SAWYERS 1 CS/10,SAWYERS 1,2020/R/CS/10,Winter Wheat,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Christoph Russell,"['16', '37']",Drilled  ; Not rolled,"<ul>
+<li>Drilled  </li>
+<li>Notes: Not rolled </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1684,2020-04-01 00:00:00,Seeding: spring wheat in SAWYERS 1 WS/2047,SAWYERS 1,2020/R/WS/2047,,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Chris Mackay,['16'],"Drilled plots; Drilled jammed in run 2 (not sure when), Plot 90 was dropped early so it will be staggerd back a bit","<ul>
+<li>Drilled plots</li>
+<li>Notes: Drilled jammed in run 2 (not sure when), Plot 90 was dropped early so it will be staggerd back a bit</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1685,2020-04-01 00:00:00,Seeding: spring wheat in SAWYERS 1 WS/2049,SAWYERS 1,2020/R/WS/2049,,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Chris Mackay,['16'],Drilled plots,"<ul>
+<li>Drilled plots</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1686,2020-04-01 00:00:00,Seeding: spring wheat in SAWYERS 1 WS/2055,SAWYERS 1,2020/R/WS/2055,,JD5070;Haldrup SB25 Plot Drill,Plantings;Excel upload,,,Chris Mackay,['16'],Drilled plots,"<ul>
+<li>Drilled plots</li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1687,2020-04-07 00:00:00,Seeding: spring wheat in GREAT FIELD 1/2 WS/2054,GREAT FIELD 1/2,2020/R/WS/2054,,JD5620;Haldrup SR30 Plot Drill,Plantings;Excel upload,,,Chris Mackay;Martin Gardner,"['16', '20']",Drilled plots; All drilled in one direction see plan,"<ul>
+<li>Drilled plots</li>
+<li>Notes: All drilled in one direction see plan </li>
+</ul>
+",[]
+https://rothamstedfarm.farmos.net/log/1760,2019-11-23 00:00:00,"Drilling: Extase, Sundance, Mowtown in RRES LSRE Site",,RRES LSRE Site,Extase,,Plantings,0:00:00,Seed rate (SM2): 350 SM2,Tim Hall,['41'],"Mixed Wheat, Extase (Beret Gold), Sundance (Beret Gold), Mowtown (Redigo pro), 1/3 equal quantities of each variety.;Plots 25, 43, 44, 49, 58, 59.","<p>Mixed Wheat, Extase (Beret Gold), Sundance (Beret Gold), Mowtown (Redigo pro), 1/3 equal quantities of each variety.<br />
+Plots 25, 43, 44, 49, 58, 59.</p>
+","[{'measure': 'rate', 'value': '350', 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/237', 'id': '237', 'resource': 'taxonomy_term', 'name': 'SM2'}, 'label': 'Seed rate (SM2)'}, {'measure': 'time', 'value': False, 'unit': {'uri': 'https://rothamstedfarm.farmos.net/taxonomy_term/262', 'id': '262', 'resource': 'taxonomy_term', 'name': 'hours'}, 'label': False}]"

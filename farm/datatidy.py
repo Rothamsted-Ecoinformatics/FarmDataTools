@@ -57,7 +57,7 @@ def print_categories_list_csv():
     print_list_csv(items,"data/categoriesList.csv","tid")
 
 def fetch_fertilisers_list():
-    items = farm().term.get("farm_materials")["list"]
+    items = farm.term.get("farm_materials")["list"]
     return [f for f in items for p in f["parent"] if p["name"] == "FERTILISERS"]
 
 def print_fertilisers_list_csv():
@@ -68,8 +68,28 @@ def get_log(logId):
     print(json.dumps(log, indent=4, sort_keys=True))
 
 def get_planting(logId):
-    log = farm().asset.get(logId)
+    log = farm.asset.get(logId)
     print(json.dumps(log, indent=4, sort_keys=True))
+
+def get_equipment(logId):
+    log = farm.asset.get(logId)
+    print(json.dumps(log, indent=4, sort_keys=True))
+
+def get_area(area_id):
+    log = farm.area.get(area_id)["list"]
+    print(json.dumps(log, indent=4, sort_keys=True))
+
+def get_parent_field(id):
+    area = farm.area.get(id)["list"]
+
+    print(json.dumps(area, indent=4, sort_keys=True))
+
+    if area[0]["area_type"] == "bed":
+        parents = area[0]["parent"] 
+        parent = parents[0]["name"]
+        print(parent)
+    else:
+        print(json.dumps(area, indent=4, sort_keys=True))
 
 def get_term(termId):
     return farm().term.get(termId)
