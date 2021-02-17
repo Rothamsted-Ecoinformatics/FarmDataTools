@@ -31,7 +31,9 @@ token = farm.authorize(username, password, scope="user_access")
 def main():
     pass
 
-#fertilisers = fetch_fertilisers_list()
+def strip_html(text):
+    clean = re.compile('<.*?>')
+    return re.sub(clean, '', text)
 
 def print_list_csv(items, filename, idfield):
     csvwriter = None 
@@ -41,20 +43,38 @@ def print_list_csv(items, filename, idfield):
             csvwriter.writerow([i["name"],i[idfield]])
 
 def print_areas_list_csv():
-    items = farm().area.get()["list"]
+    items = farm.area.get()["list"]
     print_list_csv(items,"data/areasList.csv","tid")
     
 def print_crops_list_csv():
-    items = farm().term.get("farm_crops")["list"]
+    items = farm.term.get("farm_crops")["list"]
     print_list_csv(items,"data/cropsList.csv","tid")
 
 def print_equipment_list_csv():
-    items = farm().asset.get({"type":"Equipment"})["list"]
-    print_list_csv(items,"data/equipmentList.csv","id")
+    items = farm.asset.get({"type":"Equipment"})["list"]
+    csvwriter = None 
+    with open("data/equipmentList.csv","w",newline="") as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=",",quotechar="\"", quoting=csv.QUOTE_MINIMAL)
+        for i in items:
+            desc = ""
+            if i["description"]:
+                desc = strip_html(i["description"]["value"]).replace("\n"," ")       
+                print(desc) 
+            csvwriter.writerow([i["id"],i["name"],i["manufacturer"],i["model"],i["serial_number"],desc])
+
+    #print_list_csv(items,"data/equipmentList2.csv","id")
 
 def print_categories_list_csv():
-    items = farm().term.get("farm_log_categories")["list"]
+    items = farm.term.get("farm_log_categories")["list"]
     print_list_csv(items,"data/categoriesList.csv","tid")
+
+def fetch_materials_list():
+    items = farm.term.get("farm_materials")["list"]
+    return(items)
+    #return [f for f in items for p in f["parent"] if p["name"] == "PESTI"]
+
+def print_materials_list_csv():
+    print_list_csv(fetch_materials_list(),"data/materialsList.csv","tid")
 
 def fetch_fertilisers_list():
     items = farm.term.get("farm_materials")["list"]
@@ -78,6 +98,7 @@ def get_equipment(logId):
 def get_area(area_id):
     log = farm.area.get(area_id)["list"]
     print(json.dumps(log, indent=4, sort_keys=True))
+    return log
 
 def get_parent_field(id):
     area = farm.area.get(id)["list"]
@@ -92,10 +113,10 @@ def get_parent_field(id):
         print(json.dumps(area, indent=4, sort_keys=True))
 
 def get_term(termId):
-    return farm().term.get(termId)
+    return farm.term.get(termId)
 
 def delete_log(logId):
-    farm().log.delete(logId)
+    farm.log.delete(logId)
  
 def load_excel_data():
     xl = pandas.ExcelFile("Electronic farm diary 2020 vRO.xlsx")
@@ -130,7 +151,7 @@ def load_excel_data():
     return df
 
 def decode_staff(people_string):
-    staff_lookup = {"AA":59,"BF":50,"CM":16,"IS":36,"CR":37,"TH":41,"MG":20,"RC":40,"BS":43,"FL":39,"NC":3}
+    staff_lookup = {"AA":59,"BF":50,"CM":16,"IS":36,"CR":37,"TH":41,"MG":20,"RC":40,"BS":43,"FL":39,"NC":3,"MG":69,"MG":69,"BHB":68,"MB":67,"HH":66}
     people = people_string.split("+")
     return (pandas.Series(people)).map(staff_lookup) 
 
@@ -139,7 +160,7 @@ def decode_fertiliser_materials(materials_string=""):
     ml = materials_string.split("+")
     for ms in ml:
         m = ms.split("@")[0].strip()
-        id = [f["tid"] for f in fertilisers if f["name"] == m]
+        id = [f["tid"] for f in materials if f["name"] == m]
         materials.append({"id":id[0],"name":m, "resource": "taxonomy_term"})
 
     return materials
@@ -210,13 +231,33 @@ def decode_equipment(tractor,machine):
         equipment.append({"id":machine,"resource": "farm_asset"})
     return equipment
 
-def find_logs_for_material_id():
+def find_logs_for_area_id(area_id):
+    logs = farm.log.get()["list"]
+    
+    for log in logs:
+       # print(log["url"]) 
+        #print(json.dumps(log, indent=4, sort_keys=True))
+        if log["movement"]: 
+            mov = log["movement"]
+            areas = mov["area"]
+            for area in areas:
+                if area["id"] == area_id:
+                    print("--- AREA ---")
+                    print(log["url"])
+        elif log["area"]:
+            areas = log["area"]
+            for area in areas:
+                if area["id"] == area_id:
+                    print("--- AREA ---")
+                    print(log["url"])
+
+def find_logs_for_material_id(log_id):
     filters = {
         'type': 'farm_input'
     }
-    logs = farm().log.get(filters=filters)["list"]
+    logs = farm.log.get(filters=filters)["list"]
     
-    urls = [log["url"] for log in logs for m in log["material"] if m["id"] == "576"]
+    urls = [log["url"] for log in logs for m in log["material"] if m["id"] == log_id]
     for url in urls:
         print(url)
 
@@ -224,7 +265,7 @@ def find_logs_for_unit_id():
     filters = {
         'type': 'farm_input'
     }
-    logs = farm().log.get(filters=filters)["list"]
+    logs = farm.log.get(filters=filters)["list"]
     
     urls = [log["url"] for log in logs for m in log["material"] if m["id"] == "576"]
     for url in urls:
@@ -234,7 +275,7 @@ def find_logs_for_crop_id():
     filters = {
         'type': 'farm_input'
     }
-    logs = farm().log.get(filters=filters)["list"]
+    logs = farm.log.get(filters=filters)["list"]
     
     urls = [log["url"] for log in logs for m in log["material"] if m["id"] == "576"]
     for url in urls:
@@ -244,17 +285,36 @@ def find_logs_for_category_id():
     filters = {
         'type': 'farm_input'
     }
-    logs = farm().log.get(filters=filters)["list"]
+    logs = farm.log.get(filters=filters)["list"]
     
     urls = [log["url"] for log in logs for m in log["material"] if m["id"] == "576"]
     for url in urls:
         print(url)
 
+def update_area_to_archive(area_id):
+    
+    a = get_area(area_id)[0]
+    desc = a["description"]  
+
+    jsonpayload = {}
+    jsonpayload["tid"] = area_id
+    jsonpayload["name"] = a["name"]
+    jsonpayload["vocabulary"] = a["vocabulary"]
+    parent = a["parent"][0]
+    jsonpayload["description"] = (desc + " Experiment formerly located in " +  parent["name"]).strip()
+    jsonpayload["parent"] = [{"id":"830","resource":"taxonomy_term"}]
+    jsonpayload["geofield"] = []
+    #jsonpayload["parents_all"] = []
+    print(jsonpayload)
+    print(farm.term.send(jsonpayload))
+    get_area(area_id)
+
+
 def update_input_log_materials(old, new):
     filters = {
         'type': 'farm_input'
     }
-    logs = farm().log.get(filters=filters)["list"]
+    logs = farm.log.get(filters=filters)["list"]
 
     new_term = get_term(new)
     old_term = get_term(old)
@@ -278,19 +338,13 @@ def update_input_log_materials(old, new):
         data["id"] = log["id"]
         data["quantity"] = newqty
         data["material"] = newmat
-        #print(json.dumps(data, indent=4, sort_keys=True))
-        print(farm().log.send(data))
-        #break
+        print(farm.log.send(data))
 
 def fix_units():
     filters = {
         'type': 'farm_input'
     }
-    logs = farm().log.get(filters=filters)["list"]
-    #ids = [log["id"] for log in logs for cat in log["log_category"] if log["input_purpose"] == "Pesticide" and cat["id"]=="157"]
-    #b = [i for i in mydict.get('entries', [])]
-    
-    #lgs = [log["url"] for log in logs if log["input_purpose"] == "Pesticide"]
+    logs = farm.log.get(filters=filters)["list"]
     
     for lg in logs:
         update = False
@@ -309,14 +363,11 @@ def fix_units():
                     del q["unit"]["uri"]
             newqty.append(q)
         if update:
-            #print(lg["url"] + " : " + str(newqty))
             data = {}
             data["quantity"] = newqty
             data["id"] = lg["id"] #244
-            #print(json.dumps(data, indent=4, sort_keys=True))
-            print(farm().log.send(data))
-            #break
-
+            print(farm.log.send(data))
+        
 def load_activity_log(category,experiment_filter=-1):
     df = load_excel_data()
     
@@ -372,7 +423,7 @@ def load_activity_log(category,experiment_filter=-1):
             f.close()
             with open(fname) as json_file:
                 data = json.load(json_file)
-                print(farm().log.send(data))
+                print(farm.log.send(data))
 
 def load_fertiliser_log(category,experiment_filter=-1):
     df = load_excel_data()
@@ -432,7 +483,7 @@ def load_fertiliser_log(category,experiment_filter=-1):
             f.close()
             with open(fname) as json_file:
                 data = json.load(json_file)
-                print(farm().log.send(data))
+                print(farm.log.send(data))
     
 def load_pesticide_log(category,experiment_filter=-1):
     df = load_excel_data()
@@ -540,7 +591,7 @@ def load_pesticide_log(category,experiment_filter=-1):
             f.close()
             with open(fname) as json_file:
                 data = json.load(json_file)
-                print(farm().log.send(data))
+                print(farm.log.send(data))
 
 def load_seeding_log(category,experiment_filter=-1):
     df = load_excel_data()
@@ -590,7 +641,7 @@ def load_seeding_log(category,experiment_filter=-1):
             asset = {}
             with open(fname) as json_file:
                 data = json.load(json_file)
-                asset = farm().asset.send(data)
+                asset = farm.asset.send(data)
                 print(asset)
 
             # Now for the seeding
@@ -648,11 +699,11 @@ def load_seeding_log(category,experiment_filter=-1):
             with open(fname) as json_file:
                 data = json.load(json_file)
                 
-                print(farm().log.send(data))
+                print(farm.log.send(data))
 
 if __name__ == "__main__":
     main()
-    if sys.argv[1].startswith("get") or sys.argv[1].startswith("delete"):
+    if sys.argv[1].startswith("get") or sys.argv[1].startswith("delete") or sys.argv[1].startswith("find"):
         globals()[sys.argv[1]](",".join(sys.argv[2:]))
     elif sys.argv[1].startswith("load"):
         print("loading...")
@@ -663,7 +714,7 @@ if __name__ == "__main__":
             # category # experiment
             globals()[sys.argv[1]](int(sys.argv[2]),int(sys.argv[3]))
     elif sys.argv[1].startswith("update"):
-        globals()[sys.argv[1]](int(sys.argv[2]),int(sys.argv[3]))
+        globals()[sys.argv[1]](int(sys.argv[2]))
     else:
         print("hello")
         globals()[sys.argv[1]]()
