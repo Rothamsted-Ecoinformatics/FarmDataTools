@@ -9,21 +9,23 @@ import re
 import datetime as dt
 
 config = configparser.ConfigParser()
-config.read("config.ini")
+config.read("config.ini",encoding="utf-8")
+config.sections()
 
-hostname = config["AUTH"]["host"]
-username = config["AUTH"]["username"]
-password = config["AUTH"]["password"]
+hostname = config["AUTHENTICATE"].get("hostname")
+username = config["AUTHENTICATE"]["username"]
+password = config["AUTHENTICATE"]["password"]
+print(hostname)
 
 # Create the client.
 farm = farmOS(
     hostname=hostname,
     client_id = "farm", # Optional. The default oauth client_id "farm" is enabled on all farmOS servers.
-    scope="user_access" # Optional. The default scope is "user_access". Only needed if authorizing with a differnt scope.
+    scope="farm_manager" # Optional. The default scope is "user_access". Only needed if authorizing with a differnt scope.
 )
 
 # Authorize the client, save the token.
-token = farm.authorize(username, password, scope="user_access")
+token = farm.authorize(username, password, scope="farm_manager")
 
 export_fieldnames = ["log_id","log_date","log_name","log_name_orig","field_id","field_name","experiment_id","experiment_name","equipment_list","operators","categories","hours","orig_time","time_units","start","finish","crops","seed_rate","dressing","weight","weight_unit","count","depth","depth_unit","direction_thrown", "direction_of_work","irrigation","irrigation_unit","spray_volume","spray_volume_unit","area_sprayed","area_sprayed_unit","material","mapp","rate","rate_unit","wind_speed","weather_desc","temperature","wind_direction","notes","files","raw_notes","raw_quantity"]
 
@@ -35,6 +37,19 @@ def decode_staff(people):
     ps = ";".join(pandas.Series(people).map(staff_lookup).tolist())
     return ps
 
+def get_log(id):
+    lands = list(farm.asset.iterate('land'))
+
+    f = open("lands.json", "w")
+    #jres = json.loads(lands[0])
+    f.write(json.dumps(lands[0], indent=4, sort_keys=True))
+
+    
+
+    #log = farm.log.get_id('input', id)
+    #
+    #print(json.dumps(jres, indent=4, sort_keys=True))
+    
 def strip_html(text):
     clean = re.compile('<.*?>')
     return re.sub(clean, '', text)
@@ -753,6 +768,7 @@ def list_area_input_logs():
 
 if __name__ == "__main__":
     main()
+    print(sys.argv)
     if sys.argv[1].startswith("get") or sys.argv[1].startswith("delete"):
         globals()[sys.argv[1]](",".join(sys.argv[2:]))
     elif sys.argv[1].startswith("load"):
